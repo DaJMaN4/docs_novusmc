@@ -1,17 +1,66 @@
 ---
-description: Understand workspaces, projects, and how permissions work across the platform.
+description: 11 umiejętności, które rozwijasz podczas zwykłej gry.
 ---
 
 # 🏃 Umiejętności
 
-A few key concepts shape how everything on the platform fits together. You don't need to memorise these — but skimming them now will save you confusion later.
+Postać rozwijasz zwykłą grą. Każda czynność — kopanie, walka, farmienie, łowienie — daje doświadczenie odpowiedniej umiejętności. Kolejne poziomy dają statystyki i odblokowują pasywne zdolności.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-sitemap" style="color:$primary;">:sitemap:</i></h4></td><td><strong>Workspaces &#x26; projects</strong></td><td>The two main containers — and how they relate to each other.</td><td></td></tr><tr><td><h4><i class="fa-lock" style="color:$primary;">:lock:</i></h4></td><td><strong>Permissions</strong></td><td>Who can do what, and how access flows from workspace to project.</td><td></td></tr></tbody></table>
+Menu umiejętności otworzysz komendą **`/staty`**. Każda umiejętność ma **100 poziomów**.
 
-***
+## Lista umiejętności
 
-### The mental model in 30 seconds
+| Umiejętność | Jak zdobyć doświadczenie | Zdolności |
+| --- | --- | --- |
+| 🌾 **Rolnictwo** | Zbieranie plonów | Obfite Zbiory, Rolnik, Mistrz Motyki, Genetyk, Aura Wzrostu |
+| 🪓 **Drwalnictwo** | Ścinanie drzew | Świetny Drwal, Stolarz, Mistrz Topora, Głowica, Trzaskacz |
+| ⛏️ **Górnictwo** | Wydobywanie kamienia i rud | Szczęśliwy Górnik, Górnik, Mistrz Kilofa, Energia, Utwardzona Zbroja |
+| 🎣 **Wędkarstwo** | Łowienie ryb | Szczęśliwy Połów, Rybak, Łowca Skarbów, Hak, Epicki Połów |
+| 🪏 **Wydobywanie** | Kopanie łopatą | Większa Miarka, Wydobywca, Mistrz Szpady, Wykrywacz Metalu, Szczęśliwe Szpady |
+| 🏹 **Łucznictwo** | Strzelanie z łuku do mobów i graczy | Odzyskanie, Łucznik, Mistrz Łuku, Przebicie, Ogłuszenie |
+| 🛡️ **Obrona** | Otrzymywanie obrażeń | Osłona, Obrońca, Mistrz Potworów, Immunitet, Antidotum |
+| ⚔️ **Walka** | Walka bronią białą | Parowanie, Wojownik, Mistrz Miecza, Pierwsze Uderzenie, Krwotok |
+| 🦘 **Zręczność** | Ruch i obrażenia od upadku | Lekki Upadek, Skoczek, Złote Leczenie, Trucht, Kradzież Posiłku |
+| 🧪 **Alchemia** | Warzenie i rzucanie mikstur | Alchemik, Mistrz Warzenia, Kradzież Życia, Złote Serce, Wiedza z Efektu |
+| ✨ **Zaklinanie** | Zaklinanie, łączenie w kowadle, kamień szlifierski | Konwersja XP, Zaklinacz, Mistrz Kowadła, Zaklęta Siła, Szczęśliwy Stół |
 
-You sign up and get an **account**. Your account belongs to one or more **workspaces**. Each workspace contains **projects**. Members are invited to a workspace and given a role; that role determines what they can do across all projects in that workspace.
+## Przykładowe zdolności
 
-That's it — the rest is detail.
+* **Aura Wzrostu** — uprawy w pobliżu rosną szybciej.
+* **Łowca Skarbów / Epicki Połów** — szansa na rzadkie i epickie łupy z łowienia.
+* **Wykrywacz Metalu** — szansa na rzadkie łupy z kopania łopatą.
+* **Krwotok** — szansa, że przeciwnik zacznie krwawić.
+* **Immunitet** — szansa na całkowite zignorowanie ataku.
+* **Szczęśliwy Stół** — szansa na wyższy poziom zaklęcia przy stole do zaklinania.
+* **Alchemik** — mikstury, które uwarzysz, działają dłużej.
+
+## Zdolności many
+
+Niektóre umiejętności mają aktywne zdolności, które zużywają manę. Aktywujesz je prawym przyciskiem myszy z odpowiednim narzędziem:
+
+| Zdolność | Umiejętność | Działanie |
+| --- | --- | --- |
+| Autoprzesadzanie | Rolnictwo | Przez chwilę zebrane rośliny same się przesadzają. |
+| Niszczyciel Drzew | Drwalnictwo | Przez chwilę ścinasz całe drzewa naraz. |
+| Szybkie Kopanie | Górnictwo | Daje efekt Pośpiechu. |
+| Terraforma | Wydobywanie | Przez chwilę kopiesz kilka bloków naraz. |
+| Ostry Hak | Wędkarstwo | Zadaje obrażenia mobowi złapanemu na wędkę. |
+| Naładowany Strzał | Łucznictwo | Mocniej naciągnięty łuk zadaje więcej obrażeń, zużywając manę. |
+| Absorpcja | Obrona | Obrażenia zabierają manę zamiast zdrowia. |
+| Ostrze Błyskawicy | Walka | Zwiększa szybkość ataku. |
+
+## Statystyki
+
+Poziomy umiejętności zwiększają statystyki postaci:
+
+| Statystyka | Działanie |
+| --- | --- |
+| Siła | Większe obrażenia od ataku. |
+| Zdrowie | Więcej serc. |
+| Regeneracja | Szybsze odnawianie zdrowia i many. |
+| Szczęście | Większa szansa na dodatkowe dropy. |
+| Mądrość | Więcej many, więcej doświadczenia, tańsze kowadło. |
+| Twardość | Mniejsze obrażenia od ataków. |
+| Szansa na cios krytyczny | Częstsze trafienia krytyczne. |
+| Obrażenia krytyczne | Mocniejsze trafienia krytyczne. |
+| Prędkość | Szybsze chodzenie i bieganie. |

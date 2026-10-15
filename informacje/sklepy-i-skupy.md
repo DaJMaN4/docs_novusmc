@@ -1,129 +1,51 @@
 ---
-description: >-
-  Replace your auto-generated subdomain with your own domain, with automatic
-  SSL.
+description: Skup surowców, sklep serwerowy, aukcje i sklepy graczy.
 ---
 
 # 🛒 Sklepy i Skupy
 
-By default, every project is published at a subdomain of the platform. You can replace this with your own domain on any paid plan.
+## Skup
 
-{% hint style="success" %}
-SSL certificates are issued automatically once your domain is verified — there's nothing to install or renew yourself.
-{% endhint %}
+W skupie sprzedasz zebrane surowce za pieniądze. Jest podzielony na kategorie:
 
-## Before you start
+* **Surowce** (dwie strony),
+* **Rośliny**,
+* **Bloki**,
+* **Przedmioty z potworów**.
 
-You'll need:
+### Dynamiczne ceny
 
-* A paid plan (Pro or above)
-* Access to your domain registrar's DNS settings
-* A successful deploy of the project you want to attach
+Niektóre skupy mają **dynamiczne ceny** — zmieniają się w zależności od tego, ile danego towaru sprzedają gracze. Dzięki temu rynek sam się reguluje i żaden surowiec nie jest stale najbardziej opłacalny.
 
-## Steps
+## Aukcje
 
-{% stepper %}
-{% step %}
-#### Add your domain in the dashboard
+Aukcje to rynek tworzony przez graczy.
 
-Go to **Project settings → Domains** and click **Add domain**. Enter the domain or subdomain you want to use:
+* **`/aukcje`** — przeglądaj oferty innych graczy.
+* **`/sprzedaj <cena>`** — wystaw na aukcję przedmiot trzymany w ręce.
 
-```
-docs.yourcompany.com
-```
+| | Jednoczesne aukcje |
+| --- | --- |
+| Bez rangi | 8 |
+| VIP | 12 |
+| SVIP | 15 |
+| MVIP | 20 |
 
-The dashboard will show you the DNS record values you need.
-{% endstep %}
+## Sklepy na działce
 
-{% step %}
-#### Configure your DNS
+Na swojej działce możesz postawić **skrzynkowy sklep**: kliknij skrzynię przedmiotem, który chcesz sprzedawać, wpisz cenę na czacie i włóż przedmioty do skrzyni.
 
-Add a CNAME record pointing your subdomain at the platform:
+| | Sklepy na działce |
+| --- | --- |
+| Bez rangi | 15 |
+| VIP | 20 |
+| SVIP | 30 |
+| MVIP | 40 |
 
-```
-Type:  CNAME
-Name:  docs
-Value: sites.example-platform.com
-TTL:   3600
-```
+## Wymiana
 
-For an apex domain (e.g. `yourcompany.com` without a subdomain), you'll need an ALIAS or ANAME record instead — not all DNS providers support these. Check your provider's docs.
+Bezpieczną wymianę z innym graczem zrobisz komendą **`/wymiana <gracz>`**.
 
-{% hint style="info" %}
-DNS changes can take up to 48 hours to propagate, but in practice most see them resolve within a few minutes.
-{% endhint %}
-{% endstep %}
+## Sklep premium
 
-{% step %}
-#### Verify and activate
-
-Return to **Project settings → Domains** and click **Verify**. Once verified, the platform will issue an SSL certificate automatically — usually within a couple of minutes.
-
-When verification completes, your domain is live.
-{% endstep %}
-{% endstepper %}
-
-## Multiple domains per project
-
-You can attach multiple domains to a single project — useful for redirecting old URLs or supporting multiple regions:
-
-```yaml
-domains:
-  primary: docs.yourcompany.com
-  redirects:
-    - from: help.yourcompany.com
-      to: docs.yourcompany.com
-      status: 301
-```
-
-## Troubleshooting
-
-<details>
-
-<summary>Verification keeps failing</summary>
-
-Make sure there are no conflicting DNS records for the same subdomain. An existing A record will block the CNAME.
-
-Also check that the value of your CNAME exactly matches the one shown in the dashboard — typos in domain names are very common.
-
-</details>
-
-<details>
-
-<summary>SSL certificate not provisioning</summary>
-
-SSL is issued after DNS verification succeeds. If it hasn't appeared after 30 minutes:
-
-1. Confirm your domain still verifies in the dashboard
-2. Check that your DNS provider isn't using CAA records that block our certificate authority
-3. Click **Re-verify** to trigger a fresh attempt
-
-</details>
-
-<details>
-
-<summary>Browser shows "Your connection is not private"</summary>
-
-This usually means the certificate hasn't been provisioned yet, or your browser cached an old certificate. Wait a few minutes, then try in an incognito window.
-
-</details>
-
-<details>
-
-<summary>The domain works but redirects break</summary>
-
-Redirect chains often get cached aggressively. Test in an incognito window or with `curl -I` to see what's actually being served, ignoring local cache.
-
-```bash
-curl -I https://docs.yourcompany.com
-```
-
-</details>
-
-## Removing a domain
-
-To remove a domain, go to **Project settings → Domains**, click the menu next to the domain, and select **Remove**.
-
-{% hint style="warning" %}
-Removing a domain stops serving traffic immediately. If you've shared this URL externally, set up a redirect first to avoid breaking inbound links.
-{% endhint %}
+W sklepie premium (**`/sklep`**) kupisz za kryształy rangi, klucze i piniaty. Zobacz [Rangi](rangi/).

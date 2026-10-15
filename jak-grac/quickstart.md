@@ -1,89 +1,67 @@
 ---
-description: Go from sign-up to your first deploy in under five minutes.
+description: Najważniejsze komendy trybu Survival.
 icon: bolt
 ---
 
-# Quickstart
+# Komendy
 
-This quickstart gets you to your first deploy as fast as possible. We'll skip most of the configuration — you can refine things later once you have something running.
+## Teleportacja
 
-{% hint style="success" %}
-**Estimated time: 5 minutes.** All you need is an account and a project to deploy.
-{% endhint %}
+| Komenda | Opis |
+| --- | --- |
+| `/rtp` | Losowa teleportacja na mapę survivalową. |
+| `/sethome`, `/home` | Ustawienie domu i powrót do niego. |
+| `/warp` | Lochy, areny bossów i inne miejsca (np. `/warp arenapvp`). |
+| `/skrzynie` | Teleport do skrzyń z kluczami. |
+| `/strefaafk` | Strefa AFK. |
+| `/strefa` | Strefa VIP (dla rang VIP+). |
+| `/tablica` | Tablica na spawnie. |
 
-## Steps
+## Postać i rozwój
 
-{% stepper %}
-{% step %}
-#### Create your workspace
+| Komenda | Opis |
+| --- | --- |
+| `/staty` | Menu umiejętności. |
+| `/zadania` | Zadania gildii i reputacja. |
+| `/jaskinia` | Menu jaskini. |
+| `/kit` | Zestawy (dostępne zależą od rangi). |
+| `/plecak` | Twój plecak. |
 
-Sign in and create a new workspace. The workspace name appears in URLs and email notifications, so pick something recognisable.
+## Działki
 
-```
-yourcompany
-```
-{% endstep %}
+| Komenda | Opis |
+| --- | --- |
+| `/dzialki` | Menu działek: ustawienia, zaproszenia, przeglądanie działek. |
+| `/dzialki claim` | Dołącza chunk, w którym stoisz. |
+| `/dzialki create <nazwa>` | Zakłada kolejną działkę (po odblokowaniu). |
+| `/dzialki trust <gracz>`, `/dzialki untrust <gracz>` | Dodaje / usuwa zaufanego gracza. |
 
-{% step %}
-#### Connect a source
+## Handel i pieniądze
 
-Link a repository from your version control provider, or upload a project directly.
+| Komenda | Opis |
+| --- | --- |
+| `/aukcje` | Aukcje graczy. |
+| `/sprzedaj <cena>` | Wystawia trzymany przedmiot na aukcję. |
+| `/bal`, `/bilans` | Stan konta. |
+| `/sklep`, `/rangi` | Sklep premium (rangi, klucze). |
+| `/awans` | Ulepszenie rangi. |
 
-{% tabs %}
-{% tab title="Repository" %}
-Click **Connect repository**, authenticate with your provider, and select the repository to import. The platform will detect your framework automatically.
-{% endtab %}
+## Przydatne
 
-{% tab title="Upload" %}
-Drag and drop a project folder, or use the CLI:
+| Komenda | Opis |
+| --- | --- |
+| `/meble` | Meblarz. |
+| `/drwal` | Włącza / wyłącza grawitację drzew (całe drzewo spada po ścięciu). |
+| `/drop` | Włącza / wyłącza drop wykopanych bloków prosto do ekwipunku. |
+| `/siadnij` | Siadanie. |
+| `/regulamin` | Regulamin serwera. |
+| `/linki` | Discord, strony z głosowaniem i inne linki. |
 
-```bash
-platform deploy ./my-project
-```
-{% endtab %}
+### Komendy rang
 
-{% tab title="Template" %}
-Browse the template gallery and click **Use template**. A new project will be created from the template in your workspace.
-{% endtab %}
-{% endtabs %}
-{% endstep %}
-
-{% step %}
-#### Configure your build
-
-Most projects work with the auto-detected settings. If yours doesn't, override them in **Project settings → Build**.
-
-```yaml
-build:
-  command: npm run build
-  output: dist/
-  node: 20
-```
-{% endstep %}
-
-{% step %}
-#### Deploy
-
-Hit **Deploy**. Your project will build and go live at a generated subdomain. You can promote it to production or add a custom domain at any time.
-
-{% hint style="info" %}
-First builds typically take 1–3 minutes. Subsequent builds are faster because dependencies are cached.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-## What's next?
-
-You've shipped something — now make it yours.
-
-{% content-ref url="../informacje/sklepy-i-skupy.md" %}
-[sklepy-i-skupy.md](../informacje/sklepy-i-skupy.md)
-{% endcontent-ref %}
-
-{% content-ref url="../informacje/rangi/" %}
-[rangi](../informacje/rangi/)
-{% endcontent-ref %}
-
-{% content-ref url="../dodatki/gotowanie.md" %}
-[gotowanie.md](../dodatki/gotowanie.md)
-{% endcontent-ref %}
+| Komenda | Ranga | Opis |
+| --- | --- | --- |
+| `/craft` | VIP | Podręczny stół rzemieślniczy. |
+| `/enderchest` | SVIP | Skrzynia Kresu w dowolnym miejscu. |
+| `/kowadlo` | MVIP | Kowadło w dowolnym miejscu. |
+| `/naprawa` | MVIP | Naprawa przedmiotu w ręce (raz dziennie). |

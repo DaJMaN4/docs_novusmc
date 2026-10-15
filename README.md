@@ -1,29 +1,29 @@
 ---
 description: >-
-  Everything you need to build, deploy, and manage your projects on the
-  platform.
+  Survival rozbudowany o elementy RPG: umiejętności, gildie, nowe rudy i
+  ekwipunek, maszyny, gotowanie, meble i nowe wymiary.
 ---
 
 # 👋 Witaj
 
-Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
+Witaj na trybie **Survival** serwera NovusMC! To klasyczny survival rozbudowany o elementy RPG. Budujesz, kopiesz i rozwijasz postać jak w zwykłym Minecrafcie, a po drodze odkrywasz nowe rudy, potwory, struktury, maszyny, meble i dziesiątki innych dodatków.
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
-
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
-
-***
-
-{% hint style="success" icon="sparkles" %}
-**New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
-
-<a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
+{% hint style="info" %}
+Większość informacji znajdziesz też w grze — w menu głównym w zakładce **Informacje**.
 {% endhint %}
 
-## Where to start
+## Od czego zacząć?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/">Jak grac?</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/informacje">Informacje</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/dodatki">Dodatki</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/wymiary">Wymiary</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🚀 Pierwsze kroki</strong></td><td>Jak zacząć grę, założyć działkę i zdobyć pierwsze surowce.</td><td><a href="jak-grac/getting-started.md">getting-started.md</a></td></tr><tr><td><strong>⌨️ Komendy</strong></td><td>Wszystkie najważniejsze komendy w jednym miejscu.</td><td><a href="jak-grac/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>💰 Ekonomia i rozwój</strong></td><td>Pieniądze, plecak, klucze, piniata i strefa AFK.</td><td><a href="jak-grac/your-first-project.md">your-first-project.md</a></td></tr></tbody></table>
 
-## Popular tasks
+## Najważniejsze mechaniki
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>For builders</h4></td><td><a href="jak-grac/quickstart.md">quickstart.md</a></td><td><a href="jak-grac/your-first-project.md">your-first-project.md</a></td><td><a href="informacje/sklepy-i-skupy.md">sklepy-i-skupy.md</a></td></tr><tr><td><h4>For admins</h4></td><td><a href="informacje/rangi/">rangi</a></td><td><a href="wymiary/nether/">nether</a></td><td><a href="informacje/zadania.md">zadania.md</a></td></tr><tr><td><h4>For developers</h4></td><td><a href="dodatki/gotowanie.md">gotowanie.md</a></td><td><a href="wymiary/kres/">kres</a></td><td><a href="wymiary/nether/">nether</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🏡 Działki</strong></td><td>Chroń swoje budowle i buduj razem ze znajomymi.</td><td><a href="informacje/dzialki.md">dzialki.md</a></td></tr><tr><td><strong>🏃 Umiejętności</strong></td><td>11 umiejętności, które rosną podczas zwykłej gry.</td><td><a href="informacje/umiejetnosci.md">umiejetnosci.md</a></td></tr><tr><td><strong>📑 Zadania</strong></td><td>Trzy gildie, codzienne zadania i reputacja.</td><td><a href="informacje/zadania.md">zadania.md</a></td></tr><tr><td><strong>⚒️ Przedmioty</strong></td><td>Nowe rudy, zestawy ekwipunku, maszyny i narzędzia.</td><td><a href="dodatki/przedmioty.md">przedmioty.md</a></td></tr><tr><td><strong>🧑‍🍳 Gotowanie</strong></td><td>Nowe uprawy, kuchnia i dziesiątki potraw.</td><td><a href="dodatki/gotowanie.md">gotowanie.md</a></td></tr><tr><td><strong>🪑 Meble</strong></td><td>Ponad 900 mebli i dekoracji.</td><td><a href="dodatki/meble.md">meble.md</a></td></tr></tbody></table>
+
+## Wymiary
+
+Każdy wymiar ma nowe biomy, struktury, potwory i rudy:
+
+* [🌍 Świat Główny](wymiary/swiat-glowny/) — ponad 90 nowych biomów, lochy i tawerny, topaz głęboko pod ziemią.
+* [🔥 Nether](wymiary/nether/) — wulkanit, duszmit i nowe struktury.
+* [👾 Kres](wymiary/kres/) — voidium, perłyt i enderyt na odmienionych wyspach.

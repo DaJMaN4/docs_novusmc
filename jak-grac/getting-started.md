@@ -1,23 +1,39 @@
 ---
-description: Set up your account and ship your first project in minutes.
+description: Jak zacząć grę na trybie Survival — od pierwszego wejścia do własnej działki.
 icon: rocket-launch
 ---
 
-# Getting started
+# Pierwsze kroki
 
-New to the platform? These pages walk you through everything you need to know to ship something real.
+## 1. Znajdź swoje miejsce
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><strong>Quickstart</strong></td><td>Go from sign-up to your first deploy in under five minutes.</td></tr><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Your first project</strong></td><td>A guided walkthrough that takes you from an empty workspace to a configured, deployed project.</td></tr></tbody></table>
+Na spawnie nie da się budować. Użyj komendy **`/rtp`**, aby przenieść się w losowe miejsce na mapie survivalowej. Zasięg losowej teleportacji to 5000 × 5000 kratek (więcej z rangami [VIP+](../informacje/rangi/)).
 
-## What you'll need
+## 2. Załóż działkę
 
-Before you start, make sure you have:
+Gdy znajdziesz dobre miejsce, otwórz menu **`/dzialki`** i załóż działkę. Tylko ty i zaufani gracze będziecie mogli tam budować i otwierać skrzynie. Kolejne chunki dołączysz, stojąc w nich i wpisując **`/dzialki claim`**.
 
-* [x] An account on the platform (free plans work fine)
-* [x] A repository or local project you'd like to deploy
-* [x] A few minutes of uninterrupted time
+Więcej: [Działki](../informacje/dzialki.md).
 
-{% hint style="info" %}
-If you're evaluating the platform for your team rather than yourself, jump to [Informacje](https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/informacje "mention") first — it'll save time when you set things up properly.
+## 3. Ustaw dom
+
+Wpisz **`/sethome`**, aby zapisać swój dom, i **`/home`**, aby do niego wrócić. Więcej domów odblokujesz ulepszeniami za pieniądze lub rangą VIP+.
+
+## 4. Rozwijaj postać
+
+* Wszystko, co robisz — kopanie, walka, farmienie, łowienie — daje doświadczenie [umiejętności](../informacje/umiejetnosci.md) (**`/staty`**).
+* Wykonuj [zadania gildii](../informacje/zadania.md) (**`/zadania`**), aby zarabiać pieniądze i reputację.
+* Szukaj [rzadkich rud](../dodatki/przedmioty.md#rzadkie-rudy-i-zestawy-ekwipunku) — z nich stworzysz ekwipunek lepszy od diamentowego.
+
+## 5. Zarabiaj
+
+Surowce sprzedasz w **skupie**, a przedmioty innym graczom na **aukcjach** (`/aukcje`, `/sprzedaj`) albo w skrzynkowym sklepie na swojej działce. Więcej: [Sklepy i Skupy](../informacje/sklepy-i-skupy.md).
+
+{% hint style="warning" %}
+Zanim zaczniesz, przeczytaj **`/regulamin`**. Nieprzestrzeganie zasad skutkuje karą.
 {% endhint %}
 
+## Co dalej?
+
+* [Komendy](quickstart.md) — lista najważniejszych komend.
+* [Ekonomia i rozwój](your-first-project.md) — plecak, klucze, piniata, strefa AFK.

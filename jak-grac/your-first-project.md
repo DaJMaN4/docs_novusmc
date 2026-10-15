@@ -1,151 +1,61 @@
 ---
-description: >-
-  A guided walkthrough that takes you from an empty workspace to a configured,
-  deployed project.
+description: Pieniądze, kryształy, plecak, klucze, piniata i strefa AFK.
 icon: compass
 ---
 
-# Your first project
+# Ekonomia i rozwój
 
-This walkthrough goes deeper than the [Quickstart](/broken/pages/d8dde992c3b506ec2b54b125e6aef8f498f18ed3). By the end, you'll have a real project with environment variables, a custom build, and a preview deployment workflow.
+## Waluty
+
+* **Pieniądze ($)** — zarabiasz je, sprzedając surowce w skupie, wykonując zadania gildii i handlując z graczami. Wydajesz na ulepszenia plecaka, działek i domów.
+* **Kryształy** — waluta premium. Kupisz za nie rangi VIP+, klucze i piniaty. Zdobędziesz je podczas eventów albo w sklepie internetowym.
+
+## Plecak
+
+Plecak (**`/plecak`**) to dodatkowe miejsce na przedmioty. Jego zawartość **nie wypada po śmierci**. Możesz w nim trzymać także pieniądze.
+
+Plecak ulepszasz u NPC na spawnie — każdy poziom dodaje miejsca. Ulepszenia kosztują od 300$ (poziom II) do kilkudziesięciu tysięcy $ za najwyższe poziomy. Rangi dają darmowe ulepszenia: VIP do poziomu 6, SVIP do 9, MVIP do maksimum.
 
 {% hint style="info" %}
-We'll use a generic web project for this tutorial. The same pattern works for static sites, APIs, and worker services.
+To coś innego niż [plecaki podróżnika](../dodatki/przedmioty.md#plecaki-podroznika), które nosisz jako przedmiot.
 {% endhint %}
 
-## 1. Plan your project structure
+## Ulepszenia
 
-Before clicking anything, decide how you want to organise your work:
+W menu ulepszeń kupisz za pieniądze:
 
-| You have…                  | Use…                                       |
-| -------------------------- | ------------------------------------------ |
-| One app, one team          | A single project in your default workspace |
-| Several related apps       | A workspace with one project per app       |
-| Multiple unrelated clients | A separate workspace per client            |
+* **kolejne działki**,
+* **kolejne domy**,
+* **Blok Przejęcia** (300$) — postawiony w dziczy przy twojej działce przejmuje ten chunk.
 
-Most people start with the middle option. You can always restructure later.
+## Skrzynie i klucze
 
-## 2. Create the project
+Na spawnie (**`/skrzynie`**) stoją skrzynie: zwykła, rzadka, legendarna, meblowa, kosmetyczna i ze zwierzakami. Otwierasz je kluczami.
 
-{% stepper %}
-{% step %}
-#### From the workspace dashboard
+Klucze zdobędziesz na kilka sposobów:
 
-Click **New project**. You'll see three creation options.
+* kupisz za kryształy w sklepie premium,
+* połączysz **odłamki kluczy** u barmana w kuźni kluczy,
+* dostaniesz w zestawie przy zakupie rangi.
 
-{% tabs %}
-{% tab title="From a repo" %}
-Connect your version control provider and select a repository. The platform detects your framework and pre-fills sensible defaults.
-{% endtab %}
+Odłamki kluczy wypadają z **piniaty** i na **strefie AFK**.
 
-{% tab title="From a template" %}
-Pick a starting template — blog, dashboard, API, etc. — and the platform creates a new repository for you.
-{% endtab %}
+## Piniata
 
-{% tab title="Empty project" %}
-Skip both and create an empty project. Useful when you want to wire up a custom CLI workflow.
-{% endtab %}
-{% endtabs %}
-{% endstep %}
+Piniatę przywołuje się, głosując na serwer na stronach z listami serwerów (wszystkie są pod **`/linki`**). Gdy się pojawi, rozbij ją razem z innymi graczami — wypadną z niej odłamki kluczy i inne nagrody.
 
-{% step %}
-#### Name and configure
+## Strefa AFK
 
-Give your project a name and choose its visibility.
+Na strefie AFK (**`/strefaafk`**) co jakiś czas dostajesz odłamki kluczy i losowe przedmioty. Szanse na odłamki:
 
-* **Public** — anyone with the URL can view the deployed site
-* **Private** — only invited members can access it
-* **Password-protected** — anyone with the URL and password can view it
-{% endstep %}
+| Odłamek | Bez rangi | VIP | SVIP | MVIP |
+| --- | --- | --- | --- | --- |
+| Kamienny | 10% | 15% | 20% | 25% |
+| Meblowy | 8% | 10% | 12% | 15% |
+| Mityczny | 5% | 7.5% | 10% | 12.5% |
+| Kosmetyczny | 1.2% | 1.5% | 2% | 2.5% |
+| Legendarny | 1% | 1.2% | 1.5% | 2% |
 
-{% step %}
-#### Set environment variables
+## Dzienne nagrody
 
-If your project needs API keys, database URLs, or other secrets, add them under **Project settings → Environment**.
-
-```bash
-DATABASE_URL=postgres://...
-API_TOKEN=...
-```
-
-{% hint style="warning" %}
-Never commit secrets to your repository. Use environment variables for anything sensitive.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-## 3. Customise your build
-
-The platform auto-detects most frameworks, but you can override the defaults in your project's `platform.yaml`:
-
-```yaml
-build:
-  command: npm run build
-  output: dist/
-  node: 20
-  install: npm ci
-
-deploy:
-  framework: auto
-  routes:
-    - source: /api/*
-      destination: /api/[...path].js
-```
-
-Common overrides:
-
-* **`build.command`** — the script that produces your output
-* **`build.output`** — the folder containing your built files
-* **`build.node`** — the Node.js version to use
-* **`deploy.routes`** — custom routing rules
-
-## 4. Set up preview deploys
-
-Preview deploys give every branch and pull request its own live URL. They're enabled by default, but you can fine-tune the behaviour:
-
-```yaml
-preview:
-  enabled: true
-  branches:
-    include: ["**"]
-    exclude: ["release/*"]
-  comments: true
-```
-
-When `comments: true`, the platform posts a comment on each pull request with the preview URL.
-
-## 5. Deploy
-
-Push to your main branch (or click **Deploy** manually). The platform will:
-
-1. Clone your repository
-2. Install dependencies
-3. Run your build command
-4. Upload the output
-5. Promote to your live URL
-
-{% hint style="success" %}
-You'll get a notification when the build completes — by email, Slack, or whatever you configured under [gotowanie.md](../dodatki/gotowanie.md "mention").
-{% endhint %}
-
-## Sample project
-
-If you'd like to skip ahead and see a fully configured project, download our sample:
-
-{% embed url="https://github.com/GitbookIO/gitbook-templates" %}
-
-## Where to go next
-
-Now that you have a working project, you can check out:
-
-{% content-ref url="../informacje/sklepy-i-skupy.md" %}
-[sklepy-i-skupy.md](../informacje/sklepy-i-skupy.md)
-{% endcontent-ref %}
-
-{% content-ref url="../dodatki/gotowanie.md" %}
-[gotowanie.md](../dodatki/gotowanie.md)
-{% endcontent-ref %}
-
-{% content-ref url="../informacje/rangi/" %}
-[rangi](../informacje/rangi/)
-{% endcontent-ref %}
+Odbieraj nagrody za codzienne logowanie w menu głównym. Im dłuższa seria, tym lepsze nagrody.

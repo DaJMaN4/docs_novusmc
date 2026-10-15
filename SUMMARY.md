@@ -3,9 +3,9 @@
 ## Jak grac?
 
 * [👋 Witaj](README.md)
-* [Getting started](jak-grac/getting-started.md)
-* [Quickstart](jak-grac/quickstart.md)
-* [Your first project](jak-grac/your-first-project.md)
+* [🚀 Pierwsze kroki](jak-grac/getting-started.md)
+* [⌨️ Komendy](jak-grac/quickstart.md)
+* [💰 Ekonomia i rozwój](jak-grac/your-first-project.md)
 
 ## Informacje
 

@@ -1,68 +1,53 @@
 ---
-description: Roles, permissions, and how access flows from workspace to project.
+description: Rangi VIP, SVIP i MVIP — przywileje i porównanie.
 ---
 
 # ⭐ Rangi
 
-Every member of a workspace has a role. The role determines what actions they can perform across the workspace and its projects.
+Rangi kupisz za **kryształy** w sklepie premium (**`/sklep`** lub **`/rangi`**). Każda wyższa ranga ma wszystko to, co niższa. Posiadając niższą rangę, wyższą kupisz taniej — o wartość rangi, którą już masz.
 
-## Roles overview
+* [VIP](vip.md) — **`/vip`**
+* [SVIP](svip.md) — **`/svip`**
+* [MVIP](mvip.md) — **`/evip`**
 
-There are five roles, ordered from least to most privileged:
+## Porównanie
 
-| Role         | Best for                                                        |
-| ------------ | --------------------------------------------------------------- |
-| **Guest**    | External stakeholders who only need to see published deploys    |
-| **Viewer**   | Internal users who need read-only access to drafts and settings |
-| **Editor**   | Builders who actively work on projects                          |
-| **Reviewer** | People who comment and approve, but don't push changes          |
-| **Admin**    | Workspace owners and team leads                                 |
+| | Bez rangi | VIP | SVIP | MVIP |
+| --- | --- | --- | --- | --- |
+| Działki | 1 | 2 | 3 | 5 |
+| Domy | 2 | 3 | 4 | 3 |
+| Zasięg `/rtp` | 5k × 5k | 6k × 6k | 8k × 8k | 10k × 10k |
+| Jednoczesne aukcje | 8 | 12 | 15 | 20 |
+| Sklepy na działce | 15 | 20 | 30 | 40 |
+| Aktywne zadania | 3 | 5 | 7 | 9 |
+| Poziom plecaka | — | 6 | 9 | maks. |
+| Drop do ekwipunku | — | ✅ | ✅ | ✅ |
+| `/craft` | — | ✅ | ✅ | ✅ |
+| Strefa VIP | — | ✅ | ✅ | ✅ |
+| Kanał na Discordzie | — | ✅ | ✅ | ✅ |
+| Grawitacja drzew | — | — | ✅ | ✅ |
+| `/enderchest` | — | — | ✅ | ✅ |
+| `/kowadlo` | — | — | — | ✅ |
+| `/naprawa` (raz dziennie) | — | — | — | ✅ |
 
-{% hint style="info" %}
-Guests don't count towards your member limit, making them ideal for read-only stakeholders.
-{% endhint %}
+## Klucze przy zakupie
 
-## Permission matrix
+Przy zakupie rangi dostajesz skrzynkę shulkera z kluczami:
 
-The full breakdown of what each role can do:
+| Klucz | VIP | SVIP | MVIP |
+| --- | --- | --- | --- |
+| Kamienny | 4 | 5 | 6 |
+| Meblowy | 2 | 3 | 4 |
+| Mityczny | 2 | 3 | 4 |
+| Kosmetyczny | 1 | 1 | 2 |
+| Legendarny | — | 1 | 2 |
 
-| Action                       | Guest | Viewer | Reviewer | Editor | Admin |
-| ---------------------------- | :---: | :----: | :------: | :----: | :---: |
-| View published deploys       |   ✓   |    ✓   |     ✓    |    ✓   |   ✓   |
-| View drafts                  |   —   |    ✓   |     ✓    |    ✓   |   ✓   |
-| Comment on deploys           |   —   |    —   |     ✓    |    ✓   |   ✓   |
-| Trigger builds               |   —   |    —   |     —    |    ✓   |   ✓   |
-| Edit project settings        |   —   |    —   |     —    |    ✓   |   ✓   |
-| Manage environment variables |   —   |    —   |     —    |    ✓   |   ✓   |
-| Invite members               |   —   |    —   |     —    |    —   |   ✓   |
-| Change roles                 |   —   |    —   |     —    |    —   |   ✓   |
-| Manage billing               |   —   |    —   |     —    |    —   |   ✓   |
-| Delete projects              |   —   |    —   |     —    |    —   |   ✓   |
+## Lepsze dropy na strefie AFK
 
-## How permissions flow
-
-Roles are assigned at the **workspace level** and apply to every project in that workspace. There's no per-project override.
-
-If you need finer-grained access — for example, contractors who should only see one project — create a separate workspace for that work and invite them there.
-
-{% hint style="warning" %}
-Per-project roles are a frequently requested feature and are on our [roadmap](https://example.com/roadmap). For now, the workspace boundary is the boundary of access.
-{% endhint %}
-
-## Changing someone's role
-
-Workspace admins can change any member's role at any time:
-
-1. Go to **Workspace settings → Members**
-2. Find the member and click the role dropdown next to their name
-3. Select the new role and confirm
-
-The change takes effect immediately — the member doesn't need to re-authenticate.
-
-## Removing a member
-
-Removing a member revokes their access immediately. Any content they created stays in the workspace.
-
-{% hint style="danger" %}
-If you're using SSO, removing a member from your identity provider does **not** automatically remove them from the workspace unless SCIM provisioning is enabled.
-{% endhint %}
+| Odłamek | Bez rangi | VIP | SVIP | MVIP |
+| --- | --- | --- | --- | --- |
+| Kamienny | 10% | 15% | 20% | 25% |
+| Meblowy | 8% | 10% | 12% | 15% |
+| Mityczny | 5% | 7.5% | 10% | 12.5% |
+| Kosmetyczny | 1.2% | 1.5% | 2% | 2.5% |
+| Legendarny | 1% | 1.2% | 1.5% | 2% |

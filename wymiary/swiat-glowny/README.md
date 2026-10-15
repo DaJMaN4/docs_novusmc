@@ -1,9 +1,17 @@
+---
+description: Świat Główny — nowe biomy, struktury, potwory i zwierzęta.
+---
+
 # 🌍 Świat Główny
 
-Detailed reference material for when you need to look something up rather than learn how to do it.
+Świat survivalowy jest dużo bogatszy niż w zwykłym Minecrafcie. Przeniesiesz się do niego komendą **`/rtp`**.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-sliders" style="color:$primary;">:sliders:</i></h4></td><td><strong>Configuration</strong></td><td>Every setting available in <code>platform.yaml</code>, with defaults and examples.</td><td><a href="/broken/pages/d9d0c491bd6ddc44b62870815e0c5f8084161db7">Broken link</a></td></tr><tr><td><h4><i class="fa-bookmark" style="color:$primary;">:bookmark:</i></h4></td><td><strong>Glossary</strong></td><td>Definitions of terms used throughout the docs and dashboard.</td><td><a href="/broken/pages/dff362f27d99ce4f3ce1097edb0452720f00b694">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🌄 Biomy</strong></td><td>Ponad 90 nowych biomów na powierzchni i w jaskiniach.</td><td><a href="biomy.md">biomy.md</a></td></tr><tr><td><strong>🏰 Struktury</strong></td><td>Setki nowych budowli: tawerny, lochy, wieże, ruiny.</td><td><a href="struktury.md">struktury.md</a></td></tr><tr><td><strong>🧟 Potwory</strong></td><td>Nowe potwory w każdym zakątku świata.</td><td><a href="potwory.md">potwory.md</a></td></tr><tr><td><strong>🐄 Zwierzęta</strong></td><td>Wiewiórki, szopy, łosie, sowy i wiele innych.</td><td><a href="zwierzeta.md">zwierzeta.md</a></td></tr></tbody></table>
 
-{% hint style="info" %}
-Looking for the API reference? It lives separately at [api.example.com](https://api.example.com/) — including OpenAPI spec, code samples, and a live test panel.
-{% endhint %}
+## Rudy
+
+Oprócz zwykłych rud znajdziesz tu **topaz** — głęboko pod ziemią, w łupku (poziomy Y od −61 do −30). Z topazu stworzysz [zestaw topazowy](../../dodatki/przedmioty.md#rzadkie-rudy-i-zestawy-ekwipunku), lepszy od diamentowego.
+
+## Dekoracje świata
+
+W głębokich jaskiniach rosną krzewy i korzenie sculku, a w łupku znajdziesz stare gliniane dzbany.
