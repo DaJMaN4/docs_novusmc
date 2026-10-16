@@ -8,6 +8,8 @@ Działka to twoje chronione miejsce. Nikt poza tobą i zaufanymi graczami nie mo
 
 ## Zakładanie działki
 
+<figure><img src="../.gitbook/assets/informacje/dzialki-granice.gif" alt="Granice działki"><figcaption><p>Granice działki</p></figcaption></figure>
+
 1. Znajdź miejsce komendą **`/rtp`**.
 2. Otwórz menu **`/dzialki`** i załóż działkę.
 3. Kolejne chunki dołączysz, stojąc w nich i wpisując **`/dzialki claim`**.
@@ -27,9 +29,13 @@ Dodatkowe działki odblokujesz też za pieniądze w menu ulepszeń. Kolejną dzi
 
 ### Blok Przejęcia
 
+<figure><img src="../.gitbook/assets/informacje/blok-przejecia.png" alt="Blok Przejęcia"><figcaption><p>Blok Przejęcia</p></figcaption></figure>
+
 Blok Przejęcia (300$ w menu ulepszeń) postawiony w dziczy graniczącej z twoją działką przejmuje ten chunk.
 
 ## Budowanie razem
+
+<figure><img src="../.gitbook/assets/informacje/dzialki-zaufani.png" alt="Zaufani gracze"><figcaption><p>Zaufani gracze</p></figcaption></figure>
 
 * **`/dzialki trust <gracz>`** — zaufany gracz może budować na twojej działce.
 * **`/dzialki untrust <gracz>`** — usuwa zaufanie.

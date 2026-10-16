@@ -4,9 +4,13 @@ description: Ponad 70 nowych zwierząt i owadów — gdzie żyją i co z nich wy
 
 # 🐄 Zwierzęta
 
+<figure><img src="../../.gitbook/assets/zwierzeta/zoo.png" alt="Nowe zwierzęta"><figcaption><p>Nowe zwierzęta</p></figcaption></figure>
+
 W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy. Część jest **neutralna** — zaatakowana, broni się (np. niedźwiedź, słoń, nosorożec, goryl). Z wielu wypada [nowe mięso](../../dodatki/gotowanie.md#mieso-z-dzikich-zwierzat).
 
 ## Lasy i tajgi
+
+<figure><img src="../../.gitbook/assets/zwierzeta/grizzly.png" alt="Niedźwiedź Grizzly"><figcaption><p>Niedźwiedź Grizzly</p></figcaption></figure>
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
@@ -33,6 +37,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 
 ## Sawanny, pustynie i badlandy
 
+<figure><img src="../../.gitbook/assets/zwierzeta/slon.png" alt="Słoń"><figcaption><p>Słoń</p></figcaption></figure>
+
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
 | **Słoń**, **Nosorożec** | sawanny | |
@@ -46,6 +52,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Kameleon**, **ropucha rogata**, **sęp**, **pyłowy diabeł**, **kaktusik** | pustynie | |
 
 ## Dżungle
+
+<figure><img src="../../.gitbook/assets/zwierzeta/goryl.png" alt="Goryl"><figcaption><p>Goryl</p></figcaption></figure>
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
@@ -65,6 +73,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Mroźny Łowca** | lodowe szczyty | |
 
 ## Bagna i rzeki
+
+<figure><img src="../../.gitbook/assets/zwierzeta/krokodyl.png" alt="Krokodyl"><figcaption><p>Krokodyl</p></figcaption></figure>
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
@@ -86,6 +96,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 
 ## Plaże i morza
 
+<figure><img src="../../.gitbook/assets/zwierzeta/orka.gif" alt="Orka"><figcaption><p>Orka</p></figcaption></figure>
+
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
 | **Mewa** | plaże | pióra |
@@ -100,6 +112,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Latająca Ryba** | oceany, rafy | latająca ryba |
 
 ## Jaskinie
+
+<figure><img src="../../.gitbook/assets/zwierzeta/trzepotnik.png" alt="Trzepotnik"><figcaption><p>Trzepotnik</p></figcaption></figure>
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |

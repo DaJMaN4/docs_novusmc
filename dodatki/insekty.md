@@ -8,6 +8,8 @@ W świecie żyją owady. Możesz je łapać i kolekcjonować.
 
 ## Siatka na owady
 
+<figure><img src="../.gitbook/assets/insekty/lapanie.gif" alt="Łapanie owadów"><figcaption><p>Łapanie owadów</p></figcaption></figure>
+
 Siatkę stworzysz z **3 nici i 2 patyków**. Kliknij nią owada, aby go złapać.
 
 ## Owady
@@ -26,5 +28,7 @@ Siatkę stworzysz z **3 nici i 2 patyków**. Kliknij nią owada, aby go złapać
 | Robak, prosionek, wij | |
 
 ## Terraria
+
+<figure><img src="../.gitbook/assets/insekty/terraria.png" alt="Terraria"><figcaption><p>Terraria</p></figcaption></figure>
 
 Złapanego owada umieścisz w **terrarium** i postawisz jako dekorację. Świetlika trzyma się w słoiku. Zacznij od **pustego terrarium**.

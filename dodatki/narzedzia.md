@@ -6,6 +6,10 @@ description: Młoty kopiące 3×3, stół nasycania zaklęć i inne przydatne na
 
 ## Młoty
 
+<figure><img src="../.gitbook/assets/narzedzia/mloty.png" alt="Młoty"><figcaption><p>Młoty</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/narzedzia/mlot-3x3.gif" alt="Kopanie młotem"><figcaption><p>Kopanie młotem</p></figcaption></figure>
+
 Młot kopie naraz obszar **3 × 3** bloki (blok, w który celujesz, i 8 wokół niego). Kopie wolniej niż kilof, ale za to dużo naraz. Przyjmuje zaklęcia kilofa (Wydajność, Jedwabny dotyk, Szczęście, Niezniszczalność, Naprawa).
 
 | Młot | Wytrzymałość | Obrażenia | Naprawisz |
@@ -34,6 +38,10 @@ Młot kopie naraz obszar **3 × 3** bloki (blok, w który celujesz, i 8 wokół 
 Miecz, kilof, topór, łopata i motyka z gwiezdnych kryształów — zobacz [Gwiezdny ekwipunek](ekwipunek/README.md#gwiezdny-ekwipunek). Gwiezdny kilof kopie bardzo szybko.
 
 ## Stół nasycania zaklęć
+
+<figure><img src="../.gitbook/assets/narzedzia/stol-nasycania.png" alt="Stół nasycania zaklęć"><figcaption><p>Stół nasycania zaklęć</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/narzedzia/stol-nasycania-menu.gif" alt="Wybieranie zaklęć"><figcaption><p>Wybieranie zaklęć</p></figcaption></figure>
 
 Stół, przy którym **sam wybierasz zaklęcia** i ich poziomy, zamiast losować jak przy stole do zaklinania.
 

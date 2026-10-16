@@ -8,6 +8,12 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 ## Lasy
 
+<figure><img src="../../.gitbook/assets/biomy/sekwoje.png" alt="Redwoods"><figcaption><p>Redwoods</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/biomy/klony.png" alt="Autumnal Maple Forest"><figcaption><p>Autumnal Maple Forest</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/biomy/glicynie.png" alt="Wisteria Grove"><figcaption><p>Wisteria Grove</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Maple Forest**, **Autumnal Maple Forest**, **Windswept Maple Forest** | Lasy klonowe — zielone albo w jesiennych kolorach. |
@@ -28,6 +34,8 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 ## Równiny i łąki
 
+<figure><img src="../../.gitbook/assets/biomy/pola-kwiatow.png" alt="Flower Fields"><figcaption><p>Flower Fields</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Grassland**, **Prairie** | Rozległe trawiaste równiny. |
@@ -39,6 +47,10 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 ## Pustynie i sawanny
 
+<figure><img src="../../.gitbook/assets/biomy/saguaro.png" alt="Saguaro Desert"><figcaption><p>Saguaro Desert</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/biomy/baobaby.png" alt="Baobab Savanna"><figcaption><p>Baobab Savanna</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Saguaro Desert** | Pustynia z wielkimi kaktusami. |
@@ -47,6 +59,8 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 | **Baobab Savanna** | Sawanna z baobabami. |
 
 ## Bagna i rzeki
+
+<figure><img src="../../.gitbook/assets/biomy/bayou.png" alt="Bayou"><figcaption><p>Bayou</p></figcaption></figure>
 
 | Biom | |
 | --- | --- |
@@ -57,6 +71,8 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 ## Góry i klify
 
+<figure><img src="../../.gitbook/assets/biomy/kredowe-klify.png" alt="Chalk Cliffs"><figcaption><p>Chalk Cliffs</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Chalk Cliffs** | Białe kredowe klify nad morzem. |
@@ -66,6 +82,8 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 ## Wybrzeża i oceany
 
+<figure><img src="../../.gitbook/assets/biomy/hyacinth-deeps.png" alt="Hyacinth Deeps"><figcaption><p>Hyacinth Deeps</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Grassy Beach**, **Gravel Beach** | Trawiaste i żwirowe plaże. |
@@ -73,6 +91,10 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 | **Hyacinth Deeps** | Głębiny pełne podwodnych kwiatów. |
 
 ## Jaskinie
+
+<figure><img src="../../.gitbook/assets/biomy/bioshroom.png" alt="Bioshroom Caves"><figcaption><p>Bioshroom Caves</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/biomy/prismachasm.png" alt="Prismachasm"><figcaption><p>Prismachasm</p></figcaption></figure>
 
 | Biom | |
 | --- | --- |

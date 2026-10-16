@@ -6,6 +6,8 @@ description: Rudy, ekwipunek i skarby z Netheru.
 
 ## Rudy
 
+<figure><img src="../../.gitbook/assets/nether/rudy.png" alt="Rudy Netheru"><figcaption><p>Rudy Netheru</p></figcaption></figure>
+
 | Ruda | Gdzie | Zestaw |
 | --- | --- | --- |
 | **Klastry magmy** | W blokach magmy, poziomy Y 20–40 | Magmowy |

@@ -8,6 +8,8 @@ Zadania otworzysz komendą **`/zadania`**.
 
 ## Gildie
 
+<figure><img src="../.gitbook/assets/informacje/gildie.png" alt="Menu zadań gildii"><figcaption><p>Menu zadań gildii</p></figcaption></figure>
+
 Na serwerze są trzy gildie. Wykonując ich zadania, zdobywasz **pieniądze** i **reputację**.
 
 | Gildia | Czym się zajmuje |
@@ -37,6 +39,8 @@ Co **5 poziomów reputacji** w każdej gildii dostajesz specjalną nagrodę.
 
 ## Misje
 
+<figure><img src="../.gitbook/assets/informacje/misje.png" alt="Misje"><figcaption><p>Misje</p></figcaption></figure>
+
 Misje to wyzwania w specjalnych lochach i arenach. Do każdej możesz wejść **raz dziennie**; część wymaga opłaty za wejście.
 
 | Misja | Opis |
@@ -55,5 +59,7 @@ Misje to wyzwania w specjalnych lochach i arenach. Do każdej możesz wejść **
 Lochy i areny bossów znajdziesz pod **`/warp`**. Bossowie są wyjątkowo silni — przyda ci się dobry ekwipunek, zaklęcia, mikstury i runy.
 
 ## Runy
+
+<figure><img src="../.gitbook/assets/informacje/runy.png" alt="Runy"><figcaption><p>Runy</p></figcaption></figure>
 
 Runy ulepszają ekwipunek. Każda część pancerza ma **gniazdo runiczne**, a jedno gniazdo przyjmuje jedną runę danego typu. Runy wypadają z bossów i skrzyń. U NPC możesz ulepszyć słabsze runy na silniejsze.

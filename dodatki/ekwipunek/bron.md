@@ -8,6 +8,8 @@ Miecze i topory z rzadkich rud opisuje strona [Zestawy z rud](zestawy-rud.md). T
 
 ## Noże
 
+<figure><img src="../../.gitbook/assets/ekwipunek/noze.png" alt="Noże"><figcaption><p>Noże</p></figcaption></figure>
+
 Noże z [kuchni](../gotowanie.md) to też szybka broń. Zwierzęta zabite nożem upuszczają więcej mięsa.
 
 | Nóż | Obrażenia | Szybkość ataku |
@@ -19,6 +21,8 @@ Noże z [kuchni](../gotowanie.md) to też szybka broń. Zwierzęta zabite nożem
 | Netherytowy | 5,5 | 2,0 |
 
 ## Proce
+
+<figure><img src="../../.gitbook/assets/ekwipunek/proca.gif" alt="Strzał z procy"><figcaption><p>Strzał z procy</p></figcaption></figure>
 
 Proce napinasz jak łuk. Strzelają **kulkami** z twojego ekwipunku.
 
@@ -39,9 +43,13 @@ Neptunowe kulki zrobisz z pryzmarynu i gliny, a promethium zdobędziesz [łowią
 
 ## Bumerangi
 
+<figure><img src="../../.gitbook/assets/ekwipunek/bumerang.gif" alt="Bumerang"><figcaption><p>Bumerang</p></figcaption></figure>
+
 Rzucasz je PPM — wracają do ciebie po locie. Są drewniane, żelazne, złote, diamentowe, magmowe, grawitacyjne i netherytowe (netherytowy powstaje w stole kowalskim z diamentowego).
 
 ## Trójzęby
+
+<figure><img src="../../.gitbook/assets/ekwipunek/trojzab-lojalnosc.gif" alt="Trójząb z Lojalnością"><figcaption><p>Trójząb z Lojalnością</p></figcaption></figure>
 
 Trójzęby działają lepiej niż w zwykłym Minecrafcie:
 

@@ -8,6 +8,10 @@ Na serwerze są **tysiące nowych przedmiotów i bloków**: rudy i zestawy ekwip
 
 ## Menu przedmiotów
 
+<figure><img src="../.gitbook/assets/przedmioty/menu-przedmiotow.png" alt="Menu przedmiotów /nova items"><figcaption><p>Menu przedmiotów /nova items</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/przedmioty/receptura.gif" alt="Podgląd receptury"><figcaption><p>Podgląd receptury</p></figcaption></figure>
+
 Wszystkie przedmioty przejrzysz w grze komendą **`/nova items`**. Menu jest podzielone na zakładki jak w trybie kreatywnym:
 
 | Zakładka | Co w niej jest |
@@ -42,5 +46,7 @@ Wszystkie przedmioty przejrzysz w grze komendą **`/nova items`**. Menu jest pod
 | ochrony przed śmiercią | [Totemy](ekwipunek/totemy.md), [Groby](groby.md) |
 
 ## Lucky Block
+
+<figure><img src="../.gitbook/assets/przedmioty/lucky-block.gif" alt="Lucky Block"><figcaption><p>Lucky Block</p></figcaption></figure>
 
 **Lucky Block** (8 sztabek złota + kwarc; czasem spotkasz go też w świecie) — zniszcz go, aby sprawdzić swoje szczęście! Może wypaść coś cennego… albo coś bardzo niebezpiecznego.

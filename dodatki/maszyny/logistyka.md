@@ -6,6 +6,8 @@ description: Kable, ogniwa zasilające, zbiorniki płynów, filtry przedmiotów,
 
 ## Kable
 
+<figure><img src="../../.gitbook/assets/maszyny/kable.png" alt="Kable"><figcaption><p>Kable</p></figcaption></figure>
+
 Jeden kabel przesyła **naraz energię, płyny i przedmioty**. Kable łączą się same z maszynami, ogniwami, zbiornikami, skrzyniami i innymi kablami.
 
 | Kabel | Energia | Płyny | Przedmioty (szybkość) | Z czego |
@@ -19,6 +21,8 @@ Każde połączenie kabla z blokiem możesz ustawić [kluczem](README.md#klucz):
 
 ## Ogniwa zasilające
 
+<figure><img src="../../.gitbook/assets/maszyny/ogniwo-wykres.png" alt="Ogniwo zasilające"><figcaption><p>Ogniwo zasilające</p></figcaption></figure>
+
 Magazyny energii — przyjmują nadmiar prądu z generatorów i oddają go maszynom. W menu ogniwa zobaczysz **wykres** energii.
 
 | Ogniwo | Pojemność |
@@ -29,6 +33,8 @@ Magazyny energii — przyjmują nadmiar prądu z generatorów i oddają go maszy
 | Najlepsze ogniwo zasilające | 1 000 000 000 J |
 
 ## Zbiorniki płynów
+
+<figure><img src="../../.gitbook/assets/maszyny/zbiorniki.png" alt="Zbiorniki płynów"><figcaption><p>Zbiorniki płynów</p></figcaption></figure>
 
 Przechowują wodę albo lawę. Napełnisz je wiadrem lub kablami.
 
@@ -42,6 +48,8 @@ Przechowują wodę albo lawę. Napełnisz je wiadrem lub kablami.
 
 ## Filtry przedmiotów
 
+<figure><img src="../../.gitbook/assets/maszyny/filtr.png" alt="Filtr przedmiotów"><figcaption><p>Filtr przedmiotów</p></figcaption></figure>
+
 Filtr wkładasz do połączenia kabla, aby przepuszczał tylko wybrane przedmioty (**biała lista**) albo wszystkie oprócz wybranych (**czarna lista**). Możesz też włączyć porównywanie danych przedmiotu (NBT).
 
 | Filtr | Miejsc na przedmioty |
@@ -53,9 +61,13 @@ Filtr wkładasz do połączenia kabla, aby przepuszczał tylko wybrane przedmiot
 
 ## Jednostki magazynowe
 
+<figure><img src="../../.gitbook/assets/maszyny/jednostka-magazynowa.png" alt="Jednostka magazynowa"><figcaption><p>Jednostka magazynowa</p></figcaption></figure>
+
 **Jednostka magazynowa** przechowuje **jeden rodzaj przedmiotu** w ilości ponad 2 miliardów sztuk. Idealna na wyjście z [kamieniołomu](wydobycie.md#kamieniolom) albo farmy. Zawartość zostaje w bloku po jego zniszczeniu.
 
 ## Skrzynia próżniowa
+
+<figure><img src="../../.gitbook/assets/maszyny/skrzynia-prozniowa.gif" alt="Skrzynia próżniowa"><figcaption><p>Skrzynia próżniowa</p></figcaption></figure>
 
 Wciąga **leżące przedmioty** w zasięgu (domyślnie 2 kratki, więcej z ulepszeniem zasięgu) — przydaje się przy [zabójcy mobów](farmy.md#zabojca-mobow) i farmach. Ma sloty filtra.
 

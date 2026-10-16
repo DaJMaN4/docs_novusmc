@@ -4,9 +4,13 @@ description: Po śmierci twoje przedmioty czekają w grobie. Jak go znaleźć, o
 
 # 🪦 Groby
 
+<figure><img src="../.gitbook/assets/groby/grob.png" alt="Grób gracza"><figcaption><p>Grób gracza</p></figcaption></figure>
+
 Gdy zginiesz, twoje przedmioty i doświadczenie **nie wypadają na ziemię** — trafiają do **grobu**, który pojawia się w miejscu śmierci. Na grobie widać twoje imię, datę śmierci i twoją głowę.
 
 ## Jak odzyskać przedmioty
+
+<figure><img src="../.gitbook/assets/groby/odbieranie.gif" alt="Odbieranie przedmiotów"><figcaption><p>Odbieranie przedmiotów</p></figcaption></figure>
 
 1. Po śmierci dostaniesz na czacie **współrzędne grobu**.
 2. Wróć na miejsce i kliknij grób PPM — przedmioty wrócą do ekwipunku (te, które się nie zmieszczą, wypadną obok), a ty odzyskasz doświadczenie.
@@ -17,6 +21,8 @@ Gdy zginiesz, twoje przedmioty i doświadczenie **nie wypadają na ziemię** —
 * Lista twoich grobów: **`/groby list`**.
 
 ## Niszczenie grobów
+
+<figure><img src="../.gitbook/assets/groby/stopnie.png" alt="Stopnie zniszczenia"><figcaption><p>Stopnie zniszczenia</p></figcaption></figure>
 
 Groby nie czekają w nieskończoność. Grób **niszczeje**:
 

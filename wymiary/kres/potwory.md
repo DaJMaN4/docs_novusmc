@@ -4,6 +4,8 @@ description: Nowe potwory w Kresie.
 
 # 😈 Potwory
 
+<figure><img src="../../.gitbook/assets/kres/enderling.png" alt="Enderling"><figcaption><p>Enderling</p></figcaption></figure>
+
 Na wyspach Kresu część endermanów zastępują nowe stwory:
 
 | Potwór | |
@@ -20,6 +22,8 @@ Na wyspach Kresu część endermanów zastępują nowe stwory:
 | **Void Ooze** | |
 
 ## Stworzenia Kresu
+
+<figure><img src="../../.gitbook/assets/kres/zjawa.gif" alt="Zjawa"><figcaption><p>Zjawa</p></figcaption></figure>
 
 Na wyspach Kresu żyją też dziwne stworzenia:
 

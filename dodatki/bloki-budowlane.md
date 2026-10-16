@@ -4,6 +4,8 @@ description: Tysiące nowych bloków budowlanych — kamienie, cegły, kafelki, 
 
 # 🧱 Bloki budowlane
 
+<figure><img src="../.gitbook/assets/bloki/budowla.png" alt="Budowla z nowych bloków"><figcaption><p>Budowla z nowych bloków</p></figcaption></figure>
+
 Na serwerze są **tysiące nowych bloków** do budowania. Prawie każdy materiał ma komplet kształtów: **blok, schody, płytę, murek**, a drewno także **płot, furtkę, drzwi, klapę, przycisk i płytę naciskową**. Schody łączą się w narożniki, płoty i murki łączą się z sąsiadami — tak jak w zwykłym Minecrafcie.
 
 {% hint style="info" %}
@@ -11,6 +13,10 @@ Wszystkie bloki przejrzysz w menu przedmiotów (**`/nova items`**) w zakładkach
 {% endhint %}
 
 ## Blockus — kamienie, cegły i dekoracje
+
+<figure><img src="../.gitbook/assets/bloki/blockus-kamienie.png" alt="Kamienie i cegły"><figcaption><p>Kamienie i cegły</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/bloki/blockus-kolorowe.png" alt="Kolorowe bloki"><figcaption><p>Kolorowe bloki</p></figcaption></figure>
 
 Ponad 1600 bloków, m.in.:
 
@@ -23,6 +29,8 @@ Ponad 1600 bloków, m.in.:
 
 ## Dawn of Time — tradycyjne budownictwo
 
+<figure><img src="../.gitbook/assets/bloki/dawn-of-time.png" alt="Tradycyjne budownictwo"><figcaption><p>Tradycyjne budownictwo</p></figcaption></figure>
+
 Bloki do budowli historycznych:
 
 * **dachówki** (ceramiczne, płaskie, łupkowe) w różnych kształtach — także **narożniki i krawędzie dachów**,
@@ -33,17 +41,23 @@ Bloki do budowli historycznych:
 
 ## Pionowe płyty
 
+<figure><img src="../.gitbook/assets/bloki/pionowe-plyty.png" alt="Pionowe płyty"><figcaption><p>Pionowe płyty</p></figcaption></figure>
+
 46 rodzajów **pionowych płyt** — połówek bloku stojących pionowo. Świetne do cienkich ścian i detali.
 
 ## Drewno i kamienie z nowych biomów
 
 ### Świat Główny
 
+<figure><img src="../.gitbook/assets/bloki/drewno-swiat.png" alt="Nowe drewno"><figcaption><p>Nowe drewno</p></figcaption></figure>
+
 Nowe drzewa z [biomów](../wymiary/swiat-glowny/biomy.md) dają pełne zestawy drewna (deski, schody, płyty, płoty, drzwi, klapy, łodzie): **baobab, czarne drewno (blackwood), cyprys, martwe drewno, eukaliptus, drzewo Jozuego, kapok, modrzew, magnolia, klon, palma, sosna, sekwoja, smocze drzewo (socotra), wierzba, glicynia**, a także świecące **bioszroomy** z jaskiń.
 
 Nowe kamienie: **kreda** (z białych klifów) i inne skały z pełnym zestawem kształtów, do tego dziesiątki nowych **kwiatów, krzewów i traw**.
 
 ### Nether
+
+<figure><img src="../.gitbook/assets/bloki/drewno-nether.png" alt="Drewno z Netheru"><figcaption><p>Drewno z Netheru</p></figcaption></figure>
 
 Biomy [BetterNether](../wymiary/nether/biomy.md) dają drewno: **stalagnat, rubeus, wierzba netherowa, brodawkowe drewno, grzybowa jodła, drzewo kotwiczne, netherowa sakura, mroczne drewno**, a także:
 

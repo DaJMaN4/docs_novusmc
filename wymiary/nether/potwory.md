@@ -6,6 +6,8 @@ description: Nowe potwory i stworzenia w Netherze.
 
 ## Potwory
 
+<figure><img src="../../.gitbook/assets/nether/naga.png" alt="Naga"><figcaption><p>Naga</p></figcaption></figure>
+
 | Potwór | Gdzie | |
 | --- | --- | --- |
 | **Naga** | dżungle, bagna, łąki Netheru | Silna, wypada z niej czaszka witherowego szkieletu. |
@@ -23,6 +25,8 @@ description: Nowe potwory i stworzenia w Netherze.
 | **Okracznik** | delty bazaltowe | |
 
 ## Stworzenia
+
+<figure><img src="../../.gitbook/assets/nether/lewiatan.gif" alt="Lewiatan"><figcaption><p>Lewiatan</p></figcaption></figure>
 
 | Stworzenie | Gdzie | Wypada |
 | --- | --- | --- |

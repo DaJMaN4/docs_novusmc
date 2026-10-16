@@ -4,6 +4,12 @@ description: Siedem nowych totemów nieśmiertelności z dodatkowymi efektami.
 
 # 🗿 Totemy
 
+<figure><img src="../../.gitbook/assets/ekwipunek/totemy.png" alt="Totemy"><figcaption><p>Totemy</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/totem-zadlacy.gif" alt="Żądlący totem"><figcaption><p>Żądlący totem</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/totem-wybuchowy.gif" alt="Wybuchowy totem"><figcaption><p>Wybuchowy totem</p></figcaption></figure>
+
 Oprócz zwykłego totemu nieśmiertelności istnieje 7 nowych totemów. Każdy **ratuje przed śmiercią** jak zwykły totem (trzymany w ręce), a do tego daje dodatkowy efekt. Stworzysz je w stole rzemieślniczym: **zwykły totem na środku, a dookoła 8 sztuk składnika** z tabeli.
 
 | Totem | Składnik (8×) | Dodatkowy efekt |

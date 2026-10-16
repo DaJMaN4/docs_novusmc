@@ -6,6 +6,8 @@ description: Rudy, ekwipunek i rośliny Kresu.
 
 ## Rudy
 
+<figure><img src="../../.gitbook/assets/kres/rudy.png" alt="Rudy Kresu"><figcaption><p>Rudy Kresu</p></figcaption></figure>
+
 | Ruda | Gdzie | Zestaw |
 | --- | --- | --- |
 | **Voidium** | W kamieniu Kresu | Kresowy |

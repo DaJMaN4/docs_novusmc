@@ -12,6 +12,8 @@ Rangi kupisz za **kryształy** w sklepie premium (**`/sklep`** lub **`/rangi`**)
 
 ## Porównanie
 
+<figure><img src="../../.gitbook/assets/informacje/rangi.png" alt="Rangi"><figcaption><p>Rangi</p></figcaption></figure>
+
 | | Bez rangi | VIP | SVIP | MVIP |
 | --- | --- | --- | --- | --- |
 | Działki | 1 | 2 | 3 | 5 |

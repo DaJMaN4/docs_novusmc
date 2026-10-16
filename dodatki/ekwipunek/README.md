@@ -4,6 +4,8 @@ description: Wszystkie zestawy zbroi i broni na serwerze — porównanie, rudy, 
 
 # ⚔️ Ekwipunek
 
+<figure><img src="../../.gitbook/assets/ekwipunek/wszystkie-zestawy.png" alt="Zestawy zbroi"><figcaption><p>Zestawy zbroi</p></figcaption></figure>
+
 Oprócz zwykłego ekwipunku z Minecrafta na serwerze znajdziesz kilkanaście nowych zestawów zbroi i broni.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>💎 Zestawy z rzadkich rud</strong></td><td>Magma, wulkanit, duszmit, topaz, shulker, voidium, perłyt, enderyt.</td><td><a href="zestawy-rud.md">zestawy-rud.md</a></td></tr><tr><td><strong>🛡️ Zbroje specjalne</strong></td><td>10 zbroi z umiejętnościami i zbroja z promethium.</td><td><a href="zbroje.md">zbroje.md</a></td></tr><tr><td><strong>🗡️ Broń</strong></td><td>Noże, proce, trójzęby i młoty.</td><td><a href="bron.md">bron.md</a></td></tr><tr><td><strong>🗿 Totemy</strong></td><td>7 totemów nieśmiertelności z dodatkowymi efektami.</td><td><a href="totemy.md">totemy.md</a></td></tr></tbody></table>
@@ -26,6 +28,8 @@ Suma za pełny zestaw (4 części). Dla porównania: diamentowa zbroja to 20 pan
 | Zbroje specjalne | 6–20 | 0–16 | umiejętności | [Zbroje specjalne](zbroje.md) |
 
 ## Gwiezdny ekwipunek
+
+<figure><img src="../../.gitbook/assets/ekwipunek/gwiezdny.png" alt="Gwiezdny ekwipunek"><figcaption><p>Gwiezdny ekwipunek</p></figcaption></figure>
 
 Ekwipunek z **gwiezdnych kryształów** (zobacz [Gwiezdne odłamki](../maszyny/README.md#gwiezdne-odlamki)). Naprawisz go gwiezdnym kryształem, przyjmuje zaklęcia jak diamentowy.
 

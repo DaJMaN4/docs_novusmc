@@ -8,6 +8,8 @@ Oprócz zwykłych potworów spotkasz w świecie nowe, silniejsze odmiany i zupe�
 
 ## Szkielety
 
+<figure><img src="../../.gitbook/assets/potwory/szkielety.png" alt="Szkielety"><figcaption><p>Szkielety</p></figcaption></figure>
+
 | Potwór | |
 | --- | --- |
 | Szkielet | Odmieniony szkielet. |
@@ -25,6 +27,8 @@ Oprócz zwykłych potworów spotkasz w świecie nowe, silniejsze odmiany i zupe�
 | Nieznajomy w płaszczu | Rzadki, dziwny przybysz. |
 
 ## Inne potwory
+
+<figure><img src="../../.gitbook/assets/potwory/inne.png" alt="Nowe potwory"><figcaption><p>Nowe potwory</p></figcaption></figure>
 
 | Potwór | |
 | --- | --- |
@@ -46,6 +50,8 @@ Oprócz zwykłych potworów spotkasz w świecie nowe, silniejsze odmiany i zupe�
 Uważaj też na duże [zwierzęta](zwierzeta.md): niedźwiedź grizzly, tygrys, krokodyl, słoń i nosorożec bronią się, gdy je zaatakujesz.
 
 ## Bossowie
+
+<figure><img src="../../.gitbook/assets/potwory/boss.gif" alt="Walka z bossem"><figcaption><p>Walka z bossem</p></figcaption></figure>
 
 Bossowie czekają w lochach i na arenach (**`/warp`**). Zobacz też [Misje](../../informacje/zadania.md#misje).
 

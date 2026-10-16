@@ -4,6 +4,8 @@ description: Szybsze piece od miedzianego do netherytowego, ulepszanie pieców i
 
 # 🔥 Piece
 
+<figure><img src="../.gitbook/assets/piece/piece.png" alt="Piece"><figcaption><p>Piece</p></figcaption></figure>
+
 Szybsze piece zastępują zwykły piec. Działają jak zwykły piec, tylko szybciej, a **paliwo starcza na tyle samo przedmiotów**.
 
 | Piec | Czas przetapiania 1 przedmiotu | Szybciej niż zwykły piec |
@@ -20,6 +22,8 @@ Szybsze piece zastępują zwykły piec. Działają jak zwykły piec, tylko szybc
 
 ## Ulepszanie pieca
 
+<figure><img src="../.gitbook/assets/piece/ulepszanie.gif" alt="Ulepszanie pieca"><figcaption><p>Ulepszanie pieca</p></figcaption></figure>
+
 Kliknij **ulepszeniem pieca** postawiony piec — zmieni się w lepszy, a zawartość zostanie.
 
 | Ulepszenie pieca | |
@@ -31,6 +35,8 @@ Kliknij **ulepszeniem pieca** postawiony piec — zmieni się w lepszy, a zawart
 | obsydianowy → netherytowy | ostatni krok |
 
 ## Dodatki do pieca
+
+<figure><img src="../.gitbook/assets/piece/dodatki.png" alt="Dodatki do pieca"><figcaption><p>Dodatki do pieca</p></figcaption></figure>
 
 W menu pieca są dwa sloty na **dodatki** (ulepszenia działania). Dodatek zostaje w piecu, gdy go zniszczysz i postawisz ponownie.
 
@@ -44,6 +50,8 @@ W menu pieca są dwa sloty na **dodatki** (ulepszenia działania). Dodatek zosta
 Piec może mieć naraz jeden dodatek „trybu” (wytapianie albo wędzenie) i jeden dodatek „szybkości” (szybkość albo oszczędność paliwa).
 
 ## Automatyzacja
+
+<figure><img src="../.gitbook/assets/piece/automatyzacja.png" alt="Automatyczne przetapianie"><figcaption><p>Automatyczne przetapianie</p></figcaption></figure>
 
 Piece współpracują z lejkami i [kablami](maszyny/logistyka.md#kable):
 

@@ -6,6 +6,10 @@ description: Zbroje z umiejętnościami (Immersive Armors), zbroja z promethium 
 
 ## Zbroje z umiejętnościami
 
+<figure><img src="../../.gitbook/assets/ekwipunek/immersive-armors.png" alt="Zbroje z umiejętnościami"><figcaption><p>Zbroje z umiejętnościami</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/szlamowa-odbicie.gif" alt="Szlamowa zbroja — Odbicie"><figcaption><p>Szlamowa zbroja — Odbicie</p></figcaption></figure>
+
 Dziesięć zbroi o własnym wyglądzie. Wiele z nich ma **umiejętność**, która działa, gdy masz na sobie choć jedną część. Wszystkie stworzysz w stole rzemieślniczym.
 
 | Zbroja | Pancerz (hełm / napierśnik / nogawice / buty) | Właściwości | Z czego |
@@ -23,6 +27,10 @@ Dziesięć zbroi o własnym wyglądzie. Wiele z nich ma **umiejętność**, któ
 
 ## Zbroja z promethium
 
+<figure><img src="../../.gitbook/assets/ekwipunek/promethium.png" alt="Zbroja z promethium"><figcaption><p>Zbroja z promethium</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/chodzenie-po-lawie.gif" alt="Chodzenie po lawie"><figcaption><p>Chodzenie po lawie</p></figcaption></figure>
+
 Promethium zdobędziesz [łowiąc w lawie](../wedkarstwo.md#lowienie-w-lawie). Każda część zmniejsza obrażenia od ognia o **25%**, a w gorącu (w ogniu, w lawie albo w Netherze) daje dodatkową moc:
 
 | Część | W gorącu |
@@ -33,6 +41,8 @@ Promethium zdobędziesz [łowiąc w lawie](../wedkarstwo.md#lowienie-w-lawie). K
 | Buty | Chodzenie po lawie |
 
 ## Zestawy z Netheru (BetterNether)
+
+<figure><img src="../../.gitbook/assets/ekwipunek/betternether-zestawy.png" alt="Cincinnasite i Nether Ruby"><figcaption><p>Cincinnasite i Nether Ruby</p></figcaption></figure>
 
 W nowych biomach Netheru znajdziesz rudy **cincinnasite** i **netherowego rubinu**. Z nich zrobisz pełny ekwipunek (nazwy w grze są po angielsku):
 

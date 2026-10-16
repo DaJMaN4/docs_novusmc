@@ -13,6 +13,8 @@ Z każdej rzadkiej rudy zrobisz pełny zestaw: **miecz, topór, kilof, łopatę,
 
 ## Przegląd
 
+<figure><img src="../../.gitbook/assets/ekwipunek/rudy.png" alt="Rzadkie rudy"><figcaption><p>Rzadkie rudy</p></figcaption></figure>
+
 | Zestaw | Ruda — gdzie szukać | Materiał | Moc |
 | --- | --- | --- | --- |
 | [Magmowy](#magmowy) | Nether, klastry w blokach magmy (Y 20–40) | Kawałek magmy | jak żelazo |
@@ -54,17 +56,27 @@ Liczby to obrażenia ataku. Dla porównania diamentowy miecz zadaje 7, a nethery
 
 ## Magmowy
 
+<figure><img src="../../.gitbook/assets/ekwipunek/magmowy.png" alt="Zestaw magmowy"><figcaption><p>Zestaw magmowy</p></figcaption></figure>
+
 * **Żar** (miecz, topór): 20% szans na podpalenie celu.
 * **4 części:** Odporność na ogień.
 * Kilof i łopata przetapiają wykopane bloki.
 
 ## Shulkera
 
+<figure><img src="../../.gitbook/assets/ekwipunek/shulkera.png" alt="Zestaw shulkera"><figcaption><p>Zestaw shulkera</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/lewitacja.gif" alt="Zdolność Lewitacja"><figcaption><p>Zdolność Lewitacja</p></figcaption></figure>
+
 * **Lewitacja** (miecz, topór): 15% szans na uniesienie celu w powietrze.
 * **2 części:** −20% obrażeń od upadku.
 * **4 części — Skorupa:** 25% szans, że atakujący zostanie uniesiony w powietrze.
 
 ## Wulkanitowy
+
+<figure><img src="../../.gitbook/assets/ekwipunek/wulkanitowy.png" alt="Zestaw wulkanitowy"><figcaption><p>Zestaw wulkanitowy</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/autosmelt.gif" alt="Przetapianie rud kilofem"><figcaption><p>Przetapianie rud kilofem</p></figcaption></figure>
 
 * **Wulkaniczne Ostrze** (miecz, topór): 35% szans na podpalenie celu na 4 sekundy.
 * **2 części:** Odporność na ogień.
@@ -77,11 +89,15 @@ W skrzyniach w Netherze zamiast diamentowego ekwipunku trafiają się przedmioty
 
 ## Kresowy (voidium)
 
+<figure><img src="../../.gitbook/assets/ekwipunek/kresowy.png" alt="Zestaw kresowy"><figcaption><p>Zestaw kresowy</p></figcaption></figure>
+
 * **Pustka** (miecz, topór): 15% szans na oślepienie celu.
 * **2 części:** −15% obrażeń od upadku.
 * **4 części:** Widzenie w ciemności.
 
 ## Duszmitowy
+
+<figure><img src="../../.gitbook/assets/ekwipunek/duszmitowy.png" alt="Zestaw duszmitowy"><figcaption><p>Zestaw duszmitowy</p></figcaption></figure>
 
 * **Żniwiarz Dusz** (miecz, topór): zabicie moba leczy cię o 1 serce.
 * **2 części:** Odporność na ogień.
@@ -89,17 +105,27 @@ W skrzyniach w Netherze zamiast diamentowego ekwipunku trafiają się przedmioty
 
 ## Topazowy
 
+<figure><img src="../../.gitbook/assets/ekwipunek/topazowy.png" alt="Zestaw topazowy"><figcaption><p>Zestaw topazowy</p></figcaption></figure>
+
 * **Topazowy Rozbłysk** (miecz, topór): 15% szans na +50% obrażeń.
 * **2 części:** Szczęście I.
 * **4 części:** Pośpiech I.
 
 ## Perłytowy
 
+<figure><img src="../../.gitbook/assets/ekwipunek/perlytowy.png" alt="Zestaw perłytowy"><figcaption><p>Zestaw perłytowy</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/unik-kresu.gif" alt="Unik Kresu"><figcaption><p>Unik Kresu</p></figcaption></figure>
+
 * **Perłowy Odłamek** (miecz, topór): 20% szans na +30% obrażeń i spowolnienie celu.
 * **2 części:** −25% obrażeń od upadku.
 * **4 części — Unik Kresu:** 15% szans, że po otrzymaniu ciosu teleportujesz się kilka kratek dalej.
 
 ## Enderytowy
+
+<figure><img src="../../.gitbook/assets/ekwipunek/enderytowy.png" alt="Zestaw enderytowy"><figcaption><p>Zestaw enderytowy</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ekwipunek/mrugniecie.gif" alt="Mrugnięcie"><figcaption><p>Mrugnięcie</p></figcaption></figure>
 
 * **Rozdarcie Endu** (miecz, topór): 20% szans na +60% obrażeń.
 * **Mrugnięcie** (miecz, Shift + PPM): teleport do 8 kratek przed siebie, raz na 10 sekund.

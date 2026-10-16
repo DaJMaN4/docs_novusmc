@@ -8,6 +8,8 @@ description: Setki nowych i odnowionych struktur w Świecie Głównym.
 
 ## Odnowione struktury
 
+<figure><img src="../../.gitbook/assets/struktury/starozytne-miasto.png" alt="Starożytne miasto"><figcaption><p>Starożytne miasto</p></figcaption></figure>
+
 Zwykłe struktury Minecrafta zostały przebudowane i są większe oraz ciekawsze:
 
 * **Starożytne miasto**, **twierdza (stronghold)**, **monument oceaniczny**, **dwór w lesie**,
@@ -16,6 +18,12 @@ Zwykłe struktury Minecrafta zostały przebudowane i są większe oraz ciekawsze
 * **zniszczone portale**, **wraki statków** i **podwodne ruiny** (w tym podwodne miasto).
 
 ## Nowe struktury
+
+<figure><img src="../../.gitbook/assets/struktury/tawerna.png" alt="Tawerna"><figcaption><p>Tawerna</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/struktury/katakumby.png" alt="Katakumby"><figcaption><p>Katakumby</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/struktury/wieza.png" alt="Wieża obserwacyjna"><figcaption><p>Wieża obserwacyjna</p></figcaption></figure>
 
 * **Tawerny** i małe osady, w tym wioski ufortyfikowane.
 * **Lochy i krypty:** katakumby, pełzająca krypta, komnaty w jaskiniach, bunkry, pokoje potworów.

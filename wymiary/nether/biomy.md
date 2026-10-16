@@ -8,6 +8,12 @@ Nether jest dużo bardziej zróżnicowany niż w zwykłym Minecrafcie. Oprócz p
 
 ## Lasy
 
+<figure><img src="../../.gitbook/assets/nether/dzungla.png" alt="Nether Jungle"><figcaption><p>Nether Jungle</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/nether/grzybowy-las.png" alt="Nether Mushroom Forest"><figcaption><p>Nether Mushroom Forest</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/nether/odwrocony-las.png" alt="Upside Down Forest"><figcaption><p>Upside Down Forest</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Nether Jungle** | Netherowa dżungla — gęsta, pełna pnączy i świątyń. |
@@ -22,6 +28,8 @@ Nether jest dużo bardziej zróżnicowany niż w zwykłym Minecrafcie. Oprócz p
 
 ## Bagna i równiny
 
+<figure><img src="../../.gitbook/assets/nether/mokradla.png" alt="Nether Swampland"><figcaption><p>Nether Swampland</p></figcaption></figure>
+
 | Biom | |
 | --- | --- |
 | **Nether Swampland**, **Nether Swampland Terraces**, **Old Swampland** | Netherowe mokradła i tarasy. |
@@ -31,6 +39,8 @@ Nether jest dużo bardziej zróżnicowany niż w zwykłym Minecrafcie. Oprócz p
 | **Mycotoxic Undergrowth** | Trujące grzybowe poszycie. |
 
 ## Pustkowia
+
+<figure><img src="../../.gitbook/assets/nether/koscista-rafa.png" alt="Bone Reef"><figcaption><p>Bone Reef</p></figcaption></figure>
 
 | Biom | |
 | --- | --- |

@@ -4,9 +4,13 @@ description: Nowe uprawy, kuchnia, dziesiątki potraw i wystawianie jedzenia.
 
 # 🧑‍🍳 Gotowanie
 
+<figure><img src="../.gitbook/assets/gotowanie/kuchnia.png" alt="Kuchnia"><figcaption><p>Kuchnia</p></figcaption></figure>
+
 Na serwerze możesz gotować dziesiątki nowych potraw. Dobre jedzenie daje więcej sytości, a część potraw daje efekty.
 
 ## Nowe uprawy
+
+<figure><img src="../.gitbook/assets/gotowanie/uprawy.png" alt="Nowe uprawy"><figcaption><p>Nowe uprawy</p></figcaption></figure>
 
 | Uprawa | Jak zdobyć |
 | --- | --- |
@@ -18,6 +22,8 @@ Na serwerze możesz gotować dziesiątki nowych potraw. Dobre jedzenie daje wię
 Zebrane plony przechowasz w skrzynkach (marchewek, ziemniaków, buraków, kapusty, pomidorów, cebuli) i belach ryżu.
 
 ## Wyposażenie kuchni
+
+<figure><img src="../.gitbook/assets/gotowanie/garnek.gif" alt="Gotowanie w garnku"><figcaption><p>Gotowanie w garnku</p></figcaption></figure>
 
 | Blok / przedmiot | Do czego służy |
 | --- | --- |
@@ -37,9 +43,13 @@ Zebrane plony przechowasz w skrzynkach (marchewek, ziemniaków, buraków, kapust
 
 ## Potrawy
 
+<figure><img src="../.gitbook/assets/gotowanie/potrawy.png" alt="Potrawy"><figcaption><p>Potrawy</p></figcaption></figure>
+
 Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, dyniowy), dania z ryżem, makarony, kanapki, hamburgery, wrapy, sałatki, desery i napoje. Duże dania — np. **pieczony kurczak**, **faszerowana dynia**, **szynka w miodzie** czy **zapiekanka pasterska** — stawia się na stole i nakłada porcje do misek.
 
 ## Mięso z dzikich zwierząt
+
+<figure><img src="../.gitbook/assets/gotowanie/mieso.png" alt="Mięso z dzikich zwierząt"><figcaption><p>Mięso z dzikich zwierząt</p></figcaption></figure>
 
 [Dzikie zwierzęta](../wymiary/swiat-glowny/zwierzeta.md) zostawiają nowe rodzaje mięsa. Surowe mięso upieczesz w piecu, wędzarni albo na ognisku.
 
@@ -63,6 +73,8 @@ Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, d
 Inne przysmaki: **latająca ryba**, **kosmiczny dorsz** (z Kresu), **blobfisz** i **tran**. O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
 
 ## Wystawianie jedzenia
+
+<figure><img src="../.gitbook/assets/gotowanie/talerze.gif" alt="Wystawianie jedzenia"><figcaption><p>Wystawianie jedzenia</p></figcaption></figure>
 
 Jedzenie możesz wystawić jako dekorację:
 

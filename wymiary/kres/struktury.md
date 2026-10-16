@@ -4,6 +4,8 @@ description: Nowe struktury w Kresie.
 
 # 🌆 Struktury
 
+<figure><img src="../../.gitbook/assets/kres/zamek.png" alt="Zamek Kresu"><figcaption><p>Zamek Kresu</p></figcaption></figure>
+
 * **Miasta Kresu** w nowej odsłonie.
 * **Zamek Kresu**.
 * **Latarnia Kresu**.

@@ -4,9 +4,13 @@ description: Ponad 70 nowych ryb, lepsze wędki i przynęty, skrzynie z łowieni
 
 # 🎣 Wędkarstwo
 
+<figure><img src="../.gitbook/assets/wedkarstwo/ryby.png" alt="Nowe ryby"><figcaption><p>Nowe ryby</p></figcaption></figure>
+
 Łowienie jest dużo ciekawsze niż w zwykłym Minecrafcie. **To, co złowisz, zależy od miejsca**: wody słodkiej czy słonej, klimatu, głębokości, wymiaru, a nawet biomu.
 
 ## Wędki
+
+<figure><img src="../.gitbook/assets/wedkarstwo/wedki.png" alt="Wędki"><figcaption><p>Wędki</p></figcaption></figure>
 
 Lepsze wędki robisz w **stole kowalskim**: **nić** (zamiast szablonu) + wędka + materiał.
 
@@ -31,6 +35,8 @@ Przynętę trzymasz w **drugiej ręce** podczas łowienia. Zwykłą przynętę z
 | **Magnetyczna przynęta** | Większa szansa na skrzynię. |
 
 ## Skrzynie z łowienia
+
+<figure><img src="../.gitbook/assets/wedkarstwo/skrzynia.gif" alt="Skrzynia z łowienia"><figcaption><p>Skrzynia z łowienia</p></figcaption></figure>
 
 Czasem zamiast ryby wyłowisz **skrzynię** — kliknij ją PPM, aby otworzyć. W zwykłej wodzie łowisz **drewniane skrzynie**, w lawie **obsydianowe**, a w Kresie **skrzynie Kresu**. Zawartość zależy od miejsca łowienia.
 
@@ -75,6 +81,10 @@ Specjalne łowiska: przy **monumencie oceanicznym** złowisz wodny cierń, pryzm
 
 ## Łowienie w lawie
 
+<figure><img src="../.gitbook/assets/wedkarstwo/lowienie-w-lawie.gif" alt="Łowienie w lawie"><figcaption><p>Łowienie w lawie</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/wedkarstwo/skarb-prometeusza.gif" alt="Skarb Prometeusza"><figcaption><p>Skarb Prometeusza</p></figcaption></figure>
+
 Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik unosi się na lawie, a gdy ryba bierze, zanurza się — wtedy zwiń wędkę. W Netherze złowisz więcej gatunków.
 
 | Ryba z lawy | Efekt po zjedzeniu |
@@ -91,6 +101,10 @@ Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik
 * **Skarb Prometeusza** — kliknij go PPM, aby otworzyć i zdobyć promethium albo części zbroi z promethium.
 
 ## Pułapka na ryby
+
+<figure><img src="../.gitbook/assets/wedkarstwo/pulapka.png" alt="Pułapka na ryby"><figcaption><p>Pułapka na ryby</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/wedkarstwo/pulapka-menu.png" alt="Menu pułapki"><figcaption><p>Menu pułapki</p></figcaption></figure>
 
 Pułapka łowi ryby sama, bez twojej obecności. Stworzysz ją z **patyków i płótna** (z kuchni).
 

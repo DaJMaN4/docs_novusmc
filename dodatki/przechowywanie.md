@@ -6,6 +6,10 @@ description: Większe skrzynie, szuflady na tysiące przedmiotów, kosze na śmi
 
 ## Skrzynie metalowe
 
+<figure><img src="../.gitbook/assets/przechowywanie/skrzynie.png" alt="Skrzynie metalowe"><figcaption><p>Skrzynie metalowe</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/przechowywanie/krysztalowa.png" alt="Kryształowa skrzynia"><figcaption><p>Kryształowa skrzynia</p></figcaption></figure>
+
 Większe skrzynie z metali i klejnotów. Działają z lejkami i [kablami](maszyny/logistyka.md#kable).
 
 | Skrzynia | Miejsc | Uwagi |
@@ -21,6 +25,8 @@ Większe skrzynie z metali i klejnotów. Działają z lejkami i [kablami](maszyn
 Skrzynie, które mają więcej niż 6 rzędów, **przewijasz** strzałkami w menu.
 
 ### Ulepszanie skrzyń
+
+<figure><img src="../.gitbook/assets/przechowywanie/ulepszanie-skrzyni.gif" alt="Ulepszanie skrzyni"><figcaption><p>Ulepszanie skrzyni</p></figcaption></figure>
 
 Nie musisz przekładać przedmiotów. Kliknij **ulepszeniem skrzyni** postawioną skrzynię — zmieni się w lepszą, a zawartość zostanie.
 
@@ -40,6 +46,8 @@ Ulepszyć można tylko **pojedynczą** skrzynię. Podwójną skrzynię najpierw 
 
 ## Szuflady
 
+<figure><img src="../.gitbook/assets/przechowywanie/szuflady.png" alt="Szuflady"><figcaption><p>Szuflady</p></figcaption></figure>
+
 Szuflady przechowują **dużo sztuk kilku rodzajów przedmiotów** i pokazują je na froncie razem z liczbą.
 
 | Szuflada | Przegródek | Pojemność przegródki (bez ulepszeń) |
@@ -53,6 +61,8 @@ Szuflady przechowują **dużo sztuk kilku rodzajów przedmiotów** i pokazują j
 Szuflady są w **każdym rodzaju drewna**. Do tego **obramowania** (trim) — dekoracyjne bloki pasujące do szuflad.
 
 ### Jak używać
+
+<figure><img src="../.gitbook/assets/przechowywanie/szuflady-uzycie.gif" alt="Wkładanie do szuflad"><figcaption><p>Wkładanie do szuflad</p></figcaption></figure>
 
 * **PPM przedmiotem** — wkładasz trzymany stos. **Dwuklik PPM** — wkładasz wszystkie pasujące przedmioty z ekwipunku.
 * **LPM** — wyjmujesz 1 sztukę, **Shift + LPM** — cały stos.
@@ -79,16 +89,24 @@ Ulepszenia tworzysz na **szablonie ulepszenia**.
 
 ### Klucz i kontroler
 
+<figure><img src="../.gitbook/assets/przechowywanie/kontroler.gif" alt="Kontroler szuflad"><figcaption><p>Kontroler szuflad</p></figcaption></figure>
+
 * **Klucz do szuflad** — kliknij nim szufladę, aby ją **zablokować**: zapamięta przedmioty, nawet gdy się opróżni.
 * **Kontroler** — łączy wszystkie szuflady stykające się z nim (do 12 kratek). Włóż przedmiot do kontrolera — trafi do szuflady, w której już taki leży. Do kontrolera podłączysz lejek lub kabel.
 
 ## Kosz na śmieci
+
+<figure><img src="../.gitbook/assets/przechowywanie/kosz.png" alt="Kosz na śmieci"><figcaption><p>Kosz na śmieci</p></figcaption></figure>
 
 * Przedmioty włożone do **górnego rzędu** znikają po 5 sekundach (do tego czasu możesz je wyjąć).
 * Kosz niszczy też przedmioty, płyny i energię wpychane przez **lejki i rury**.
 * **Dolny rząd** to filtr: przyciskiem na środku wybierasz, czy kosz ma przyjmować z lejków i rur tylko przedmioty z filtra, czy wszystko oprócz nich.
 
 ## Plecaki podróżnika
+
+<figure><img src="../.gitbook/assets/przechowywanie/plecaki.png" alt="Plecaki podróżnika"><figcaption><p>Plecaki podróżnika</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/przechowywanie/plecak-menu.png" alt="Menu plecaka"><figcaption><p>Menu plecaka</p></figcaption></figure>
 
 Plecaki, które nosisz jako przedmiot albo stawiasz na ziemi. Jest ich **44 wzory** — od standardowego, przez zwierzęce (krowi, lisi, smoczy), po surowcowe (diamentowy, netherytowy).
 

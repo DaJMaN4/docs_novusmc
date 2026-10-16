@@ -10,6 +10,8 @@ Menu umiejętności otworzysz komendą **`/staty`**. Każda umiejętność ma **
 
 ## Lista umiejętności
 
+<figure><img src="../.gitbook/assets/informacje/umiejetnosci.png" alt="Menu umiejętności"><figcaption><p>Menu umiejętności</p></figcaption></figure>
+
 | Umiejętność | Jak zdobyć doświadczenie | Zdolności |
 | --- | --- | --- |
 | 🌾 **Rolnictwo** | Zbieranie plonów | Obfite Zbiory, Rolnik, Mistrz Motyki, Genetyk, Aura Wzrostu |
@@ -35,6 +37,8 @@ Menu umiejętności otworzysz komendą **`/staty`**. Każda umiejętność ma **
 * **Alchemik** — mikstury, które uwarzysz, działają dłużej.
 
 ## Zdolności many
+
+<figure><img src="../.gitbook/assets/informacje/zdolnosc-many.gif" alt="Zdolność many w akcji"><figcaption><p>Zdolność many w akcji</p></figcaption></figure>
 
 Niektóre umiejętności mają aktywne zdolności, które zużywają manę. Aktywujesz je prawym przyciskiem myszy z odpowiednim narzędziem:
 

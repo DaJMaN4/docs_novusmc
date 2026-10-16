@@ -6,6 +6,8 @@ description: Skup surowców, sklep serwerowy, aukcje i sklepy graczy.
 
 ## Skup
 
+<figure><img src="../.gitbook/assets/informacje/skup.png" alt="Skup"><figcaption><p>Skup</p></figcaption></figure>
+
 W skupie sprzedasz zebrane surowce za pieniądze. Jest podzielony na kategorie:
 
 * **Surowce** (dwie strony),
@@ -18,6 +20,8 @@ W skupie sprzedasz zebrane surowce za pieniądze. Jest podzielony na kategorie:
 Niektóre skupy mają **dynamiczne ceny** — zmieniają się w zależności od tego, ile danego towaru sprzedają gracze. Dzięki temu rynek sam się reguluje i żaden surowiec nie jest stale najbardziej opłacalny.
 
 ## Aukcje
+
+<figure><img src="../.gitbook/assets/informacje/aukcje.png" alt="Aukcje"><figcaption><p>Aukcje</p></figcaption></figure>
 
 Aukcje to rynek tworzony przez graczy.
 
@@ -32,6 +36,8 @@ Aukcje to rynek tworzony przez graczy.
 | MVIP | 20 |
 
 ## Sklepy na działce
+
+<figure><img src="../.gitbook/assets/informacje/sklep-skrzynkowy.gif" alt="Zakładanie sklepu skrzynkowego"><figcaption><p>Zakładanie sklepu skrzynkowego</p></figcaption></figure>
 
 Na swojej działce możesz postawić **skrzynkowy sklep**: kliknij skrzynię przedmiotem, który chcesz sprzedawać, wpisz cenę na czacie i włóż przedmioty do skrzyni.
 

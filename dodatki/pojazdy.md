@@ -6,6 +6,10 @@ description: Jetpacki, lotnie, windy, kamienie podróży, łączniki refrenu i p
 
 ## Jetpacki
 
+<figure><img src="../.gitbook/assets/podroze/jetpack.gif" alt="Lot jetpackiem"><figcaption><p>Lot jetpackiem</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/podroze/jetpacki.png" alt="Jetpacki"><figcaption><p>Jetpacki</p></figcaption></figure>
+
 Jetpack zakładasz na tors zamiast napierśnika i **latasz, trzymając spację**. Zasilany jest energią — naładujesz go w [ładowarce](maszyny/przetwarzanie.md#ladowarka-i-ladowarka-bezprzewodowa).
 
 | Jetpack | Bateria | Zużycie | Prędkość lotu |
@@ -28,12 +32,16 @@ Wersję opancerzoną stworzysz z jetpacka i napierśnika. Kolejny poziom jetpack
 
 ## Lotnie
 
+<figure><img src="../.gitbook/assets/podroze/lotnia.gif" alt="Lotnia"><figcaption><p>Lotnia</p></figcaption></figure>
+
 Lotnia pozwala **szybować** w powietrzu — skocz z wysokiego miejsca, trzymając ją w ręce. Lotnie są w 16 kolorach.
 
 * Lotnia ma **300 punktów wytrzymałości** i traci 1 punkt na sekundę lotu. Gdy zostanie 1 punkt, lotnia ląduje.
 * Naprawisz ją na kowadle **membraną fantoma**.
 
 ## Windy
+
+<figure><img src="../.gitbook/assets/podroze/winda.gif" alt="Winda"><figcaption><p>Winda</p></figcaption></figure>
 
 **Winda** to blok z wełny i perły Kresu. Postaw kilka wind w jednej kolumnie (jedna nad drugą, w dowolnej odległości):
 
@@ -42,6 +50,10 @@ Lotnia pozwala **szybować** w powietrzu — skocz z wysokiego miejsca, trzymaj�
 * Kliknij windę PPM innym blokiem, aby ją **przebrać** za ten blok (np. za podłogę z desek).
 
 ## Kamienie podróży
+
+<figure><img src="../.gitbook/assets/podroze/kamien-podrozy.png" alt="Kamień podróży"><figcaption><p>Kamień podróży</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/podroze/kamien-podrozy-menu.png" alt="Menu kamieni podróży"><figcaption><p>Menu kamieni podróży</p></figcaption></figure>
 
 Kamienie podróży (waystones) to sieć teleportów. Postaw kamień, **aktywuj go** (PPM), a potem możesz się do niego teleportować z każdego innego kamienia, który znasz.
 
@@ -60,6 +72,8 @@ Przydatne przedmioty:
 
 ## Łączniki refrenu
 
+<figure><img src="../.gitbook/assets/podroze/lacznik-refrenu.gif" alt="Łącznik refrenu"><figcaption><p>Łącznik refrenu</p></figcaption></figure>
+
 Zwykły owoc refrenu teleportuje losowo. **Łącznik refrenu** sprawia, że zjedzony w pobliżu owoc przenosi cię **dokładnie do łącznika**.
 
 | Przedmiot | Jak zrobić | Działanie |
@@ -72,6 +86,8 @@ Złote owoce refrenu znajdziesz też w skrzyniach w miastach Kresu, a na statkac
 
 ## Przekaźnik Kresu
 
+<figure><img src="../.gitbook/assets/podroze/przekaznik-kresu.gif" alt="Przekaźnik Kresu"><figcaption><p>Przekaźnik Kresu</p></figcaption></figure>
+
 **Przekaźnik Kresu** (obsydian, prażone owoce refrenu i kompas) przenosi cię z Kresu prosto do wybranego miejsca w świecie:
 
 1. Do stworzenia użyj **kompasu nastawionego na magnetyt** — przekaźnik zapamięta ten magnetyt.
@@ -83,5 +99,7 @@ Przekaźnik działa **tylko w Kresie**. Użyty w innym wymiarze — wybucha.
 {% endhint %}
 
 ## Łodzie
+
+<figure><img src="../.gitbook/assets/podroze/lodzie.png" alt="Nowe łodzie"><figcaption><p>Nowe łodzie</p></figcaption></figure>
 
 Nowe rodzaje drewna z [biomów Świata Głównego](../wymiary/swiat-glowny/biomy.md) i [Netheru](../wymiary/nether/biomy.md) mają własne **łodzie i łodzie ze skrzynią** (np. baobab, cyprys, eukaliptus, klon, sekwoja, wierzba, glicynia, a w Netherze m.in. mroczne drewno i drzewo kotwiczne). W Netherze zrobisz też **tratwę z netherowej trzciny**.
