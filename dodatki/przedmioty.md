@@ -1,99 +1,46 @@
 ---
-description: Nowe rudy i zestawy ekwipunku, maszyny, piece, magazyny, narzędzia i inne dodatki.
+description: Przegląd wszystkich nowych przedmiotów i bloków — gdzie je znaleźć w grze i która strona je opisuje.
 ---
 
 # ⚒️ Przedmioty
 
-{% hint style="info" %}
-Wszystkie nowe przedmioty i ich receptury przejrzysz w grze w menu przedmiotów, podzielonym na kategorie jak w trybie kreatywnym.
-{% endhint %}
+Na serwerze są **tysiące nowych przedmiotów i bloków**: rudy i zestawy ekwipunku, maszyny, większe skrzynie, szybsze piece, jedzenie, meble i bloki budowlane.
 
-## Rzadkie rudy i zestawy ekwipunku
+## Menu przedmiotów
 
-Na serwerze są rudy, których nie ma w zwykłym Minecrafcie. Z każdej zrobisz pełny zestaw: miecz, topór, kilof, łopatę, motykę i cztery części zbroi. Miecz i topór mają specjalną zdolność, a zbroja daje premie za noszenie 2 i 4 części.
+Wszystkie przedmioty przejrzysz w grze komendą **`/nova items`**. Menu jest podzielone na zakładki jak w trybie kreatywnym:
 
-| Zestaw | Gdzie szukać | Zdolność broni | Premia za 2 / 4 części |
-| --- | --- | --- | --- |
-| **Magmowy** | Nether, klastry w blokach magmy (Y 20–40) | Żar: 20% szans na podpalenie | — / Odporność na ogień |
-| **Wulkanitowy** | Nether, w netherracku (Y 40–187) | Wulkaniczne Ostrze: 35% szans na podpalenie na 4 s | Odporność na ogień / Lawowa Skóra: 30% szans na podpalenie atakującego |
-| **Duszmitowy** | Nether, w netherracku | Żniwiarz Dusz: zabicie stwora leczy o 1 serce | Odporność na ogień / Szybkość I |
-| **Topazowy** | Świat, głęboko w łupku (Y −61 do −30) | Topazowy Rozbłysk: 15% szans na +50% obrażeń | Szczęście I / Pośpiech I |
-| **Shulkera** | Kres | Lewitacja: 15% szans na uniesienie celu | −20% obrażeń od upadku / Skorupa: 25% szans na uniesienie atakującego |
-| **Kresowy (voidium)** | Kres, w kamieniu Kresu | Pustka: 15% szans na oślepienie celu | −15% obrażeń od upadku / Widzenie w ciemności |
-| **Perłytowy** | Kres, w kamieniu Kresu (Y 8–70) | Perłowy Odłamek: 20% szans na +30% obrażeń i spowolnienie | −25% obrażeń od upadku / Unik Kresu: 15% szans na teleport po otrzymaniu ciosu |
-| **Enderytowy** | Kres, bardzo rzadko | Rozdarcie Endu: 20% szans na +60% obrażeń | Widzenie w ciemności / Odporność I |
-
-* Zestawy z Netheru zmniejszają obrażenia od ognia, a narzędzia magmowe i wulkanitowe od razu przetapiają wykopane rudy.
-* Wulkanit, duszmit, topaz, voidium i perłyt dają ekwipunek **lepszy od diamentowego**; enderyt jest najmocniejszy.
-* W skrzyniach w Netherze diamentowy ekwipunek zastępują przedmioty z wulkanitu.
-
-### Promethium
-
-Promethium zdobywa się **łowiąc w lawie** — zobacz [Łowienie w lawie](#lowienie-w-lawie). Zbroja z promethium zmniejsza obrażenia od ognia o 25% za każdą część, a w gorącu (w ogniu, w lawie albo w Netherze):
-
-* **hełm** daje widzenie w lawie,
-* **napierśnik** powoli leczy,
-* **nogawice** przyspieszają,
-* **buty** pozwalają chodzić po lawie.
-
-## Zbroje z Immersive Armors
-
-Dziesięć dodatkowych zbroi o różnym wyglądzie i właściwościach: **Kościana, Witherowa, Wojownika, Ciężka, Szata, Szlamowa, Boska, Pryzmarynowa, Drewniana i Steampunkowa**.
-
-## Piece
-
-Szybsze piece zastępują zwykły piec. Piec ulepszasz **ulepszeniem pieca**: kliknij nim w postawiony piec — zawartość zostaje.
-
-| Piec | Czas przetapiania (zwykły piec = 10 s) |
+| Zakładka | Co w niej jest |
 | --- | --- |
-| Miedziany | 9 s |
-| Żelazny | 8 s |
-| Złoty | 6 s |
-| Diamentowy | 4 s |
-| Szmaragdowy / Kryształowy | 2 s |
-| Obsydianowy | 1 s |
-| Netherytowy | 0,25 s |
+| **Bloki budowlane** | Kamienie, cegły, kafelki, dachy, szkło, drewno |
+| **Bloki naturalne** | Rudy, rośliny, liście, gleba |
+| **Bloki funkcjonalne** | Meble, szuflady, groby, pułapki, windy |
+| **Mechanizmy** | Maszyny, kable, piece, skrzynie, ulepszenia |
+| **Narzędzia** | Narzędzia, młoty, wędki, plecaki, jetpacki, lotnie |
+| **Walka** | Broń, zbroje, totemy |
+| **Jedzenie i napoje** | Potrawy i napoje |
+| **Składniki** | Sztabki, pyły, części i materiały |
 
-Do pieca włożysz też **ulepszenia** (w jego menu): **wytapianie** albo **wędzenie** zmienia piec w piec hutniczy / wędzarnię, a **szybkość** lub **oszczędność paliwa** zmienia tempo pracy i zużycie paliwa.
+* **Kliknij** przedmiot — zobaczysz, **jak go stworzyć**.
+* **Kliknij PPM** — zobaczysz, **do czego służy** (w jakich recepturach jest składnikiem).
 
-## Maszyny i logistyka
+## Kategorie
 
-Rozbudowany system maszyn zasilanych energią:
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>⚔️ Ekwipunek</strong></td><td>Zestawy z rzadkich rud, zbroje z umiejętnościami, broń i totemy.</td><td><a href="ekwipunek/README.md">ekwipunek/README.md</a></td></tr><tr><td><strong>⚙️ Maszyny</strong></td><td>Generatory, przetwarzanie, farmy, wydobycie i logistyka.</td><td><a href="maszyny/README.md">maszyny/README.md</a></td></tr><tr><td><strong>📦 Przechowywanie</strong></td><td>Większe skrzynie, szuflady, kosze i plecaki.</td><td><a href="przechowywanie.md">przechowywanie.md</a></td></tr><tr><td><strong>🔥 Piece</strong></td><td>Piece od miedzianego do netherytowego.</td><td><a href="piece.md">piece.md</a></td></tr><tr><td><strong>🛠️ Narzędzia</strong></td><td>Młoty 3×3 i stół nasycania zaklęć.</td><td><a href="narzedzia.md">narzedzia.md</a></td></tr><tr><td><strong>🎣 Wędkarstwo</strong></td><td>Nowe ryby, wędki, łowienie w lawie.</td><td><a href="wedkarstwo.md">wedkarstwo.md</a></td></tr><tr><td><strong>🚗 Podróże</strong></td><td>Jetpacki, lotnie, windy, teleporty.</td><td><a href="pojazdy.md">pojazdy.md</a></td></tr><tr><td><strong>🪦 Groby</strong></td><td>Twoje rzeczy po śmierci.</td><td><a href="groby.md">groby.md</a></td></tr><tr><td><strong>🧱 Bloki budowlane</strong></td><td>Tysiące nowych bloków.</td><td><a href="bloki-budowlane.md">bloki-budowlane.md</a></td></tr><tr><td><strong>🪑 Meble</strong></td><td>Ponad 900 mebli i dekoracji.</td><td><a href="meble.md">meble.md</a></td></tr><tr><td><strong>🧑‍🍳 Gotowanie</strong></td><td>Uprawy, kuchnia i potrawy.</td><td><a href="gotowanie.md">gotowanie.md</a></td></tr><tr><td><strong>🦋 Insekty</strong></td><td>Łapanie owadów.</td><td><a href="insekty.md">insekty.md</a></td></tr></tbody></table>
 
-* **Generatory:** panel słoneczny, turbina wiatrowa, generator pieca, generator lawy, wymiennik piorunów.
-* **Maszyny:** piec elektryczny, prasa mechaniczna, rozpryskiwacz, kamieniołom, niszczyciel i stawiacz bloków, sadzarka, żniwiarka, hodowca, zabójca mobów, automatyczna rybiarka, fabryka drzew, pompa, zamrażarka, generator bruku, auto crafter i inne.
-* **Logistyka:** kable, ogniwa zasilające, zbiorniki płynów, jednostki magazynowe, skrzynia próżniowa i filtry przedmiotów.
-* **Ulepszenia maszyn:** prędkość, wydajność, energia, zasięg i płyny.
+## Szybki przegląd
 
-## Magazyny
+| Szukasz… | Zobacz |
+| --- | --- |
+| ekwipunku lepszego od diamentowego | [Zestawy z rzadkich rud](ekwipunek/zestawy-rud.md) |
+| sposobu na automatyczną farmę | [Maszyny → Farmy](maszyny/farmy.md) |
+| miejsca na tysiące przedmiotów | [Szuflady](przechowywanie.md#szuflady), [jednostka magazynowa](maszyny/logistyka.md#jednostki-magazynowe) |
+| szybszego przetapiania | [Piece](piece.md), [piec elektryczny](maszyny/przetwarzanie.md#piec-elektryczny) |
+| więcej sztabek z rud | [Rozpryskiwacz](maszyny/przetwarzanie.md#rozpryskiwacz) |
+| konkretnych zaklęć | [Stół nasycania zaklęć](narzedzia.md#stol-nasycania-zaklec) |
+| latania | [Jetpacki](pojazdy.md#jetpacki), [lotnie](pojazdy.md#lotnie) |
+| ochrony przed śmiercią | [Totemy](ekwipunek/totemy.md), [Groby](groby.md) |
 
-* **Szuflady** — przechowują ogromne ilości jednego przedmiotu. Kliknij przedmiotem, aby go włożyć (dwuklik — wszystkie pasujące z ekwipunku), lewym przyciskiem wyjmiesz jedną sztukę, a ze shiftem cały stos. Szuflady kompaktujące same zamieniają np. bryłki na sztabki i bloki. Szuflady ulepszysz ulepszeniami pojemności i zablokujesz kluczem.
-* **Kosz na śmieci** — przedmioty włożone do górnego rzędu znikają po 5 sekundach. Kosz niszczy też przedmioty, płyny i energię z rur i lejków; dolny rząd to filtr.
+## Lucky Block
 
-## Plecaki podróżnika
-
-Plecaki noszone jako przedmiot albo stawiane na ziemi (Shift + PPM na bloku). Mają miejsce na przedmioty i zbiorniki na płyny. Ulepszysz je ulepszeniami poziomu: żelaznym, złotym, diamentowym i netherytowym.
-
-## Stół nasycania zaklęć
-
-Stół, przy którym **sam wybierasz zaklęcia** i ich poziomy. Postaw wokół niego biblioteczki jak przy stole do zaklinania — im więcej, tym wyższe poziomy. Wersja zaawansowana pozwala na mocniejsze zaklęcia.
-
-## Narzędzia
-
-* **Młoty** — kopią obszar 3 × 3. Od drewnianego do netherytowego, a także szmaragdowy, obsydianowy, lapis, kwarcowy, ognisty, pryzmarynowy, szlamowy i kresowy.
-* **Gwiezdne narzędzia** — miecz, łopata, kilof i topór z gwiezdnych odłamków.
-
-## Trójzęby
-
-* Trójząb z **Lojalnością** wraca nawet z pustki pod światem i trafia z powrotem do tego samego miejsca w ekwipunku.
-* Gdy zabijesz moba trójzębem z Lojalnością, łupy i doświadczenie trafiają **prosto do ciebie**.
-* **Przebicie** rani wszystkie moby w wodzie i w deszczu, nie tylko morskie.
-* **Starszy Strażnik** upuszcza **fragment trójzębu**. Z 3 fragmentów i 2 odłamków pryzmarynu stworzysz trójząb.
-
-## Łowienie w lawie
-
-Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik unosi się na lawie, a gdy ryba bierze, zanurza się — wtedy zwiń wędkę. W Netherze złowisz więcej gatunków.
-
-* **Ryby z lawy:** ognisty homarzec (Odporność), obsydianowy miecznik (Odporność na ogień), parowa ryba latająca (chodzenie po lawie), ryba Agni (Wieczny płomień — twoje ataki podpalają), lawowa arowana, ślimak łuskonogi, krab yeti, lawowy minóg i kwarcowa ryba.
-* **Skarby:** bryłki promethium i **Skarb Prometeusza** — kliknij go PPM, aby otworzyć i zdobyć promethium albo części zbroi z promethium.
-* **Proce:** żelazna, neptunowa (kulki lecą przez wodę) i z promethium (strzela seriami). Napinasz je jak łuk. Kulki: kamienne, żelazne, neptunowe i z promethium (wybuchają odłamkami).
+**Lucky Block** (8 sztabek złota + kwarc; czasem spotkasz go też w świecie) — zniszcz go, aby sprawdzić swoje szczęście! Może wypaść coś cennego… albo coś bardzo niebezpiecznego.

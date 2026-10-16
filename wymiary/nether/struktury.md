@@ -7,15 +7,16 @@ description: Nowe i odnowione struktury w Netherze.
 ## Odnowione
 
 * **Twierdza Netheru** — przebudowana, większa i groźniejsza.
-* **Zniszczone portale** — nowe wersje, w tym ruiny piglinów.
+* **Zniszczone portale** — nowe wersje w każdym wymiarze.
 
 ## Nowe struktury
 
-* **Zakazany zamek** — ogromna forteca.
-* **Wioska piglinów**, obozy piglinów, donżon i placówki piglinów.
-* **Sanktuarium**, **ołtarz piekielny**, **opuszczona wieża**.
-* **Reaktor Netheru**, **zrujnowane laboratorium**, **rurociąg**, **kwarcowa kuchnia**.
-* **Twierdza** i **port Netheru**.
+* **Twierdza** (keep) i **port Netheru**.
+* **Donżon** i **placówki piglinów**.
 * **Wieże szkieletów** — w lasach karmazynowych, spaczonych, w dolinach dusz i przy twierdzach.
-* **Wieże i placówki** — wieża twierdzy, dziwna i spaczona placówka.
-* **Filary Netheru** i **przecieki** ze świata zwykłego.
+* **Świątynie w dżungli** — w netherowych dżunglach.
+* **Piramidy** i **ołtarze**.
+* **Ogrody** — wyspy roślinności wśród lawy.
+* **Ul ghastów**.
+* **Filary** — ogromne kolumny ze skał Netheru.
+* **Przecieki** ze świata zwykłego — kawałki Świata Głównego, które trafiły do Netheru.

@@ -18,11 +18,28 @@
   * [SVIP](informacje/rangi/svip.md)
   * [MVIP](informacje/rangi/mvip.md)
 
-## Dodatki
+## Przedmioty i bloki
 
-* [⚒️ Przedmioty](dodatki/przedmioty.md)
+* [⚒️ Przegląd przedmiotów](dodatki/przedmioty.md)
+* [⚔️ Ekwipunek](dodatki/ekwipunek/README.md)
+  * [💎 Zestawy z rzadkich rud](dodatki/ekwipunek/zestawy-rud.md)
+  * [🛡️ Zbroje specjalne](dodatki/ekwipunek/zbroje.md)
+  * [🗡️ Broń](dodatki/ekwipunek/bron.md)
+  * [🗿 Totemy](dodatki/ekwipunek/totemy.md)
+* [⚙️ Maszyny](dodatki/maszyny/README.md)
+  * [⚡ Generatory](dodatki/maszyny/generatory.md)
+  * [🏭 Przetwarzanie](dodatki/maszyny/przetwarzanie.md)
+  * [🌾 Farmy](dodatki/maszyny/farmy.md)
+  * [⛏️ Wydobycie](dodatki/maszyny/wydobycie.md)
+  * [🔌 Logistyka](dodatki/maszyny/logistyka.md)
+* [📦 Przechowywanie](dodatki/przechowywanie.md)
+* [🔥 Piece](dodatki/piece.md)
+* [🛠️ Narzędzia](dodatki/narzedzia.md)
+* [🎣 Wędkarstwo](dodatki/wedkarstwo.md)
+* [🚗 Podróże i pojazdy](dodatki/pojazdy.md)
+* [🪦 Groby](dodatki/groby.md)
+* [🧱 Bloki budowlane](dodatki/bloki-budowlane.md)
 * [🪑 Meble](dodatki/meble.md)
-* [🚗 Pojazdy](dodatki/pojazdy.md)
 * [🧑‍🍳 Gotowanie](dodatki/gotowanie.md)
 * [🦋 Insekty](dodatki/insekty.md)
 

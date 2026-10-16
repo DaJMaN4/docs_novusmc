@@ -36,6 +36,15 @@ Oprócz zwykłych potworów spotkasz w świecie nowe, silniejsze odmiany i zupe�
 | Mroczna dusza | Rzadki, latający duch. |
 | Golem doświadczenia | Bardzo rzadki golem — po pokonaniu daje dużo doświadczenia. |
 
+## Potwory z nowych biomów
+
+| Potwór | Gdzie |
+| --- | --- |
+| Pustynny Piaskun | Pustynie i badlandy — wiruje w piaskowej burzy. |
+| Skelewag | Głębokie oceany — szkieletowa ryba. |
+
+Uważaj też na duże [zwierzęta](zwierzeta.md): niedźwiedź grizzly, tygrys, krokodyl, słoń i nosorożec bronią się, gdy je zaatakujesz.
+
 ## Bossowie
 
 Bossowie czekają w lochach i na arenach (**`/warp`**). Zobacz też [Misje](../../informacje/zadania.md#misje).

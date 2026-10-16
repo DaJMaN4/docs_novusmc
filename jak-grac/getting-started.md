@@ -23,7 +23,7 @@ Wpisz **`/sethome`**, aby zapisać swój dom, i **`/home`**, aby do niego wróci
 
 * Wszystko, co robisz — kopanie, walka, farmienie, łowienie — daje doświadczenie [umiejętności](../informacje/umiejetnosci.md) (**`/staty`**).
 * Wykonuj [zadania gildii](../informacje/zadania.md) (**`/zadania`**), aby zarabiać pieniądze i reputację.
-* Szukaj [rzadkich rud](../dodatki/przedmioty.md#rzadkie-rudy-i-zestawy-ekwipunku) — z nich stworzysz ekwipunek lepszy od diamentowego.
+* Szukaj [rzadkich rud](../dodatki/ekwipunek/zestawy-rud.md) — z nich stworzysz ekwipunek lepszy od diamentowego.
 
 ## 5. Zarabiaj
 

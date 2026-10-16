@@ -17,7 +17,7 @@ Plecak (**`/plecak`**) to dodatkowe miejsce na przedmioty. Jego zawartość **ni
 Plecak ulepszasz u NPC na spawnie — każdy poziom dodaje miejsca. Ulepszenia kosztują od 300$ (poziom II) do kilkudziesięciu tysięcy $ za najwyższe poziomy. Rangi dają darmowe ulepszenia: VIP do poziomu 6, SVIP do 9, MVIP do maksimum.
 
 {% hint style="info" %}
-To coś innego niż [plecaki podróżnika](../dodatki/przedmioty.md#plecaki-podroznika), które nosisz jako przedmiot.
+To coś innego niż [plecaki podróżnika](../dodatki/przechowywanie.md#plecaki-podroznika), które nosisz jako przedmiot.
 {% endhint %}
 
 ## Ulepszenia

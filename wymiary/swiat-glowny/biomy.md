@@ -1,46 +1,88 @@
 ---
-description: Ponad 90 nowych biomów na powierzchni i pod ziemią.
+description: Ponad 60 nowych biomów na powierzchni i pod ziemią — od sekwojowych lasów po kredowe klify.
 ---
 
 # 🌄 Biomy
 
-Generator świata dodaje **ponad 90 nowych biomów**, a zwykłe biomy wyglądają ciekawiej niż w czystym Minecrafcie. Nazwy biomów widzisz w grze w języku angielskim (np. na ekranie F3).
+Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych biomów**. Wiele z nich ma własne drzewa, kwiaty i kamienie. Nazwy biomów widzisz w grze po angielsku (np. na ekranie F3).
 
-## Góry i wyżyny
-
-Alpine Grove, Alpine Highlands, Emerald Peaks, Forested Highlands, Haze Mountain, Highlands, Jungle Mountains, Painted Mountain, Granite Cliffs, Frozen Cliffs, Basalt Cliffs, Caldera i inne.
-
-## Kaniony i pustynie
-
-Amethyst Canyon, Bryce Canyon, Desert Canyon, Desert Oasis, Desert Spires, Ancient Sands, Lush Desert, Gravel Desert, Arid Highlands.
-
-## Lasy i doliny
-
-Amethyst Rainforest, Cloud Forest, Lavender Forest, Lavender Valley, Moonlight Grove, Moonlight Valley, Blooming Valley, Blooming Plateau, Lush Valley, Birch Taiga.
-
-## Sawanny i zarośla
-
-Ashen Savanna, Fractured Savanna, Brushland, Cold Shrubland, Hot Shrubland.
-
-## Zimne biomy
-
-Glacial Chasm, Ice Marsh, Alpha Islands Winter.
-
-## Wybrzeża i wyspy
-
-Alpha Islands, Mirage Isles, Gravel Beach, Deep Warm Ocean, Orchid Swamp.
-
-## Jaskinie
-
-Pod ziemią czekają osobne biomy jaskiniowe:
+## Lasy
 
 | Biom | |
 | --- | --- |
-| Andesite / Diorite / Granite / Tuff Caves | Jaskinie z danego kamienia. |
-| Deep Caves | Głębokie, rozległe jaskinie. |
-| Frostfire Caves | Lód obok lawy. |
-| Fungal Caves | Jaskinie pełne grzybów. |
-| Infested Caves | Zarażone jaskinie — uważaj na rybiki. |
-| Mantle Caves | Najgłębsze jaskinie przy dnie świata. |
-| Thermal Caves | Gorące jaskinie z magmą. |
-| Underground Jungle | Podziemna dżungla. |
+| **Maple Forest**, **Autumnal Maple Forest**, **Windswept Maple Forest** | Lasy klonowe — zielone albo w jesiennych kolorach. |
+| **Redwoods**, **Sparse Redwoods** | Olbrzymie sekwoje. |
+| **Boreal Taiga**, **Cold Boreal Taiga**, **Old Growth Boreal Taiga**, **Old Growth Golden Boreal Taiga** | Północne tajgi, także ze złotymi modrzewiami. |
+| **Pine Taiga**, **Pine Slopes**, **Frozen Pine Taiga** | Lasy sosnowe na zboczach i w śniegu. |
+| **Blackwood Taiga** | Mroczna tajga z czarnym drewnem. |
+| **Silver Birch Forest** | Las srebrnych brzóz. |
+| **Old Growth Forest** | Stary, gęsty las. |
+| **Magnolia Woodland**, **Wisteria Grove** | Kwitnące magnolie i glicynie. |
+| **Willow Forest** | Las wierzbowy. |
+| **Alpha Grove** | Las w stylu starego Minecrafta. |
+| **Orchard** | Sad pełen owocowych drzew. |
+| **Ashen Woodland** | Las po pożarze, pokryty popiołem. |
+| **Bamboo Forest** | Las bambusowy. |
+| **Eucalyptus Forest** | Las eukaliptusowy. |
+| **Rainforest**, **Sparse Rainforest**, **Tropics** | Lasy deszczowe i tropiki. |
+
+## Równiny i łąki
+
+| Biom | |
+| --- | --- |
+| **Grassland**, **Prairie** | Rozległe trawiaste równiny. |
+| **Clover Plains** | Równiny pełne koniczyny. |
+| **Flower Fields**, **Poppy Fields** | Pola kwiatów i maków. |
+| **Highland Fields** | Wyżynne łąki. |
+| **Shrubland**, **Dry Bushland** | Zarośla i suche busze. |
+| **Tundra** | Zimna, pusta równina. |
+
+## Pustynie i sawanny
+
+| Biom | |
+| --- | --- |
+| **Saguaro Desert** | Pustynia z wielkimi kaktusami. |
+| **Joshua Desert** | Pustynia z drzewami Jozuego. |
+| **Outback** | Czerwony australijski interior. |
+| **Baobab Savanna** | Sawanna z baobabami. |
+
+## Bagna i rzeki
+
+| Biom | |
+| --- | --- |
+| **Bayou**, **Old Growth Bayou** | Cyprysowe bagna. |
+| **Fen**, **Marsh** | Torfowiska i mokradła. |
+| **Fungal Fen** | Bagno porośnięte grzybami. |
+| **Muddy River**, **Cold River**, **Tropical River** | Nowe rodzaje rzek. |
+
+## Góry i klify
+
+| Biom | |
+| --- | --- |
+| **Chalk Cliffs** | Białe kredowe klify nad morzem. |
+| **Towering Cliffs** | Wysokie, strome urwiska. |
+| **Spires** | Skalne iglice. |
+| **Icy Heights** | Lodowe szczyty. |
+
+## Wybrzeża i oceany
+
+| Biom | |
+| --- | --- |
+| **Grassy Beach**, **Gravel Beach** | Trawiaste i żwirowe plaże. |
+| **Rocky Reef** | Skalista rafa. |
+| **Hyacinth Deeps** | Głębiny pełne podwodnych kwiatów. |
+
+## Jaskinie
+
+| Biom | |
+| --- | --- |
+| **Bioshroom Caves** | Jaskinie z wielkimi, świecącymi grzybami. |
+| **Prismachasm** | Jaskinie z kolorowymi kryształami. |
+| **Redstone Caves** | Jaskinie pełne czerwonego kamienia. |
+| **Ancient Delta** | Prastara podziemna delta. |
+
+Pod ziemią są też zwykłe jaskinie Minecrafta: bujne jaskinie, jaskinie naciekowe i mroczne głębiny.
+
+{% hint style="info" %}
+Drewno, kamienie i rośliny z nowych biomów opisuje strona [Bloki budowlane](../../dodatki/bloki-budowlane.md#swiat-glowny). Każdy biom ma też swoje [zwierzęta](zwierzeta.md) i [ryby](../../dodatki/wedkarstwo.md#ryby-z-biomow).
+{% endhint %}

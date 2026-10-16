@@ -39,6 +39,29 @@ Zebrane plony przechowasz w skrzynkach (marchewek, ziemniaków, buraków, kapust
 
 Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, dyniowy), dania z ryżem, makarony, kanapki, hamburgery, wrapy, sałatki, desery i napoje. Duże dania — np. **pieczony kurczak**, **faszerowana dynia**, **szynka w miodzie** czy **zapiekanka pasterska** — stawia się na stole i nakłada porcje do misek.
 
+## Mięso z dzikich zwierząt
+
+[Dzikie zwierzęta](../wymiary/swiat-glowny/zwierzeta.md) zostawiają nowe rodzaje mięsa. Surowe mięso upieczesz w piecu, wędzarni albo na ognisku.
+
+| Mięso | Z jakiego zwierzęcia |
+| --- | --- |
+| Bizonina | bizon |
+| Dziczyzna | gazela |
+| Dzik | tusklin |
+| Niedźwiedzina | niedźwiedź grizzly |
+| Mięso krokodyla | krokodyl, kajman, waran |
+| Mięso żółwia | żółw diamentowy, skorpucha sępia |
+| Udko emu | emu, kukawka, trzewikodziób |
+| Mięso węża | grzechotnik |
+| Żabie udka | podeszczowik pustynny, spaczona żaba |
+| Mięso rekina | rekin młot, płaszczak |
+| Mięso kangura | kangur — zrobisz z niego **burger z kangura** |
+| Żeberka łosia | łoś |
+| Ogon homara | homar |
+| Sum | sum |
+
+Inne przysmaki: **latająca ryba**, **kosmiczny dorsz** (z Kresu), **blobfisz** i **tran**. O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
+
 ## Wystawianie jedzenia
 
 Jedzenie możesz wystawić jako dekorację:

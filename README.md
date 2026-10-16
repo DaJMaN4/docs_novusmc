@@ -18,12 +18,12 @@ Większość informacji znajdziesz też w grze — w menu głównym w zakładce 
 
 ## Najważniejsze mechaniki
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🏡 Działki</strong></td><td>Chroń swoje budowle i buduj razem ze znajomymi.</td><td><a href="informacje/dzialki.md">dzialki.md</a></td></tr><tr><td><strong>🏃 Umiejętności</strong></td><td>11 umiejętności, które rosną podczas zwykłej gry.</td><td><a href="informacje/umiejetnosci.md">umiejetnosci.md</a></td></tr><tr><td><strong>📑 Zadania</strong></td><td>Trzy gildie, codzienne zadania i reputacja.</td><td><a href="informacje/zadania.md">zadania.md</a></td></tr><tr><td><strong>⚒️ Przedmioty</strong></td><td>Nowe rudy, zestawy ekwipunku, maszyny i narzędzia.</td><td><a href="dodatki/przedmioty.md">przedmioty.md</a></td></tr><tr><td><strong>🧑‍🍳 Gotowanie</strong></td><td>Nowe uprawy, kuchnia i dziesiątki potraw.</td><td><a href="dodatki/gotowanie.md">gotowanie.md</a></td></tr><tr><td><strong>🪑 Meble</strong></td><td>Ponad 900 mebli i dekoracji.</td><td><a href="dodatki/meble.md">meble.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🏡 Działki</strong></td><td>Chroń swoje budowle i buduj razem ze znajomymi.</td><td><a href="informacje/dzialki.md">dzialki.md</a></td></tr><tr><td><strong>🏃 Umiejętności</strong></td><td>11 umiejętności, które rosną podczas zwykłej gry.</td><td><a href="informacje/umiejetnosci.md">umiejetnosci.md</a></td></tr><tr><td><strong>📑 Zadania</strong></td><td>Trzy gildie, codzienne zadania i reputacja.</td><td><a href="informacje/zadania.md">zadania.md</a></td></tr><tr><td><strong>⚔️ Ekwipunek</strong></td><td>Zestawy z rzadkich rud, zbroje z umiejętnościami i totemy.</td><td><a href="dodatki/ekwipunek/README.md">ekwipunek/README.md</a></td></tr><tr><td><strong>⚙️ Maszyny</strong></td><td>Generatory, farmy, kamieniołomy i logistyka.</td><td><a href="dodatki/maszyny/README.md">maszyny/README.md</a></td></tr><tr><td><strong>⚒️ Przedmioty</strong></td><td>Przegląd wszystkich nowych przedmiotów i bloków.</td><td><a href="dodatki/przedmioty.md">przedmioty.md</a></td></tr><tr><td><strong>🧑‍🍳 Gotowanie</strong></td><td>Nowe uprawy, kuchnia i dziesiątki potraw.</td><td><a href="dodatki/gotowanie.md">gotowanie.md</a></td></tr><tr><td><strong>🪑 Meble</strong></td><td>Ponad 900 mebli i dekoracji.</td><td><a href="dodatki/meble.md">meble.md</a></td></tr></tbody></table>
 
 ## Wymiary
 
 Każdy wymiar ma nowe biomy, struktury, potwory i rudy:
 
-* [🌍 Świat Główny](wymiary/swiat-glowny/) — ponad 90 nowych biomów, lochy i tawerny, topaz głęboko pod ziemią.
-* [🔥 Nether](wymiary/nether/) — wulkanit, duszmit i nowe struktury.
+* [🌍 Świat Główny](wymiary/swiat-glowny/) — ponad 60 nowych biomów, ponad 70 nowych zwierząt, lochy i tawerny, topaz głęboko pod ziemią.
+* [🔥 Nether](wymiary/nether/) — ponad 25 nowych biomów, wulkanit, duszmit i netherowe rubiny.
 * [👾 Kres](wymiary/kres/) — voidium, perłyt i enderyt na odmienionych wyspach.
