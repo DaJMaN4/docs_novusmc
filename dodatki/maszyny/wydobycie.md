@@ -1,5 +1,5 @@
 ---
-description: Kamieniołom, niszczyciel i stawiacz bloków, pompa, ładowarka chunków i zbieracz gwiezdnego pyłu.
+description: Kamieniołom, niszczyciel i stawiacz bloków, pompa i zbieracz gwiezdnego pyłu.
 ---
 
 # ⛏️ Wydobycie
@@ -16,10 +16,15 @@ Kopie za ciebie cały prostokątny obszar, warstwa po warstwie, aż do dna świa
 * Postaw go na skraju obszaru — wokół wykopu zbuduje się **rusztowanie**, po którym jeździ wiertło.
 * Zużywa 300 J/t plus 1 J/t za każdą kratkę powierzchni, magazyn 100 000 J.
 * Wykopane bloki trafiają do jego ekwipunku. Wyjmij je lejkiem lub kablem do skrzyni albo [jednostki magazynowej](logistyka.md#jednostki-magazynowe).
-* Do budowy potrzebne: **elitarna rama**, **wiertło z netherytu** i **rusztowanie w kamieniołomach**.
+* Do budowy potrzebne: **Elitarna Rama Maszyny**, **Netherytowe Wiertło** i **Rusztowanie Kamieniołomu**.
+* Każdy gracz może mieć **tylko 1 kamieniołom** ([limity maszyn](README.md#limity-maszyn)).
 
 {% hint style="warning" %}
 Kamieniołom kopie na działce tylko tam, gdzie wolno ci budować.
+{% endhint %}
+
+{% hint style="info" %}
+Maszyny pracują tylko wtedy, gdy ich teren jest załadowany — czyli gdy ktoś jest w pobliżu.
 {% endhint %}
 
 ## Niszczyciel Bloków
@@ -44,14 +49,8 @@ Wypompowuje **wodę albo lawę** ze źródeł w zasięgu (od 1 do 10 kratek, dom
 
 Blok, z którego pompa i kable mogą pobierać **wodę bez końca**.
 
-## Ładowarka chunków
+## Zbieracz Gwiezdnego Pyłu
 
-<figure><img src="../../.gitbook/assets/maszyny/ladowarka-chunkow.png" alt="Ładowarka chunków"><figcaption><p>Ładowarka chunków</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/maszyny/star-collector.gif" alt="Zbieracz Gwiezdnego Pyłu"><figcaption><p>Zbieracz Gwiezdnego Pyłu</p></figcaption></figure>
 
-Utrzymuje załadowane chunki wokół siebie (zasięg do 3 chunków), dzięki czemu maszyny pracują, gdy nie ma cię w pobliżu. Zużywa 250 J za każdy chunk.
-
-## Star Collector
-
-<figure><img src="../../.gitbook/assets/maszyny/star-collector.gif" alt="Star Collector"><figcaption><p>Star Collector</p></figcaption></figure>
-
-Nocą zbiera **gwiezdny pył** z nieba. Potrzebuje dużo energii (200 J/t podczas zbierania, magazyn 100 000 J) i ostatecznej ramy.
+Nocą zbiera **gwiezdny pył** z nieba. Potrzebuje dużo energii (200 J/t podczas zbierania, magazyn 100 000 J), a do budowy — Ostatecznej Ramy Maszyny.

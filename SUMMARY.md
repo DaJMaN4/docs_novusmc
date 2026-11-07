@@ -17,6 +17,8 @@
   * [VIP](informacje/rangi/vip.md)
   * [SVIP](informacje/rangi/svip.md)
   * [MVIP](informacje/rangi/mvip.md)
+* [🏆 Osiągnięcia i Wydarzenia](informacje/osiagniecia.md)
+* [🎁 Skrzynie i Piniata](informacje/skrzynki.md)
 
 ## Przedmioty i bloki
 
@@ -42,6 +44,9 @@
 * [🪑 Meble](dodatki/meble.md)
 * [🧑‍🍳 Gotowanie](dodatki/gotowanie.md)
 * [🦋 Insekty](dodatki/insekty.md)
+* [🍀 Lucky Bloki](dodatki/lucky-bloki.md)
+* [📷 Fotografia](dodatki/fotografia.md)
+* [🦴 Łupy z potworów](dodatki/lupy-z-potworow.md)
 
 ## Wymiary
 

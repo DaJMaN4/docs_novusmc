@@ -11,20 +11,22 @@ Szybsze piece zastępują zwykły piec. Działają jak zwykły piec, tylko szybc
 | Piec | Czas przetapiania 1 przedmiotu | Szybciej niż zwykły piec |
 | --- | --- | --- |
 | zwykły piec | 10 s | — |
-| **Miedziany piec** | 9 s | ×1,1 |
-| **Żelazny piec** | 8 s | ×1,25 |
-| **Złoty piec** | 6 s | ×1,7 |
-| **Diamentowy piec** | 4 s | ×2,5 |
-| **Szmaragdowy piec** | 2 s | ×5 |
-| **Kryształowy piec** | 2 s | ×5 |
-| **Obsydianowy piec** | 1 s | ×10 |
-| **Netherytowy piec** | 0,25 s | ×40 |
+| **Miedziany Piec** | 9 s | ×1,1 |
+| **Żelazny Piec** | 8 s | ×1,25 |
+| **Złoty Piec** | 6 s | ×1,7 |
+| **Diamentowy Piec** | 4 s | ×2,5 |
+| **Szmaragdowy Piec** | 2 s | ×5 |
+| **Kryształowy Piec** | 2 s | ×5 |
+| **Obsydianowy Piec** | 1 s | ×10 |
+| **Netherytowy Piec** | 0,25 s | ×40 |
+
+Szybsze piece liczą się do [limitu bloków z dodatków](maszyny/README.md#limity-maszyn) (500 na gracza, 256 w jednym chunku).
 
 ## Ulepszanie pieca
 
 <figure><img src="../.gitbook/assets/piece/ulepszanie.gif" alt="Ulepszanie pieca"><figcaption><p>Ulepszanie pieca</p></figcaption></figure>
 
-Kliknij **ulepszeniem pieca** postawiony piec — zmieni się w lepszy, a zawartość zostanie.
+Kliknij **Ulepszeniem Pieca** postawiony piec — zmieni się w lepszy, a zawartość zostanie. Każde ulepszenie ma w nazwie, z jakiego pieca na jaki działa, np. **Ulepszenie Pieca: Zwykły → Miedziany**.
 
 | Ulepszenie pieca | |
 | --- | --- |
@@ -42,10 +44,10 @@ W menu pieca są dwa sloty na **dodatki** (ulepszenia działania). Dodatek zosta
 
 | Dodatek | Działanie |
 | --- | --- |
-| **Ulepszenie: wytapianie** | Piec działa jak **piec hutniczy** (rudy, zbroje i narzędzia z metalu). |
-| **Ulepszenie: wędzenie** | Piec działa jak **wędzarnia** (jedzenie). |
-| **Ulepszenie: szybkość** | Przetapia **2× szybciej**, ale paliwo pali się 2× krócej. |
-| **Ulepszenie: oszczędność paliwa** | Paliwo starcza na **2× dłużej**, ale przetapianie trwa o 25% dłużej. |
+| **Ulepszenie: Wytapianie** | Piec działa jak **piec hutniczy** (rudy, zbroje i narzędzia z metalu). |
+| **Ulepszenie: Wędzenie** | Piec działa jak **wędzarnia** (jedzenie). |
+| **Ulepszenie: Szybkość** | Przetapia **2× szybciej**, ale paliwo pali się 2× krócej. |
+| **Ulepszenie: Oszczędność Paliwa** | Paliwo starcza na **2× dłużej**, ale przetapianie trwa o 25% dłużej. |
 
 Piec może mieć naraz jeden dodatek „trybu” (wytapianie albo wędzenie) i jeden dodatek „szybkości” (szybkość albo oszczędność paliwa).
 

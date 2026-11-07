@@ -1,5 +1,5 @@
 ---
-description: Zbroje z umiejętnościami (Immersive Armors), zbroja z promethium i zestawy z Netheru.
+description: Zbroje z umiejętnościami, zbroja z promethium i ekwipunek z łupów potworów (hełmy, napierśniki, marakas, napary).
 ---
 
 # 🛡️ Zbroje specjalne
@@ -40,17 +40,40 @@ Promethium zdobędziesz [łowiąc w lawie](../wedkarstwo.md#lowienie-w-lawie). K
 | Nogawice | Szybszy ruch |
 | Buty | Chodzenie po lawie |
 
-## Zestawy z Netheru (BetterNether)
+## Ekwipunek z łupów potworów
 
-<figure><img src="../../.gitbook/assets/ekwipunek/betternether-zestawy.png" alt="Cincinnasite i Nether Ruby"><figcaption><p>Cincinnasite i Nether Ruby</p></figcaption></figure>
+Z materiałów, które wypadają z nowych zwierząt i potworów (zobacz [Łupy z potworów](../lupy-z-potworow.md)), zrobisz hełmy i napierśniki z **własnymi umiejętnościami**. Hełmy mają trójwymiarowy wygląd na głowie. Wszystkie stworzysz w stole rzemieślniczym.
 
-W nowych biomach Netheru znajdziesz rudy **cincinnasite** i **netherowego rubinu**. Z nich zrobisz pełny ekwipunek (nazwy w grze są po angielsku):
+| Przedmiot | Pancerz | Wytrzymałość pancerza | Wytrzymałość | Umiejętność |
+| --- | --- | --- | --- | --- |
+| **Czapka Trapera** (hełm) | 3 | 2,5 | 187 | Szybsze skradanie się (kucanie) |
+| **Hełm Mroźnego Łowcy** | 3 | 0,5 | 99 | Mroźni Łowcy cię nie atakują, chodzą za tobą jak za przywódcą stada i atakują twoich wrogów; brak obrażeń od zamarzania |
+| **Okracznytowy Hełm** | 2 | 1 | 165 | Ochrona przed gorącem (niżej); sam hełm nie spłonie w lawie ani ogniu |
+| **Krokodyli Napierśnik** | 7 | 1 | 352 | Szybsze pływanie |
+| **Skalisty Napierśnik** | 7 | 0,5 | 320 | Toczenie się (niżej) |
 
-| Zestaw | Moc | Co zawiera |
+**Okracznytowy Hełm:**
+
+* bloki magmy nie zadają ci obrażeń,
+* płoniesz o połowę krócej,
+* gdy wejdziesz do lawy, dostajesz **Odporność na ogień na 10 sekund** (najwyżej raz na minutę).
+
+**Skalisty Napierśnik:** gdy **zaczynasz sprintować**, zwijasz się w kulę i toczysz przed siebie przez 1,5 sekundy. Toczona kula rani (3 obrażenia) i odrzuca stwory, w które wpadniesz. Między toczeniami jest sekunda przerwy.
+
+### Receptury
+
+| Przedmiot | Składniki |
+| --- | --- |
+| Czapka Trapera | skórzany hełm na środku, 5 × Niedźwiedzie Futro (górny rząd i boki środkowego rzędu), Ogon Szopa w dolnym rzędzie. Zamiast futra możesz użyć 5 skór królika. |
+| Hełm Mroźnego Łowcy | Róg Mroźnego Łowcy na górze, pod nim 5 × zbity lód ułożony jak hełm |
+| Okracznytowy Hełm | 3 × Okracznyt (na górze i po bokach) i 2 × nić w dolnych rogach |
+| Krokodyli Napierśnik | 8 × Łuska Krokodyla, ułożone jak napierśnik |
+| Skalisty Napierśnik | 8 × Skalista Skorupa, ułożone jak napierśnik |
+
+### Inne przedmioty z umiejętnościami
+
+| Przedmiot | Jak zrobić | Działanie |
 | --- | --- | --- |
-| **Cincinnasite** | jak żelazny | zbroja, miecz, włócznia, kilof, topór, łopata, motyka, nożyce |
-| **Nether Ruby** | jak diamentowy | zbroja, miecz, włócznia, kilof, topór, łopata, motyka |
-
-## Inne
-
-**Parkę** (hełm, napierśnik, nogawice, buty) i **tarczę shulkera** stworzysz w stole rzemieślniczym — receptury znajdziesz w menu przedmiotów, w zakładce **Walka**.
+| **Marakas** | 3 × deski, Grzechotka Grzechotnika i patyk | Graj nim (PPM). Gracze w promieniu 8 kratek dostają **Szybkość I** i **Zwiększony skok I** na 10 sekund. Grzechotniki w pobliżu przestają cię atakować. |
+| **Napar z Rogu Gazeli** | Róg Gazeli + szklana butelka + cukier | Po wypiciu: **Szybkość II** na 60 sekund. |
+| **Tran** | 4 × Blobfish + szklana butelka (czasem wypada też z kaszalota) | Po wypiciu przez 60 sekund jesteś **naoliwiony**: w wodzie i w deszczu wypycha cię w górę (chyba że kucasz) i wolniej spadasz. |

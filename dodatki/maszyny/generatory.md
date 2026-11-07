@@ -8,11 +8,11 @@ description: Skąd brać energię — panele słoneczne, turbiny wiatrowe, gener
 
 | Generator | Wytwarza | Magazyn | Z czego zbudować |
 | --- | --- | --- | --- |
-| **Generator pieca** | 80 J/t | 10 000 J | Piec, węgiel, żelazo, czerwony kamień |
-| **Panel słoneczny** | do 40 J/t | 10 000 J | 3 ogniwa słoneczne, żelazo, płytki żelaza |
-| **Turbina wiatrowa** | do 100 J/t | 10 000 J | Elitarna rama, bloki żelaza, koło zębate |
+| **Generator Pieca** | 80 J/t | 10 000 J | Piec, węgiel, żelazo, czerwony kamień |
+| **Panel Słoneczny** | do 40 J/t | 10 000 J | 3 ogniwa słoneczne, żelazo, płytki żelaza |
+| **Turbina Wiatrowa** | do 100 J/t | 10 000 J | Elitarna rama, bloki żelaza, koło zębate |
 | **Generator Lawy** | 40 J z 1 mB lawy | 10 000 J, 10 000 mB lawy | Zaawansowana rama, wiadro lawy, miedziane koło zębate |
-| **Wymiennik piorunów** | 700 000 – 1 000 000 J z pioruna | 10 000 000 J | Elitarna rama, piorunochrony, miedziane koła zębate |
+| **Wymiennik Piorunów** | 700 000 – 1 000 000 J z pioruna | 10 000 000 J | Elitarna rama, piorunochrony, miedziane koła zębate |
 
 ## Generator pieca
 
@@ -24,7 +24,7 @@ Najprostsze źródło prądu na początek. Spala **każde paliwo pieca** (węgie
 
 <figure><img src="../../.gitbook/assets/maszyny/panele.png" alt="Panele słoneczne"><figcaption><p>Panele słoneczne</p></figcaption></figure>
 
-Działa **w dzień**, gdy nad panelem jest otwarte niebo. Nie potrzebuje paliwa — postaw ich kilka i podłącz kablami do [ogniwa zasilającego](logistyka.md#ogniwa-zasilajace), aby mieć energię także w nocy.
+Działa **w dzień**, gdy nad panelem jest otwarte niebo. Nie potrzebuje paliwa — postaw ich kilka (każdy gracz może mieć najwyżej 50 paneli, zobacz [limity maszyn](README.md#limity-maszyn)) i podłącz kablami do [ogniwa zasilającego](logistyka.md#ogniwa-zasilajace), aby mieć energię także w nocy.
 
 ## Turbina wiatrowa
 
@@ -36,7 +36,7 @@ Duży generator (zajmuje kilka bloków w górę — zostaw nad nim wolne miejsce
 
 <figure><img src="../../.gitbook/assets/maszyny/generator-lawy.png" alt="Generator lawy"><figcaption><p>Generator lawy</p></figcaption></figure>
 
-Spala lawę: z każdego mB (1 wiadro = 1000 mB) daje 40 J. Lawę doprowadzisz rurami z [pompy](wydobycie.md#pompa) albo wlejesz wiadrami.
+Spala lawę: z każdego mB (1 wiadro = 1000 mB) daje 40 J. Lawę doprowadzisz kablami z [pompy](wydobycie.md#pompa) albo wlejesz wiadrami.
 
 ## Wymiennik piorunów
 

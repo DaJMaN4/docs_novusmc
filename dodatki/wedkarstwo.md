@@ -16,13 +16,13 @@ Lepsze wędki robisz w **stole kowalskim**: **nić** (zamiast szablonu) + wędka
 
 | Wędka | Jak zdobyć | Cecha |
 | --- | --- | --- |
-| **Kamienna wędka** | stół rzemieślniczy: bruk i nici | |
-| **Żelazna wędka** | wędka + sztabka żelaza | |
-| **Złota wędka** | wędka + sztabka złota | większe szczęście w łowieniu |
-| **Kryształowa wędka** | wędka + odłamek ametystu | dźwięk, gdy ryba bierze |
-| **Diamentowa wędka** | wędka + diament | więcej doświadczenia |
-| **Netherytowa wędka** | diamentowa wędka + sztabka netherytu | **łowienie w lawie** |
-| **Obsydianowa wędka** | stół rzemieślniczy: obsydian, nici, patyk | **łowienie w lawie** |
+| **Kamienna Wędka** | stół rzemieślniczy: bruk i nici | |
+| **Żelazna Wędka** | wędka + sztabka żelaza | |
+| **Złota Wędka** | wędka + sztabka złota | większe szczęście w łowieniu |
+| **Kryształowa Wędka** | wędka + odłamek ametystu | dźwięk, gdy ryba bierze |
+| **Diamentowa Wędka** | wędka + diament | więcej doświadczenia |
+| **Netherytowa Wędka** | diamentowa wędka + sztabka netherytu | **łowienie w lawie** |
+| **Obsydianowa Wędka** | stół rzemieślniczy: obsydian, nici, patyk | **łowienie w lawie** |
 
 ## Przynęty
 
@@ -31,8 +31,8 @@ Przynętę trzymasz w **drugiej ręce** podczas łowienia. Zwykłą przynętę z
 | Przynęta | Działanie |
 | --- | --- |
 | **Przynęta** | Ryba bierze szybciej. |
-| **Szczęśliwa przynęta** | Większe szczęście — lepsze łupy. |
-| **Magnetyczna przynęta** | Większa szansa na skrzynię. |
+| **Szczęśliwa Przynęta** | Większe szczęście — lepsze łupy. |
+| **Magnetyczna Przynęta** | Większa szansa na skrzynię. |
 
 ## Skrzynie z łowienia
 
@@ -97,7 +97,7 @@ Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik
 
 **Skarby z lawy:**
 
-* **Bryłki promethium** — 9 bryłek = sztabka. Z promethium zrobisz [zbroję](ekwipunek/zbroje.md#zbroja-z-promethium) i [procę](ekwipunek/bron.md#proce).
+* **Bryłki Promethium** — 9 bryłek = Sztabka Promethium. Z promethium zrobisz [zbroję](ekwipunek/zbroje.md#zbroja-z-promethium) i [procę](ekwipunek/bron.md#proce).
 * **Skarb Prometeusza** — kliknij go PPM, aby otworzyć i zdobyć promethium albo części zbroi z promethium.
 
 ## Pułapka na ryby
@@ -106,7 +106,7 @@ Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik
 
 <figure><img src="../.gitbook/assets/wedkarstwo/pulapka-menu.png" alt="Menu pułapki"><figcaption><p>Menu pułapki</p></figcaption></figure>
 
-Pułapka łowi ryby sama, bez twojej obecności. Stworzysz ją z **patyków i płótna** (z kuchni).
+**Pułapka na Ryby** łowi ryby sama. Stworzysz ją z **patyków i Płótna** (z [kuchni](gotowanie.md)).
 
 1. Postaw ją **w wodzie, obok innej wody**, w oceanie, na plaży, w rzece albo na bagnach. Można ją też powiesić pod blokiem.
 2. Kliknij PPM, aby otworzyć menu. Włóż **przynętę** do slotu przynęty — od niej zależy rodzaj złowionej ryby.

@@ -18,21 +18,21 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Szop** | lasy i równiny | |
 | **Skunks** | lasy | |
 | **Diabeł Tasmański** | lasy | |
-| **Wiewiórka**, **sowa**, **mały ptak** | lasy | |
-| **Wrona**, **Modrosójka niebieska** | lasy | pióra |
+| **Wiewiórka**, **Sowa**, **mały ptak** | lasy | |
+| **jeleń** i **łania** | lasy, łąki i góry | |
+| **Wrona**, **Modrosójka Niebieska** | lasy | pióra |
 | **Lotopałanka** | lasy brzozowe | |
 | **Nocolot** | ciemny las | pióra |
 | **Bielik Amerykański** | gaje, wietrzne lasy | pióra |
-| **Aliolimax** (wielki ślimak) | stare tajgi | |
-| **Łoś** | śnieżna tajga | żeberka łosia |
 
 ## Łąki, góry i równiny
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
-| **Bizon** | równiny, łąki, prerie | bizonina |
+| **Bizon** | łąki, prerie, pola kwiatów | bizonina |
+| **Łoś** | łąki | dziczyzna |
 | **Dżelada Brunatna** | łąki | |
-| **Koliber** | kwieciste biomy, dżungle | |
+| **Koliber** | kwieciste biomy, łąki, lasy deszczowe | |
 | **Słoneczny Ptak** | szczyty gór | |
 
 ## Sawanny, pustynie i badlandy
@@ -41,27 +41,29 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
-| **Słoń**, **Nosorożec** | sawanny | |
-| **Gazela** | sawanny | dziczyzna |
-| **Pompasowiec Grzywiasty** | sawanny | |
+| **Słoń**, **Nosorożec** | sawanny, step, busz | |
+| **Gazela** | sawanny, step, busz | dziczyzna |
+| **Pompasowiec Grzywiasty** | sawanny, step, busz | |
 | **Kangur** | sawanny, badlandy, outback | mięso kangura |
-| **Emu**, **Kukawka** | sawanny, badlandy | pióra, udko emu |
-| **Grzechotnik** | pustynie, badlandy | mięso węża |
+| **Emu** | sawanny, badlandy, outback | pióra, udko emu |
+| **Kukawka** | pustynie, badlandy | pióra, udko emu |
+| **Grzechotnik** | pustynie, badlandy — rzadko | mięso węża |
 | **Skoczek Pustynny**, **Podeszczowik Pustynny** | pustynie | żabie udka (podeszczowik) |
 | **Przekopnica** | sadzawki na pustyni | |
-| **Kameleon**, **ropucha rogata**, **sęp**, **pyłowy diabeł**, **kaktusik** | pustynie | |
+| **Rogata Ropucha**, **Pyłowy Wir**, **Kaktusy** | pustynie, badlandy, step | |
+| **Sęp** | badlandy | |
 
-## Dżungle
+## Lasy deszczowe i dżungle
 
 <figure><img src="../../.gitbook/assets/zwierzeta/goryl.png" alt="Goryl"><figcaption><p>Goryl</p></figcaption></figure>
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
-| **Goryl** | dżungle, lasy deszczowe | |
-| **Kapucynka** | dżungle | |
-| **Tukan** | dżungle | pióra |
-| **Mrówkojad** | dżungle | |
-| **Waran** | rzadkie dżungle, lasy eukaliptusowe | mięso krokodyla |
+| **Goryl** | lasy deszczowe i eukaliptusowe | |
+| **Kapucynka** | lasy deszczowe i eukaliptusowe, bagna namorzynowe | |
+| **Tukan** | lasy deszczowe i eukaliptusowe | pióra |
+| **Mrówkojad** | lasy deszczowe i eukaliptusowe | |
+| **Waran** | lasy eukaliptusowe | mięso krokodyla |
 | **Tygrys** | bambusowe dżungle, gaje wiśniowe | |
 
 ## Zimne biomy
@@ -69,8 +71,8 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
 | **Irbis Śnieżny** | śnieżne biomy | |
-| **Tusklin** | lodowe kolce | dzik |
-| **Mroźny Łowca** | lodowe szczyty | |
+| **Kłowiec** | lodowe kolce | dzik |
+| **Mroźny Łowca** | lodowe szczyty i kolce | |
 
 ## Bagna i rzeki
 
@@ -85,14 +87,15 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Trzewikodziób** | bagna | pióra, udko |
 | **Dziobak** | rzeki | |
 | **Sum** | rzeki, bagna | sum |
-| **Poskoczek mułowy** | bagna namorzynowe | |
+| **Poskoczek Mułowy** | bagna namorzynowe | |
+| **Biały Delfin** | rzeki — rzadko | |
 
 ## Grzybowe pola
 
-| Zwierzę | Wypada |
-| --- | --- |
-| **Króligrzyb** | czerwone grzyby |
-| **Mungus** | |
+| Zwierzę | Gdzie | Wypada |
+| --- | --- | --- |
+| **Króligrzyb** | grzybowe pola, grzybowe bagna | czerwone grzyby |
+| **Grzybon** | grzybowe pola, grzybowe bagna | |
 
 ## Plaże i morza
 
@@ -103,13 +106,18 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Mewa** | plaże | pióra |
 | **Foka** | plaże, zimne oceany | |
 | **Homar** | plaże | ogon homara |
-| **Orka**, **Kaszalot** | oceany | |
+| **Orka** | zimne oceany | |
+| **Kaszalot** | oceany | |
 | **Kałamarnica Olbrzymia** | głębokie oceany | torbiele z atramentem |
 | **Rekin Młot** | ciepłe oceany | mięso rekina |
 | **Płaszczak** (rekin) | głębokie oceany | mięso rekina |
-| **Ustonog**, **Kopiująca Ośmiornica** | ciepłe oceany | |
+| **Rekin Rafowy** | głębokie oceany — rzadko | |
+| **Ustonog** | ciepłe oceany, bagna namorzynowe | |
+| **Kopiująca Ośmiornica**, **Meduza** | ciepłe oceany | |
 | **Blobfisz** | głębokie oceany | blobfisz |
 | **Latająca Ryba** | oceany, rafy | latająca ryba |
+| **Pąkla** | zamarznięte oceany | |
+| **Olbrzymi Małż** | ciepłe wody, przy dnie — rzadko | |
 
 ## Jaskinie
 
@@ -120,10 +128,11 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Trzepotnik** | bujne jaskinie | kwiat zarodników |
 | **Kamienny Pancernik** | jaskinie naciekowe | tuf, nacieki |
 | **Karaluch**, **Mucha** | wszędzie | larwy (mucha) |
+| **Szczur**, **Zarażony Szczur** | wszędzie — rzadko | |
 
 ## Owady
 
-W świecie żyją też owady: motyle, ćmy Atlas, świetliki, biedronki, modliszki, żuki gnojowe, ślimaki, tarantule, skarabeusze i mrowiska. Możesz je łapać siatką — zobacz [Insekty](../../dodatki/insekty.md).
+W świecie żyją też owady: motyle, ćmy Atlas, świetliki, biedronki, modliszki, żuki gnojowe, ślimaki, ptaszniki, ważki, skarabeusze i mrowiska. Możesz je łapać siatką — zobacz [Insekty](../../dodatki/insekty.md).
 
 {% hint style="info" %}
 Zwierzęta z Netheru i Kresu opisują strony [potworów Netheru](../nether/potwory.md) i [potworów Kresu](../kres/potwory.md).

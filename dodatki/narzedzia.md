@@ -14,20 +14,20 @@ Młot kopie naraz obszar **3 × 3** bloki (blok, w który celujesz, i 8 wokół 
 
 | Młot | Wytrzymałość | Obrażenia | Naprawisz |
 | --- | --- | --- | --- |
-| Drewniany młotek | 60 | 3 | deskami |
-| Kamienny młot | 130 | 4 | kamieniem / brukiem |
-| Młotek Lapis Lazuli | 220 | 5 | lazurytem |
-| Żelazny młot | 250 | 5 | żelazem |
-| Młot pryzmatyczny | 1028 | 6 | odłamkami pryzmarynu |
-| Młotek kwarcowy | 1028 | 3 | kwarcem |
-| Slime Hammer | 1500 | 7 (mocno odrzuca) | kulkami szlamu |
-| Złoty młotek | 1560 | 5 | złotem |
-| Diamentowy młotek | 1560 | 10 | diamentami |
+| Drewniany Młot | 60 | 3 | deskami |
+| Kamienny Młot | 130 | 4 | kamieniem / brukiem |
+| Lazurytowy Młot | 220 | 5 | lazurytem |
+| Żelazny Młot | 250 | 5 | żelazem |
+| Pryzmarynowy Młot | 1028 | 6 | odłamkami pryzmarynu |
+| Kwarcowy Młot | 1028 | 3 | kwarcem |
+| Szlamowy Młot | 1500 | 7 (mocno odrzuca) | kulkami szlamu |
+| Złoty Młot | 1560 | 5 | złotem |
+| Diamentowy Młot | 1560 | 10 | diamentami |
 | Szmaragdowy Młot | 1560 | 7 | szmaragdami |
 | Ognisty Młot | 1560 | 6 | blokami magmy |
-| Ender Hammer | 1560 | 10 | perłami Kresu |
-| Młot z Netherytu | 2030 | 11 | sztabkami netherytu |
-| Obsydianowy młot | 2500 | 7 | obsydianem |
+| Endowy Młot | 1560 | 10 | perłami Kresu |
+| Netherytowy Młot | 2030 | 11 | sztabkami netherytu |
+| Obsydianowy Młot | 2500 | 7 | obsydianem |
 
 * Młoty z materiałów takich jak żelazo, diament czy netheryt kopią to samo, co kilof z tego materiału.
 * Złoty i lapisowy młot łatwo się zaklina, obsydianowy — trudno.
@@ -50,7 +50,7 @@ Stół, przy którym **sam wybierasz zaklęcia** i ich poziomy, zamiast losować
 3. Kliknij zaklęcie: **LPM** podnosi poziom o 1, **PPM** obniża. Im wyższy poziom, tym więcej mocy potrzeba.
 4. Kliknij **Zaczaruj** i zapłać poziomami doświadczenia (najwyżej 30 poziomów).
 
-| | Stół nasycania zaklęć | Zaawansowany stół nasycania zaklęć |
+| | Stół Nasycania Zaklęć | Zaawansowany Stół Nasycania Zaklęć |
 | --- | --- | --- |
 | Przedmioty bez zaklęć | ✅ | ✅ |
 | Zmiana i usuwanie zaklęć na zaklętych przedmiotach | ❌ | ✅ |
@@ -64,5 +64,6 @@ Klątw nie da się wybrać.
 
 * **Siatka na owady** — łapanie owadów, zobacz [Insekty](insekty.md).
 * **Wędki** i przynęty — zobacz [Wędkarstwo](wedkarstwo.md).
-* **Klucz** do maszyn i kabli — zobacz [Maszyny](maszyny/README.md#klucz).
-* **Klucz do szuflad** — zobacz [Przechowywanie](przechowywanie.md#klucz-i-kontroler).
+* **Klucz Francuski** do maszyn i kabli — zobacz [Maszyny](maszyny/README.md#klucz).
+* **Klucz do Szuflad** — zobacz [Przechowywanie](przechowywanie.md#klucz-i-kontroler).
+* **Noże** i **Patelnia Żeliwna** — zobacz [Gotowanie](gotowanie.md#wyposazenie-kuchni).

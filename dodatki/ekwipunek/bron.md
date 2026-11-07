@@ -28,16 +28,16 @@ Proce napinasz jak łuk. Strzelają **kulkami** z twojego ekwipunku.
 
 | Proca | Cecha |
 | --- | --- |
-| **Żelazna proca** | Podstawowa proca. Z żelaza, nici i skóry. |
-| **Neptunowa proca** | Kulki lecą swobodnie przez wodę. Z muszli łodzika, nici i skóry. |
-| **Proca z promethium** | Strzela seriami. Ze sztabek promethium, nici i skóry. |
+| **Żelazna Proca** | Podstawowa proca. Z żelaza, nici i skóry. |
+| **Neptunowa Proca** | Kulki lecą swobodnie przez wodę. Z muszli łodzika, nici i skóry. |
+| **Proca z Promethium** | Strzela seriami. Ze sztabek promethium, nici i skóry. |
 
 | Kulka | Obrażenia |
 | --- | --- |
-| Kamienna | 3 |
-| Żelazna | 5 |
-| Neptunowa | 5, leci przez wodę |
-| Z promethium | 5, wybucha odłamkami |
+| Kamienna Kulka | 3 |
+| Żelazna Kulka | 5 |
+| Neptunowa Kulka | 5, leci przez wodę |
+| Kulka z Promethium | 5, wybucha odłamkami |
 
 Neptunowe kulki zrobisz z pryzmarynu i gliny, a promethium zdobędziesz [łowiąc w lawie](../wedkarstwo.md#lowienie-w-lawie).
 
@@ -57,7 +57,3 @@ Trójzęby działają lepiej niż w zwykłym Minecrafcie:
 * Gdy zabijesz moba trójzębem z Lojalnością, łupy i doświadczenie trafiają **prosto do ciebie**.
 * **Przebicie** rani wszystkie moby w wodzie i w deszczu, nie tylko morskie.
 * **Starszy Strażnik** upuszcza **fragment trójzębu**. Z 3 fragmentów i 2 odłamków pryzmarynu stworzysz trójząb.
-
-## Włócznie
-
-Włócznie z [zestawów z Netheru](zbroje.md#zestawy-z-netheru-betternether) (cincinnasite i netherowy rubin) to broń o większym zasięgu.

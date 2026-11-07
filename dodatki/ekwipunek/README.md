@@ -8,7 +8,7 @@ description: Wszystkie zestawy zbroi i broni na serwerze — porównanie, rudy, 
 
 Oprócz zwykłego ekwipunku z Minecrafta na serwerze znajdziesz kilkanaście nowych zestawów zbroi i broni.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>💎 Zestawy z rzadkich rud</strong></td><td>Magma, wulkanit, duszmit, topaz, shulker, voidium, perłyt, enderyt.</td><td><a href="zestawy-rud.md">zestawy-rud.md</a></td></tr><tr><td><strong>🛡️ Zbroje specjalne</strong></td><td>10 zbroi z umiejętnościami i zbroja z promethium.</td><td><a href="zbroje.md">zbroje.md</a></td></tr><tr><td><strong>🗡️ Broń</strong></td><td>Noże, proce, trójzęby i młoty.</td><td><a href="bron.md">bron.md</a></td></tr><tr><td><strong>🗿 Totemy</strong></td><td>7 totemów nieśmiertelności z dodatkowymi efektami.</td><td><a href="totemy.md">totemy.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>💎 Zestawy z rzadkich rud</strong></td><td>Magma, wulkanit, duszmit, topaz, shulker, voidium, perłyt, enderyt.</td><td><a href="zestawy-rud.md">zestawy-rud.md</a></td></tr><tr><td><strong>🛡️ Zbroje specjalne</strong></td><td>10 zbroi z umiejętnościami, zbroja z promethium i ekwipunek z łupów potworów.</td><td><a href="zbroje.md">zbroje.md</a></td></tr><tr><td><strong>🗡️ Broń</strong></td><td>Noże, proce, bumerangi i trójzęby.</td><td><a href="bron.md">bron.md</a></td></tr><tr><td><strong>🗿 Totemy</strong></td><td>7 totemów nieśmiertelności z dodatkowymi efektami.</td><td><a href="totemy.md">totemy.md</a></td></tr></tbody></table>
 
 ## Porównanie zbroi
 
@@ -46,3 +46,5 @@ Narzędzia mają 250, a zbroja 350 punktów wytrzymałości.
 ## Inne źródła ekwipunku
 
 * [Jetpacki opancerzone](../pojazdy.md#jetpacki) działają jak napierśnik (do 8 pancerza).
+* [Ekwipunek z łupów potworów](zbroje.md#ekwipunek-z-lupow-potworow) — hełmy i napierśniki z umiejętnościami (np. Krokodyli Napierśnik do pływania, Skalisty Napierśnik do toczenia się). Zobacz też [Łupy z potworów](../lupy-z-potworow.md).
+* **Rozbójnicy** czasem upuszczają swoją zbroję: Napierśnik, Nogawice i Buty Rozbójnika.

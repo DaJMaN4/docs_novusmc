@@ -4,7 +4,7 @@ description: Osiem zestawów ekwipunku z rzadkich rud — gdzie szukać rud, sta
 
 # 💎 Zestawy z rzadkich rud
 
-Z każdej rzadkiej rudy zrobisz pełny zestaw: **miecz, topór, kilof, łopatę, motykę** i **cztery części zbroi**. Receptury są takie jak dla zwykłych narzędzi i zbroi — zamiast diamentów używasz sztabek albo klejnotów z danej rudy.
+Z każdej rzadkiej rudy zrobisz pełny zestaw: **miecz, topór, kilof, łopatę, motykę** i **cztery części zbroi**. Receptury są takie jak dla zwykłych narzędzi i zbroi — zamiast diamentów używasz materiału z danej rudy (np. Sztabki Wulkanitu albo Duszmitu).
 
 * **Miecz i topór** mają specjalną zdolność, która działa przy ataku.
 * **Zbroja** daje premię za noszenie 2 i 4 części zestawu.
@@ -15,16 +15,20 @@ Z każdej rzadkiej rudy zrobisz pełny zestaw: **miecz, topór, kilof, łopatę,
 
 <figure><img src="../../.gitbook/assets/ekwipunek/rudy.png" alt="Rzadkie rudy"><figcaption><p>Rzadkie rudy</p></figcaption></figure>
 
-| Zestaw | Ruda — gdzie szukać | Materiał | Moc |
-| --- | --- | --- | --- |
-| [Magmowy](#magmowy) | Nether, klastry w blokach magmy (Y 20–40) | Kawałek magmy | jak żelazo |
-| [Shulkera](#shulkera) | Kres — z shulkerów | Skorupa shulkera | między żelazem a diamentem |
-| [Wulkanitowy](#wulkanitowy) | Nether, w netherracku (Y 40–187) | Sztabka wulkanitu | jak diament |
-| [Kresowy (voidium)](#kresowy-voidium) | Kres, w kamieniu Kresu | Sztabka voidium | jak diament |
-| [Duszmitowy](#duszmitowy) | Nether, w netherracku (Y 4–160) | Duszmit | lepszy niż netheryt |
-| [Topazowy](#topazowy) | Świat Główny, w łupku (Y −61 do −30) | Topaz | lepszy niż netheryt |
-| [Perłytowy](#perlytowy) | Kres, w kamieniu Kresu (Y 8–70) | Sztabka perłytu | lepszy niż netheryt |
-| [Enderytowy](#enderytowy) | Kres, bardzo rzadko | Enderyt | **najmocniejszy** |
+| Zestaw | Ruda — gdzie szukać | Rzadkość | Materiał | Moc |
+| --- | --- | --- | --- | --- |
+| [Magmowy](#magmowy) | Nether, Skupiska Magmy w blokach magmy (Y 20–40) | pospolita | Bryła Magmy | jak żelazo |
+| [Shulkera](#shulkera) | Kres — z shulkerów | — | skorupa shulkera | między żelazem a diamentem |
+| [Wulkanitowy](#wulkanitowy) | Nether, Ruda Wulkanitu w netherracku (Y 40–187) | rzadka | Sztabka Wulkanitu | jak diament |
+| [Kresowy (voidium)](#kresowy-voidium) | Kres, Ruda Kresum w kamieniu Kresu (Y 0–255) | rzadka | Sztabka Kresum | jak diament |
+| [Duszmitowy](#duszmitowy) | Nether, Ruda Duszmitu w netherracku (Y 4–160) | bardzo rzadka | Duszmit | lepszy niż netheryt |
+| [Topazowy](#topazowy) | Świat Główny, ruda topazu w łupku i czarnym kamieniu (Y −61 do −30) | bardzo rzadka | Topaz | lepszy niż netheryt |
+| [Perłytowy](#perlytowy) | Kres, Ruda Perłytu w kamieniu Kresu (Y 8–70) | — | Sztabka Perłytu | lepszy niż netheryt |
+| [Enderytowy](#enderytowy) | Kres, Ruda Enderytu w kamieniu Kresu (Y 0–255) | **legendarna** | Enderyt | **najmocniejszy** |
+
+{% hint style="info" %}
+Na **spawnie** znajdziesz hologramy zestawów magmowego, wulkanitowego, kresowego, duszmitowego, topazowego i enderytowego. Każdy pokazuje, w jakim świecie i na jakiej wysokości szukać rudy oraz jak jest rzadka.
+{% endhint %}
 
 ## Broń i narzędzia
 

@@ -1,10 +1,10 @@
 ---
-description: Ponad 60 nowych biomów na powierzchni i pod ziemią — od sekwojowych lasów po kredowe klify.
+description: Około 70 nowych biomów na powierzchni i pod ziemią — od sekwojowych lasów po kredowe klify.
 ---
 
 # 🌄 Biomy
 
-Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych biomów**. Wiele z nich ma własne drzewa, kwiaty i kamienie. Nazwy biomów widzisz w grze po angielsku (np. na ekranie F3).
+Generator świata dodaje **około 70 nowych biomów**. Wiele z nich ma własne drzewa, kwiaty i kamienie. Część zwykłych biomów Minecrafta (m.in. zwykłe równiny, las, tajgę, dżunglę, sawannę i bagno) zastąpiły ich nowe odpowiedniki. Nazwy biomów widzisz w grze po angielsku (np. na ekranie F3).
 
 ## Lasy
 
@@ -17,12 +17,13 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 | Biom | |
 | --- | --- |
 | **Maple Forest**, **Autumnal Maple Forest**, **Windswept Maple Forest** | Lasy klonowe — zielone albo w jesiennych kolorach. |
+| **Deciduous Forest**, **Cold Deciduous Forest** | Lasy liściaste, także w zimnej odmianie. |
+| **Temperate Grove** | Gaj strefy umiarkowanej. |
 | **Redwoods**, **Sparse Redwoods** | Olbrzymie sekwoje. |
-| **Boreal Taiga**, **Cold Boreal Taiga**, **Old Growth Boreal Taiga**, **Old Growth Golden Boreal Taiga** | Północne tajgi, także ze złotymi modrzewiami. |
+| **Boreal Taiga**, **Cold Boreal Taiga**, **Golden Boreal Taiga**, **Old Growth Boreal Taiga**, **Old Growth Golden Boreal Taiga** | Północne tajgi, także ze złotymi modrzewiami. |
 | **Pine Taiga**, **Pine Slopes**, **Frozen Pine Taiga** | Lasy sosnowe na zboczach i w śniegu. |
 | **Blackwood Taiga** | Mroczna tajga z czarnym drewnem. |
 | **Silver Birch Forest** | Las srebrnych brzóz. |
-| **Old Growth Forest** | Stary, gęsty las. |
 | **Magnolia Woodland**, **Wisteria Grove** | Kwitnące magnolie i glicynie. |
 | **Willow Forest** | Las wierzbowy. |
 | **Alpha Grove** | Las w stylu starego Minecrafta. |
@@ -41,9 +42,11 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 | **Grassland**, **Prairie** | Rozległe trawiaste równiny. |
 | **Clover Plains** | Równiny pełne koniczyny. |
 | **Flower Fields**, **Poppy Fields** | Pola kwiatów i maków. |
-| **Highland Fields** | Wyżynne łąki. |
+| **Barley Fields**, **Pumpkin Fields** | Pola jęczmienia i dyń. |
+| **Highland Fields**, **Rocky Meadow** | Wyżynne i kamieniste łąki. |
+| **Steppe** | Suchy step. |
 | **Shrubland**, **Dry Bushland** | Zarośla i suche busze. |
-| **Tundra** | Zimna, pusta równina. |
+| **Tundra**, **Frozen Tundra** | Zimne, puste równiny. |
 
 ## Pustynie i sawanny
 
@@ -75,6 +78,8 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 
 | Biom | |
 | --- | --- |
+| **Mountains**, **Arid Mountains** | Góry — zielone albo suche i skaliste. |
+| **Mauve Hills** | Fioletowe wzgórza. |
 | **Chalk Cliffs** | Białe kredowe klify nad morzem. |
 | **Towering Cliffs** | Wysokie, strome urwiska. |
 | **Spires** | Skalne iglice. |
@@ -100,10 +105,10 @@ Oprócz zwykłych biomów Minecrafta generator świata dodaje **ponad 60 nowych 
 | --- | --- |
 | **Bioshroom Caves** | Jaskinie z wielkimi, świecącymi grzybami. |
 | **Prismachasm** | Jaskinie z kolorowymi kryształami. |
-| **Redstone Caves** | Jaskinie pełne czerwonego kamienia. |
-| **Ancient Delta** | Prastara podziemna delta. |
+| **Scorching Caves** | Rozgrzane jaskinie z lawospadami i kominami popiołu. |
+| **Inferno** | Głęboka, ognista jaskinia pełna lawy i popiołu. |
 
-Pod ziemią są też zwykłe jaskinie Minecrafta: bujne jaskinie, jaskinie naciekowe i mroczne głębiny.
+Pod ziemią są też zwykłe jaskinie Minecrafta: bujne jaskinie, jaskinie naciekowe, jaskinie siarkowe (**Sulfur Caves**) i mroczne głębiny.
 
 {% hint style="info" %}
 Drewno, kamienie i rośliny z nowych biomów opisuje strona [Bloki budowlane](../../dodatki/bloki-budowlane.md#swiat-glowny). Każdy biom ma też swoje [zwierzęta](zwierzeta.md) i [ryby](../../dodatki/wedkarstwo.md#ryby-z-biomow).

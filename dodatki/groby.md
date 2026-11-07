@@ -41,4 +41,4 @@ Jeśli grób zniknął przez błąd, administracja może przywrócić ekwipunek 
 
 ## Nagrobki dekoracyjne
 
-**Nagrobek** możesz też postawić jako dekorację — stworzysz go w stole rzemieślniczym. Przetapiając nagrobek w piecu, dostaniesz wersję **wyszczerbioną**, a z niej **zniszczoną**.
+**Nagrobek** możesz też postawić jako dekorację — stworzysz go w stole rzemieślniczym. Przetapiając go w piecu, dostaniesz **Wyszczerbiony Nagrobek**, a z niego **Zniszczony Nagrobek**.

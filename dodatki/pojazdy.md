@@ -1,8 +1,54 @@
 ---
-description: Jetpacki, lotnie, windy, kamienie podróży, łączniki refrenu i przekaźnik Kresu — wszystkie sposoby na szybkie podróżowanie.
+description: Własne pojazdy (samochody, motocykle, rowery, latające wierzchowce), jetpacki, lotnie, windy, łączniki refrenu i przekaźnik Kresu — wszystkie sposoby na szybkie podróżowanie.
 ---
 
 # 🚗 Podróże i pojazdy
+
+## Pojazdy
+
+Na serwerze możesz mieć **własne pojazdy**: samochody, pickupy, motocykle, rowery, tratwę, łódź podwodną i latające wierzchowce. Każdy pojazd, który zdobędziesz, należy **na stałe do ciebie**.
+
+### Jak zdobyć pojazd
+
+1. Zdobądź **przedmiot pojazdu** (np. **Biały Samochód**).
+2. Użyj go (PPM). Przedmiot znika, a pojazd zostaje **przypisany do twojego konta** i od razu się pojawia obok ciebie.
+3. Jeśli masz już ten pojazd, przedmiot nie zostanie zużyty — dostaniesz tylko przypomnienie, że przywołasz go komendą `/pojazdy`.
+
+| Skąd | Co |
+| --- | --- |
+| **Mechanik** na spawnie (stacja „Pojazdy”), każdy za **9 Kamiennych Odłamków** | Biały Samochód, Biały Pickup, Biały Motocykl, Biały Rower, Latający Motor, Sterowiec, Balon, Łódź Podwodna, Tratwa z Kłód oraz farby we wszystkich kolorach |
+| Stół rzemieślniczy | **Tratwa z Kłód**: 4 białe wełny (po bokach w dwóch górnych rzędach), 2 patyki (na środku) i 3 dębowe kłody (w dolnym rzędzie) |
+
+{% hint style="info" %}
+**Kamienne Odłamki** to odłamki kluczy — wypadają z piniaty i na strefie AFK, a w kuźni kluczy zrobisz je z 64 bruku. Zobacz [Skrzynie i Piniata](../informacje/skrzynki.md).
+{% endhint %}
+
+### Rodzaje pojazdów
+
+| Rodzaj | Pojazdy |
+| --- | --- |
+| 🚗 Samochody | Biały, Czarny, Niebieski, Zielony, Różowy i Czerwony Samochód, Taksówka |
+| 🛻 Pickupy | Biały, Czarny, Niebieski, Zielony, Różowy i Czerwony Pickup |
+| 🏍️ Motocykle | Biały, Czarny, Niebieski, Zielony, Różowy i Czerwony Motocykl |
+| 🚲 Rowery | Biały, Czarny, Niebieski, Zielony, Różowy i Czerwony Rower |
+| 🌊 Na wodę | Tratwa z Kłód, Łódź Podwodna |
+| 🪽 Latające | Latający Motor, Sterowiec, Balon, Wywerna, Ghast, Chiński Smok, Pszczoła |
+
+### Przywoływanie i chowanie
+
+* `/pojazdy` — otwiera listę **twoich** pojazdów. Kliknij pojazd, aby go **przywołać** albo **schować**.
+* Naraz możesz mieć przywołany **jeden pojazd**. Gdy przywołasz kolejny, poprzedni sam się schowa.
+* **Lewy klik na swoim pojeździe** otwiera jego menu: możesz go tam **schować** albo **zmienić mu nazwę**.
+* Do pojazdu wsiadasz PPM. **Prowadzić może tylko właściciel** — inni gracze mogą jechać co najwyżej jako pasażerowie.
+* Twojego pojazdu **nikt nie zniszczy** — pojazdy nie otrzymują obrażeń.
+
+{% hint style="warning" %}
+Na **spawnie** nie da się przywoływać pojazdów. Pojazd użyty na spawnie i tak trafi na twoją listę — przywołasz go w innym świecie.
+{% endhint %}
+
+### Farby
+
+Farbą (np. **Czerwona Farba**) kliknij swój **samochód, pickup, motocykl albo rower** — pojazd zmieni kolor, a na twojej liście zamiast starego koloru pojawi się nowy. Farba działa tylko na twoich pojazdach.
 
 ## Jetpacki
 
@@ -49,27 +95,6 @@ Lotnia pozwala **szybować** w powietrzu — skocz z wysokiego miejsca, trzymaj�
 * **Kucnij** — zjedziesz na następną windę niżej.
 * Kliknij windę PPM innym blokiem, aby ją **przebrać** za ten blok (np. za podłogę z desek).
 
-## Kamienie podróży
-
-<figure><img src="../.gitbook/assets/podroze/kamien-podrozy.png" alt="Kamień podróży"><figcaption><p>Kamień podróży</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/podroze/kamien-podrozy-menu.png" alt="Menu kamieni podróży"><figcaption><p>Menu kamieni podróży</p></figcaption></figure>
-
-Kamienie podróży (waystones) to sieć teleportów. Postaw kamień, **aktywuj go** (PPM), a potem możesz się do niego teleportować z każdego innego kamienia, który znasz.
-
-| Kamień | Z czego (bruk + obsydian +) | Kto może używać |
-| --- | --- | --- |
-| **Publiczny** | blok złota | wszyscy gracze, którzy go odkryją |
-| **Prywatny** | blok szmaragdu | tylko ty (i osoby, które dodasz) |
-| **Połączony** | blok czerwonego kamienia | teleportuje do połączonego kamienia |
-| **Handlowy** | blok złota | teleport za opłatą |
-
-Przydatne przedmioty:
-
-* **Księga teleportacji** (książka + 4 perły Kresu) — otwiera listę kamieni z dowolnego miejsca.
-* **Zwój teleportacji** (papier, oczy i perła Kresu) i **kamień teleportacji** (diamenty, oczy Kresu, gwiazda Netheru).
-* **Księga śmierci** — prowadzi do miejsca twojej śmierci.
-
 ## Łączniki refrenu
 
 <figure><img src="../.gitbook/assets/podroze/lacznik-refrenu.gif" alt="Łącznik refrenu"><figcaption><p>Łącznik refrenu</p></figcaption></figure>
@@ -100,6 +125,8 @@ Przekaźnik działa **tylko w Kresie**. Użyty w innym wymiarze — wybucha.
 
 ## Łodzie
 
-<figure><img src="../.gitbook/assets/podroze/lodzie.png" alt="Nowe łodzie"><figcaption><p>Nowe łodzie</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/podroze/lodzie.png" alt="Łodzie"><figcaption><p>Łodzie</p></figcaption></figure>
 
-Nowe rodzaje drewna z [biomów Świata Głównego](../wymiary/swiat-glowny/biomy.md) i [Netheru](../wymiary/nether/biomy.md) mają własne **łodzie i łodzie ze skrzynią** (np. baobab, cyprys, eukaliptus, klon, sekwoja, wierzba, glicynia, a w Netherze m.in. mroczne drewno i drzewo kotwiczne). W Netherze zrobisz też **tratwę z netherowej trzciny**.
+Z desek nowych rodzajów drewna z [biomów Świata Głównego](../wymiary/swiat-glowny/biomy.md), [Netheru](../wymiary/nether/biomy.md) i [Kresu](../wymiary/kres/biomy.md) (np. baobab, cyprys, eukaliptus, klon, sekwoja, wierzba, glicynia) zrobisz łódź tak samo jak ze zwykłych desek — powstaje **zwykła dębowa łódź**.
+
+Na wodę możesz też wziąć własną **Tratwę z Kłód** albo **Łódź Podwodną** — zobacz [Pojazdy](#pojazdy).

@@ -29,5 +29,5 @@ Większość informacji znajdziesz też w grze — w menu głównym w zakładce 
 Każdy wymiar ma nowe biomy, struktury, potwory i rudy:
 
 * [🌍 Świat Główny](wymiary/swiat-glowny/) — ponad 60 nowych biomów, ponad 70 nowych zwierząt, lochy i tawerny, topaz głęboko pod ziemią.
-* [🔥 Nether](wymiary/nether/) — ponad 25 nowych biomów, wulkanit, duszmit i netherowe rubiny.
+* [🔥 Nether](wymiary/nether/) — cztery nowe biomy, wulkanit i duszmit.
 * [👾 Kres](wymiary/kres/) — voidium, perłyt i enderyt na odmienionych wyspach.

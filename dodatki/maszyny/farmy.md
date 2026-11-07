@@ -12,13 +12,13 @@ Maszyny farmerskie pracują na obszarze wokół siebie. **Zasięg** ustawiasz w 
 | --- | --- | --- | --- |
 | [Sadzarka](#sadzarka) | 3 | 2 J/t + 20 J za posadzenie | elitarna |
 | [Żniwiarka](#zniwiarka) | 5 | 2 J/t + 40 J za zebranie | elitarna |
-| [Użyźniacz gleby](#uzyzniacz-gleby) | 3 | 2 J/t + 30 J za użycie | elitarna |
+| [Użyźniacz Gleby](#uzyzniacz-gleby) | 3 | 2 J/t + 30 J za użycie | elitarna |
 | [Zraszacz](#zraszacz) | 5 | woda | — |
 | [Fabryka Drzew](#fabryka-drzew) | — | 70 J/t | ostateczna |
 | [Hodowca](#hodowca) | 3 | 10 J/t + 100 J za rozmnożenie | elitarna |
-| [Zabójca mobów](#zabojca-mobow) | 4 | 10 J/t + 150 J za cios | elitarna |
-| [Duplikator mobów](#zbieracz-mobow-i-duplikator-mobow) | — | 300 J/t | ostateczna |
-| [Automatyczna rybiarka](#automatyczna-rybiarka) | — | 20 J/t | elitarna |
+| [Zabójca Mobów](#zabojca-mobow) | 4 | 10 J/t + 150 J za cios | elitarna |
+| [Duplikator Mobów](#zbieracz-mobow-i-duplikator-mobow) | — | 300 J/t | ostateczna |
+| [Automatyczna Rybiarka](#automatyczna-rybiarka) | — | 20 J/t | elitarna |
 
 ## Sadzarka
 
@@ -48,7 +48,7 @@ Nawadnia pola uprawne wokół siebie (do 5 kratek). Potrzebuje tylko **wody** �
 
 <figure><img src="../../.gitbook/assets/maszyny/fabryka-drzew.gif" alt="Fabryka drzew"><figcaption><p>Fabryka drzew</p></figcaption></figure>
 
-Hoduje drzewo **wewnątrz maszyny**. Włóż sadzonkę (albo grzyb), a fabryka co chwilę wyda drewno, sadzonki, jabłka itp. — bez wycinania czegokolwiek w świecie.
+Hoduje drzewo **wewnątrz maszyny**. Włóż sadzonkę (albo grzyb), a fabryka co chwilę wyda drewno, sadzonki, jabłka itp. — bez wycinania czegokolwiek w świecie. Każdy gracz może postawić najwyżej **8** fabryk drzew ([limity maszyn](README.md#limity-maszyn)).
 
 ## Hodowca
 
@@ -60,14 +60,14 @@ Karmi zwierzęta w zasięgu jedzeniem z ekwipunku, aby się rozmnażały (do 5 p
 
 <figure><img src="../../.gitbook/assets/maszyny/zabojca-mobow.gif" alt="Zabójca mobów"><figcaption><p>Zabójca mobów</p></figcaption></figure>
 
-Zadaje 10 obrażeń mobom w zasięgu (do 3 naraz). Łupy wypadają na ziemię — zbierz je **skrzynią próżniową** ([Logistyka](logistyka.md#skrzynia-prozniowa)).
+Zadaje 10 obrażeń mobom w zasięgu (do 3 naraz). Łupy wypadają na ziemię — zbierz je **Skrzynią Próżniową** ([Logistyka](logistyka.md#skrzynia-prozniowa)). Każdy gracz może postawić najwyżej **4** zabójców mobów ([limity maszyn](README.md#limity-maszyn)).
 
 ## Zbieracz mobów i Duplikator mobów
 
 <figure><img src="../../.gitbook/assets/maszyny/duplikator.gif" alt="Duplikator mobów"><figcaption><p>Duplikator mobów</p></figcaption></figure>
 
-* **Zbieracz mobów** — kliknij nim moba, aby go złapać do przedmiotu (co 10 s). Działa na zwierzęta i większość potworów (bez bossów).
-* **Duplikator mobów** — włóż do niego zbieracz ze złapanym mobem, a maszyna co 20 sekund tworzy jego kopię obok siebie (kopia z zachowanymi danymi moba trwa dłużej i kosztuje więcej energii). Wokół duplikatora może być najwyżej 100 mobów.
+* **Zbieracz Mobów** — kliknij nim moba, aby go złapać do przedmiotu (co 10 s). Działa na zwierzęta i większość potworów (bez bossów).
+* **Duplikator Mobów** — włóż do niego zbieracz ze złapanym mobem, a maszyna co 20 sekund tworzy jego kopię obok siebie (kopia z zachowanymi danymi moba trwa dłużej i kosztuje więcej energii). Wokół duplikatora może być najwyżej 100 mobów.
 
 ## Automatyczna rybiarka
 

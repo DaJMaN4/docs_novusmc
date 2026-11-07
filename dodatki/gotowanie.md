@@ -14,12 +14,12 @@ Na serwerze możesz gotować dziesiątki nowych potraw. Dobre jedzenie daje wię
 
 | Uprawa | Jak zdobyć |
 | --- | --- |
-| 🥬 **Kapusta** | Dzikie rośliny w świecie. |
-| 🍅 **Pomidory** | Rosną na pnączu; dzikie pomidory rosną w świecie. |
-| 🧅 **Cebula** | Dzikie rośliny w świecie. |
-| 🍚 **Ryż** | Rośnie w wodzie. |
+| 🥬 **Kapusta** | Z **Dzikiej Kapusty** w świecie; sadzisz Kapuściane Nasiona. |
+| 🍅 **Pomidor** | Z **Dzikich Pomidorów** w świecie; sadzisz Pomidorowe Nasiona, roślina pnie się w górę. |
+| 🧅 **Cebula** | Z **Dzikiej Cebuli** w świecie. |
+| 🍚 **Ryż** | Z **Dzikiego Ryżu** w świecie; rośnie w wodzie. |
 
-Zebrane plony przechowasz w skrzynkach (marchewek, ziemniaków, buraków, kapusty, pomidorów, cebuli) i belach ryżu.
+Zebrane plony przechowasz w skrzynkach i workach (np. **Marchewkowa Skrzynka**, **Kapuściana Skrzynka**, **Jabłkowa Skrzynka**, **Wytłaczanka Jajek**, **Ryżowy Worek**) i w **Snopie Ryżu**.
 
 ## Wyposażenie kuchni
 
@@ -29,23 +29,27 @@ Zebrane plony przechowasz w skrzynkach (marchewek, ziemniaków, buraków, kapust
 | --- | --- |
 | **Kuchenka** | Źródło ciepła dla garnka i patelni. Możesz też piec na niej bezpośrednio. |
 | **Garnek** | Gotowanie zup, gulaszy i dań z wielu składników. Postaw go na kuchence lub nad ogniem. |
-| **Patelnia** | Smażenie. Można jej też użyć jako broni. |
-| **Deska do krojenia** | Krojenie składników nożem (np. kapusty, mięsa, ciasta). |
-| **Noże** | Krojenie na desce; zabite nożem zwierzęta upuszczają więcej mięsa. |
-| **Koszyk** | Zbiera przedmioty z bloku przed nim. |
-| **Szafki** | Dekoracyjne szafki kuchenne w każdym drewnie, z miejscem na przedmioty. |
+| **Patelnia Żeliwna** | Smażenie. Można jej też użyć jako broni. |
+| **Deska do Krojenia** | Krojenie składników nożem (np. kapusty, mięsa, ciasta). |
+| **Noże** (Krzemienny, Żelazny, Złoty, Diamentowy, Netherytowy Nóż) | Krojenie na desce; zwierzęta zabite nożem upuszczają dodatkowe łupy (np. szynkę). |
+| **Koszyk** (także Drewniany i Bambusowy) | Zbiera przedmioty z bloku przed nim. |
+| **Szafki** | Szafki kuchenne w każdym drewnie, z miejscem na przedmioty. Więcej szafek i szuflad znajdziesz w [Meblach](meble.md). |
 
 ## Gleba
 
-* **Kompost** zamienia się z czasem w **żyzną glebę**.
-* **Żyzna gleba** przyspiesza wzrost roślin i grzybów; zaorana daje **żyzne pole uprawne**.
-* Na żyznej glebie wyrastają kolonie grzybów.
+* **Kompost Organiczny** zamienia się z czasem w **Żyzną Glebę**.
+* **Żyzna Gleba** przyspiesza wzrost roślin i grzybów; zaorana daje **Żyzną Ziemię Uprawną**.
+* Grzyb posadzony na żyznej glebie wyrasta w **kolonię grzybów**.
 
 ## Potrawy
 
 <figure><img src="../.gitbook/assets/gotowanie/potrawy.png" alt="Potrawy"><figcaption><p>Potrawy</p></figcaption></figure>
 
-Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, dyniowy), dania z ryżem, makarony, kanapki, hamburgery, wrapy, sałatki, desery i napoje. Duże dania — np. **pieczony kurczak**, **faszerowana dynia**, **szynka w miodzie** czy **zapiekanka pasterska** — stawia się na stole i nakłada porcje do misek.
+Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, dyniowy), dania z ryżem, makarony, kanapki, hamburgery, wrapy, sałatki, desery i napoje. Duże dania — np. **Blok Pieczonego Kurczaka**, **Faszerowany Dyniowy Blok**, **Blok Szynki w Glazurze Miodowej** czy **Blok Zapiekanki Pasterskiej** — stawia się na stole i nakłada porcje do misek.
+
+{% hint style="info" %}
+Przepisy wszystkich potraw zobaczysz w menu przedmiotów (**`/nova items`**, zakładka **Jedzenie i napoje**). Książka **Opis** obok receptury pokazuje, ile głodu przywraca potrawa albo jaki daje efekt.
+{% endhint %}
 
 ## Mięso z dzikich zwierząt
 
@@ -55,10 +59,10 @@ Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, d
 
 | Mięso | Z jakiego zwierzęcia |
 | --- | --- |
-| Bizonina | bizon |
+| Mięso bizona | bizon |
 | Dziczyzna | gazela |
-| Dzik | tusklin |
-| Niedźwiedzina | niedźwiedź grizzly |
+| Mięso dzika | kłowiec |
+| Mięso niedźwiedzia | niedźwiedź grizzly |
 | Mięso krokodyla | krokodyl, kajman, waran |
 | Mięso żółwia | żółw diamentowy, skorpucha sępia |
 | Udko emu | emu, kukawka, trzewikodziób |
@@ -70,7 +74,7 @@ Wśród potraw są m.in. zupy i gulasze (wołowy, z kurczaka, rybny, warzywny, d
 | Ogon homara | homar |
 | Sum | sum |
 
-Inne przysmaki: **latająca ryba**, **kosmiczny dorsz** (z Kresu), **blobfisz** i **tran**. O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
+Inne przysmaki: **Ryba Latająca**, **Kosmiczny Dorsz** (z Kresu), **Blobfish** i **Tran** (czasem z kaszalota). O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
 
 ## Wystawianie jedzenia
 
@@ -79,8 +83,8 @@ Inne przysmaki: **latająca ryba**, **kosmiczny dorsz** (z Kresu), **blobfisz** 
 Jedzenie możesz wystawić jako dekorację:
 
 * **Shift + PPM** jedzeniem w górną ściankę bloku — postawisz je na nim.
-* Postaw **talerz** lub **mały talerz** i kliknij go jedzeniem, aby nałożyć je na talerz. Na dużym talerzu ułożysz kilka sztuk tego samego jedzenia (do 6).
-* **PPM pustą ręką** — zabierasz jedzenie z powrotem (talerz zostaje).
+* Postaw **Talerz** lub **Mały Talerz** (2 sztuki z 3 lub 2 drewnianych płyt) i kliknij go jedzeniem, aby nałożyć je na talerz. Na dużym talerzu ułożysz kilka sztuk tego samego jedzenia (do 6).
+* **PPM pustą ręką** — zabierasz jedną sztukę jedzenia z powrotem (talerz zostaje).
 * Zniszczenie dekoracji oddaje jedzenie i talerz.
 
-Wystawić można ponad 60 potraw, zarówno zwykłych (np. zupa grzybowa, ciasteczka), jak i nowych.
+Wystawić można 57 potraw, zarówno zwykłych (np. zupa grzybowa, gulasz z królika, ciasteczka, placek dyniowy), jak i nowych. Część potraw (np. zupy i gulasze) stawiasz bezpośrednio na bloku, a część (np. kanapki, gołąbki, ciasteczka) — na talerzu.
