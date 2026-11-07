@@ -1,26 +1,49 @@
 # Table of contents
 
-* [Jaskinie](README.md)
-  * [Biomy](jaskinie/biomy.md)
-  * [Drużyna](jaskinie/druzyna.md)
-  * [Inne](jaskinie/inne.md)
-* [Dungeony](dungeony/README.md)
-  * [Początkujące](dungeony/poczatkujace.md)
-  * [Gobliny](dungeony/gobliny.md)
-  * [Enty](dungeony/enty.md)
-  * [Rozbójniki](dungeony/rozbojniki.md)
-  * [Dzikie](dungeony/dzikie.md)
-  * [Page 6](dungeony/page-6.md)
-  * [Page 7](dungeony/page-7.md)
-  * [Page 8](dungeony/page-8.md)
-* [Umiejętności](umiejetnosci.md)
-* [Gildiie](gildiie.md)
-* [Rangi](rangi.md)
-* [Zaklinanie](zaklinanie.md)
-* [Runy](runy.md)
-* [Mikstury](mikstury.md)
-* [Sklepy i Skupy](sklepy-i-skupy.md)
+* [👋 Witaj](README.md)
 
-## Group 1
+## Jak grać?
 
-* [Page 1](group-1/page-1.md)
+* [🚀 Pierwsze kroki](jak-grac/pierwsze-kroki.md)
+* [⌨️ Komendy](jak-grac/komendy.md)
+* [💰 Ekonomia i dodatki](jak-grac/ekonomia.md)
+
+## Jaskinia
+
+* [⛰️ Twoja jaskinia](jaskinie/README.md)
+  * [🌿 Biomy](jaskinie/biomy.md)
+  * [👥 Drużyna](jaskinie/druzyna.md)
+  * [⚙️ Ustawienia i inne](jaskinie/inne.md)
+
+## Świat
+
+* [⛏️ Kopalnie](dungeony/README.md)
+  * [🪨 Początkujące](dungeony/poczatkujace.md)
+  * [👺 Gobliny](dungeony/gobliny.md)
+  * [🌳 Enty](dungeony/enty.md)
+  * [🗡️ Rozbójnicy](dungeony/rozbojniki.md)
+  * [🐺 Dzikie](dungeony/dzikie.md)
+  * [💀 Umarli](dungeony/umarli.md)
+  * [⚒️ Krasnoludy](dungeony/krasnoludy.md)
+  * [🌑 Mroczne](dungeony/mroczne.md)
+* [🏆 Misje](misje.md)
+* [🔥 Nether](nether.md)
+
+## Rozwój
+
+* [🏃 Umiejętności](umiejetnosci.md)
+* [📑 Gildie](gildie.md)
+* [🔨 Kowal](kowal/README.md)
+  * [🛡️ Zbroje](kowal/zbroje.md)
+  * [⚔️ Broń i narzędzia](kowal/bron.md)
+  * [💎 Surowce](kowal/surowce.md)
+* [✨ Zaklinanie](zaklinanie.md)
+* [💠 Runy](runy.md)
+* [🧪 Mikstury](mikstury.md)
+
+## Ekonomia
+
+* [🛒 Sklepy i Skupy](sklepy-i-skupy.md)
+* [🎁 Skrzynki i klucze](skrzynki.md)
+* [⭐ Rangi](rangi.md)
+* [📜 Regulamin](regulamin.md)
