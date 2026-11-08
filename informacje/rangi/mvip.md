@@ -12,8 +12,11 @@ Menu rangi otworzysz komendą **`/evip`**. MVIP ma **wszystko, co SVIP**, oraz:
 
 * **Tag na czacie:** 【MVIP】 Gracz » Witaj!
 * **Działki:** 5.
+* **Domy:** 5.
 * **Losowa teleportacja:** obszar 10 000 × 10 000.
 * **Aktywne zadania:** 9.
+* **Aukcje:** 20 wystawionych przedmiotów naraz.
+* **Sklepy skrzynkowe:** 40.
 * **Plecak** ulepszony do maksimum.
 * **`/kowadlo`** — kowadło w dowolnym miejscu.
 * **`/naprawa`** — naprawia przedmiot w ręce, raz dziennie.

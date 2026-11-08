@@ -17,6 +17,7 @@ Na serwerze możesz mieć **własne pojazdy**: samochody, pickupy, motocykle, ro
 | Skąd | Co |
 | --- | --- |
 | **Mechanik** na spawnie (stacja „Pojazdy”), każdy za **9 Kamiennych Odłamków** | Biały Samochód, Biały Pickup, Biały Motocykl, Biały Rower, Latający Motor, Sterowiec, Balon, Łódź Podwodna, Tratwa z Kłód oraz farby we wszystkich kolorach |
+| **Mechanik** na spawnie (stacja „Pojazdy”), każdy za **18 Kamiennych Odłamków** | Latające wierzchowce: Wywerna, Ghast, Chiński Smok, Pszczoła |
 | Stół rzemieślniczy | **Tratwa z Kłód**: 4 białe wełny (po bokach w dwóch górnych rzędach), 2 patyki (na środku) i 3 dębowe kłody (w dolnym rzędzie) |
 
 {% hint style="info" %}

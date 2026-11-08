@@ -10,4 +10,4 @@ description: Nowe struktury w Kresie.
 * **Zamek Kresu**.
 * **Latarnia Kresu** — w tych samych biomach co miasta Kresu.
 * **Statek Kresu** i **wrak statku Kresu**.
-* **Wieża Kresu**.
+* **Wieża Kresu** — we wszystkich [biomach Kresu](biomy.md), także na małych wyspach.

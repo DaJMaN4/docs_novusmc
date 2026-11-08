@@ -28,10 +28,10 @@ Gdy ktoś rozbije **Ostateczny Lucky Blok**, cały serwer dostaje ogłoszenie.
 
 ## Skąd wziąć Lucky Bloki
 
-* **Świat** — generują się w nowo odkrywanych terenach (patrz tabela wyżej).
-* **Losowo obok ciebie** — co 15 minut każdy gracz w świecie przetrwania (Świat Główny, Nether, Kres i pozostałe światy do eksploracji — nie na spawnie) ma **40% szans**, że 16–48 kratek od niego pojawi się Lucky Blok. Dostajesz wtedy wiadomość. Nierozbity blok znika po **45 minutach**.
-* **Okolica spawnu Świata Głównego** — co 10 minut w kwadracie 500 × 500 kratek wokół punktu odrodzenia pojawiają się 3 Lucky Bloki (cały serwer dostaje ogłoszenie). Nierozbite znikają po **2 godzinach**.
-* **Weekendowe łowy** — w soboty i niedziele od 16:00 do 22:00 nowe Lucky Bloki pojawiają się w okolicy spawnu **co 15 minut**. Zobacz [Wydarzenia](../informacje/osiagniecia.md#wydarzenia).
+* **Świat** — rzadko generują się w nowo odkrywanych terenach (patrz tabela wyżej).
+* **Losowo obok ciebie** — co 15 minut każdy gracz w świecie przetrwania (Świat Główny, Nether, Kres i pozostałe światy do eksploracji — nie na spawnie) ma **20% szans**, że 16–48 kratek od niego pojawi się Lucky Blok. Dostajesz wtedy wiadomość. Nierozbity blok znika po **45 minutach**.
+* **Okolica spawnu Świata Głównego** — co 20 minut w kwadracie 500 × 500 kratek wokół punktu odrodzenia pojawiają się 3 Lucky Bloki (cały serwer dostaje ogłoszenie). Nierozbite znikają po **2 godzinach**.
+* **Weekendowe łowy** — w soboty i niedziele od 16:00 do 22:00 nowe Lucky Bloki pojawiają się w okolicy spawnu **co 30 minut**. Zobacz [Wydarzenia](../informacje/osiagniecia.md#wydarzenia).
 * **Piniata** i **skrzynie** — Lucky Bloki są wśród nagród. Zobacz [Skrzynie i Piniata](../informacje/skrzynki.md).
 * **Stół rzemieślniczy** — receptury niżej.
 

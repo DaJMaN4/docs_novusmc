@@ -15,6 +15,8 @@ Menu rangi otworzysz komendą **`/vip`**.
 * **Domy:** 3 zamiast 2.
 * **Losowa teleportacja:** obszar 6000 × 6000 zamiast 5000 × 5000.
 * **Aktywne zadania:** 5 zamiast 4.
+* **Aukcje:** 12 wystawionych przedmiotów naraz zamiast 8.
+* **Sklepy skrzynkowe:** 20 zamiast 15.
 * **Plecak** ulepszony do poziomu 6.
 * **Drop do ekwipunku** — wykopane bloki trafiają prosto do ekwipunku (**`/drop`**).
 * **`/craft`** — stół rzemieślniczy w dowolnym miejscu.

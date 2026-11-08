@@ -26,7 +26,7 @@ Nowe zwierzęta i potwory z [Świata Głównego](../wymiary/swiat-glowny/potwory
 | **Pazur Spadającego Niedźwiedzia** | Spadający Niedźwiedź (75%) | pazur + krzemień → krzesiwo |
 | **Ości** | Szkieletowy Pirat (zawsze) | → 2 × mączka kostna |
 | **Skóra Kangura** | Kangur (75%) | 2 × skóra kangura → skóra |
-| **Śluz Pomrowika Bananowego** | Aliolimaks (75%) | 2 × śluz → kulka szlamu |
+| **Śluz Pomrowika Bananowego** | Ariolimaks (75%) | 2 × śluz → kulka szlamu |
 | **Oko Pustynnego Piaskuna** | Pustynny Piaskun (zawsze) | → 4 × ładunek wiatru |
 | **Mimikrem** | Mimikostka (50%) | mimikrem + 3 szklane butelki → 3 × butelka z zaklęciem |
 | **Kłujka Szkarłatnego Komara** | Szkarłatny Komar (zawsze) | kłujka + oko pająka → 2 × fermentowane oko pająka |

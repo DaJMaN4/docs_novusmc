@@ -30,8 +30,8 @@ Prawie wszystko otworzysz z **menu głównego** — komenda **`/menu`**. Menu ma
 | --- | --- |
 | `/spawn` | Powrót na spawn. |
 | `/rtp` | Losowa teleportacja na mapę survivalową. |
-| `/sethome`, `/home` | Ustawienie domu i powrót do niego. |
-| `/warp` | Lochy, areny bossów i inne miejsca (np. `/warp arenapvp`, `/warp piniata`). |
+| `/sethome`, `/home` | Ustawienie domu i powrót do niego (2 domy, z rangą do 5, więcej za pieniądze). |
+| `/warp` | Miejsca na spawnie: `/warp skrzynie`, `/warp piniata`, `/warp afk`. |
 | `/skrzynie` | Teleport do skrzyń z kluczami. |
 | `/strefaafk` | Strefa AFK. |
 | `/strefa` | Strefa VIP (dla rang VIP+). |
@@ -64,7 +64,7 @@ Prawie wszystko otworzysz z **menu głównego** — komenda **`/menu`**. Menu ma
 
 | Komenda | Opis |
 | --- | --- |
-| `/aukcje` | Aukcje graczy. |
+| `/aukcje` | Aukcje graczy (naraz 8 przedmiotów, z rangą do 20). |
 | `/sprzedaj <cena>` | Wystawia trzymany przedmiot na aukcję. |
 | `/trade <gracz>` | Bezpieczna wymiana z innym graczem. |
 | `/bal`, `/bilans` | Stan konta. |

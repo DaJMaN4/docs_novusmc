@@ -21,6 +21,7 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Wiewiórka**, **Sowa**, **mały ptak** | lasy | |
 | **jeleń** i **łania** | lasy, łąki i góry | |
 | **Wrona**, **Modrosójka Niebieska** | lasy | pióra |
+| **Ariolimaks** | stare tajgi borealne, tajgi sosnowe, lasy sekwojowe | śluz pomrowika bananowego |
 | **Lotopałanka** | lasy brzozowe | |
 | **Nocolot** | ciemny las | pióra |
 | **Bielik Amerykański** | gaje, wietrzne lasy | pióra |
@@ -65,12 +66,15 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 | **Mrówkojad** | lasy deszczowe i eukaliptusowe | |
 | **Waran** | lasy eukaliptusowe | mięso krokodyla |
 | **Tygrys** | bambusowe dżungle, gaje wiśniowe | |
+| **Kameleon** | lasy deszczowe, tropiki, dżungle i lasy bambusowe, lasy eukaliptusowe — za dnia | |
+| **Rohatyniec** | lasy deszczowe, tropiki, dżungle i lasy bambusowe, lasy eukaliptusowe | |
 
 ## Zimne biomy
 
 | Zwierzę | Gdzie | Wypada |
 | --- | --- | --- |
 | **Irbis Śnieżny** | śnieżne biomy | |
+| **Łoś** (z porożem) | zimne tajgi borealne, zamarznięte tajgi sosnowe, gaje | żeberka łosia |
 | **Kłowiec** | lodowe kolce | dzik |
 | **Mroźny Łowca** | lodowe szczyty i kolce | |
 

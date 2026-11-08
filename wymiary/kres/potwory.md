@@ -33,7 +33,9 @@ Na wyspach Kresu żyją też dziwne stworzenia:
 | **Ważka** | mglista kraina grzybów, megajeziora | Latający owad. |
 | **Jedwabna Ćma** | kwitnące iglice | |
 | **Ryba Kresu**, **Kostkomeduza** | megajeziora, mglista kraina grzybów | Pływają w wodzie. |
-| **Mimikostka** | małe wyspy Kresu | Wrogi sześcian. |
-| **Zjawa** | małe wyspy Kresu | Ogromny, latający duch. |
-| **Endoraczek** | małe wyspy Kresu | Spokojny niesporczak Kresu. |
-| **Kosmiczny Dorsz** | środkowa i małe wyspy Kresu | Ryba, która pływa w powietrzu. Wypada z niej kosmiczny dorsz do zjedzenia. |
+| **Mimikostka** | wszystkie zewnętrzne wyspy Kresu | Wrogi sześcian. |
+| **Zjawa** | wszystkie zewnętrzne wyspy Kresu | Ogromny, latający duch. |
+| **Endoraczek** | wszystkie zewnętrzne wyspy Kresu | Spokojny niesporczak Kresu. |
+| **Enderofag** | wszystkie zewnętrzne wyspy Kresu — rzadko | Mały, wirusowy stwór Kresu. |
+| **Kosmak** | wszystkie zewnętrzne wyspy Kresu | Latający stwór. Wypada z niego owoc refrenu. |
+| **Kosmiczny Dorsz** | środkowa i wszystkie zewnętrzne wyspy Kresu | Ryba, która pływa w powietrzu. Wypada z niej kosmiczny dorsz do zjedzenia. |

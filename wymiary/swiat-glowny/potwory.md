@@ -57,7 +57,6 @@ Prawie każdy rodzaj biomu ma własnego creepera i endermana w swoich barwach, n
 | Zjawa | mroczne i zimne lasy, lodowe szczyty | Upiorny przeciwnik. |
 | Lodomanta | zimne biomy | Lodowy czarownik. |
 | Kamienny Golem i Kamienny Sługa | góry i klify | |
-| Skorpid | pustynie, badlandy, sawanny | |
 | Wielki Głód | bagna | |
 | Aligator | rzeki i bagna | |
 | Krab, Krab Pustelnik | plaże | |
@@ -86,7 +85,7 @@ Bardzo rzadko po świecie wędruje żywa burza: **Burza** na łąkach podczas bu
 
 <figure><img src="../../.gitbook/assets/potwory/boss.gif" alt="Walka z bossem"><figcaption><p>Walka z bossem</p></figcaption></figure>
 
-Bossowie czekają w lochach i na arenach (**`/warp`**). Zobacz też [Boss tygodnia](../../informacje/osiagniecia.md#boss-tygodnia).
+Bossów spotkasz w lochach i strukturach rozsianych po świecie, np. w Fabrykach Golemów. Zobacz też [Boss tygodnia](../../informacje/osiagniecia.md#boss-tygodnia).
 
 ## Piniata
 

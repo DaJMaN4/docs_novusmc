@@ -14,7 +14,7 @@ Działka to twoje chronione miejsce. Nikt poza tobą i zaufanymi graczami nie mo
 2. Otwórz menu **`/dzialki`** i załóż działkę.
 3. Kolejne chunki dołączysz, stojąc w nich i wpisując **`/dzialki claim`**.
 
-Jedna działka może mieć **do 100 chunków**. Działki nie mają opłat za utrzymanie ani podatków.
+Jedna działka może mieć **do 100 chunków**. Pierwsze 16 chunków dołączysz za darmo, kolejne kosztują od 25$ — zobacz [Ekonomia i rozwój](../jak-grac/your-first-project.md#dzialki). Działki nie mają opłat za utrzymanie ani podatków.
 
 ## Ile działek możesz mieć?
 
@@ -31,7 +31,7 @@ Dodatkowe działki odblokujesz też za pieniądze w menu ulepszeń. Kolejną dzi
 
 <figure><img src="../.gitbook/assets/informacje/blok-przejecia.png" alt="Blok Przejęcia"><figcaption><p>Blok Przejęcia</p></figcaption></figure>
 
-Blok Przejęcia (300$ w menu ulepszeń) postawiony w dziczy graniczącej z twoją działką przejmuje ten chunk.
+Blok Przejęcia (500$ w menu ulepszeń) postawiony w dziczy graniczącej z twoją działką przejmuje ten chunk.
 
 ## Budowanie razem
 

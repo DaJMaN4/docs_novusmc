@@ -15,6 +15,8 @@ Menu rangi otworzysz komendą **`/svip`**. SVIP ma **wszystko, co VIP**, oraz:
 * **Domy:** 4.
 * **Losowa teleportacja:** obszar 8000 × 8000.
 * **Aktywne zadania:** 7.
+* **Aukcje:** 15 wystawionych przedmiotów naraz.
+* **Sklepy skrzynkowe:** 30.
 * **Plecak** ulepszony do poziomu 9.
 * **Grawitacja drzew** — całe drzewo spada po ścięciu pnia (przełączasz w profilu albo **`/drwal`**).
 * **`/enderchest`** — skrzynia Kresu w dowolnym miejscu.

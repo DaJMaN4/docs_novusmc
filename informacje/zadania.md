@@ -47,7 +47,7 @@ Zadania z Wypraw to jednorazowe zadania związane z nowymi potworami, trofeami i
 | --- | --- | --- |
 | Mroźne polowanie | Pokonaj 10 lodowych zombie (zaśnieżone biomy) | 250$ |
 | Kobolty z mrocznego lasu | Pokonaj 8 koboltów | 250$ |
-| Pustynne żądła | Pokonaj 6 skorpidów (pustynia) | 250$ |
+| Pustynne pająki | Pokonaj 6 pustynnych pająków (pustynia) | 250$ |
 | Czarne pająki | Pokonaj 10 czarnych pająków (mroczny las) | 200$ |
 | Nieumarli górnicy | Pokonaj 5 nieumarłych górników (głęboko pod ziemią) | 300$ |
 | Ogon szopa | Zdobądź ogon szopa | 300$ |

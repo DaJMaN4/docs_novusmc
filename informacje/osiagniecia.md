@@ -81,7 +81,7 @@ Terminy wydarzeń sprawdzisz komendą **`/wydarzenia`** albo przyciskiem **Wydar
 | Wydarzenie | Kiedy | Co się dzieje |
 | --- | --- | --- |
 | 🪅 **Piniata na spawnie** | Sobota, 20:00 | Na spawnie pojawia się piniata — bijcie ją razem, aż pęknie. Ostrzeżenie 10 minut wcześniej. Zobacz [Piniata](skrzynki.md#piniata). |
-| 🍀 **Weekendowe łowy na Lucky Bloki** | Sobota i niedziela, 16:00–22:00 | Co 15 minut w okolicy spawnu zwykłego świata pojawiają się nowe Lucky Bloki. |
+| 🍀 **Weekendowe łowy na Lucky Bloki** | Sobota i niedziela, 16:00–22:00 | Co 30 minut w okolicy spawnu zwykłego świata pojawiają się nowe Lucky Bloki. |
 | 👹 **Boss tygodnia** | Piątek, 20:00 | W zwykłym świecie pojawia się boss — współrzędne podane są na czacie. Ostrzeżenie 15 minut wcześniej. |
 
 ### Boss tygodnia

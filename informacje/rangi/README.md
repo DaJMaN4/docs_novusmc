@@ -31,9 +31,11 @@ Ogniste Kryształy kupisz w sklepie internetowym serwera (**novusmc.pl**). Zdob�
 | | Bez rangi | VIP | SVIP | MVIP |
 | --- | --- | --- | --- | --- |
 | Działki | 1 | 2 | 3 | 5 |
-| Domy | 2 | 3 | 4 | 3 |
+| Domy | 2 | 3 | 4 | 5 |
 | Zasięg `/rtp` | 5k × 5k | 6k × 6k | 8k × 8k | 10k × 10k |
 | Aktywne zadania | 4 | 5 | 7 | 9 |
+| Przedmioty na aukcji naraz | 8 | 12 | 15 | 20 |
+| Sklepy skrzynkowe | 15 | 20 | 30 | 40 |
 | Poziom plecaka | — | 6 | 9 | maks. |
 | Drop do ekwipunku | — | ✅ | ✅ | ✅ |
 | `/craft` | — | ✅ | ✅ | ✅ |

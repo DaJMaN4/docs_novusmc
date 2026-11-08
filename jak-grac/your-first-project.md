@@ -7,7 +7,7 @@ icon: compass
 
 ## Waluty
 
-* **Pieniądze ($)** — zaczynasz z pustym kontem. Zarabiasz, sprzedając surowce w skupie, wykonując zadania i osiągnięcia oraz handlując z graczami. Wydajesz na działki, domy, ulepszenia plecaka i zakupy od innych graczy. Stan konta: **`/bal`**.
+* **Pieniądze ($)** — na start dostajesz **250$**. Zarabiasz, sprzedając surowce w skupie, wykonując zadania i osiągnięcia oraz handlując z graczami. Wydajesz na działki, domy, ulepszenia plecaka i zakupy od innych graczy. Stan konta: **`/bal`**.
 * **Ogniste Kryształy** — waluta premium. Kupisz za nie rangi VIP+, klucze i przywołanie piniaty (**`/sklep`**). Zdobędziesz je w sklepie internetowym serwera, podczas eventów i w grach na czacie.
 
 ## Jak zarabiać?
@@ -20,7 +20,7 @@ icon: compass
 | [Zadania z Wypraw](../informacje/zadania.md#zadania-z-wypraw) i [Zadania Specjalne](../informacje/zadania.md#zadania-specjalne) | Od 100$ do 3 000$ za zadanie. |
 | [Osiągnięcia](../informacje/osiagniecia.md) | Od 100$ do 15 000$ za osiągnięcie. |
 | [Skrzynie](../informacje/skrzynki.md) i piniata | Pieniądze, surowce i rzadkie przedmioty. |
-| [Aukcje](../informacje/sklepy-i-skupy.md#aukcje) i sklepy na działce | Sprzedaż przedmiotów innym graczom. |
+| [Aukcje](../informacje/sklepy-i-skupy.md#aukcje) i sklepy na działce | Sprzedaż przedmiotów innym graczom. Bez rangi wystawisz naraz 8 przedmiotów na aukcji i postawisz 15 sklepów skrzynkowych — więcej z [rangą](../informacje/rangi/#porownanie). |
 
 ## Na co wydawać?
 
@@ -45,7 +45,7 @@ Ulepszenia kupisz u NPC na spawnie.
 
 ### Domy
 
-Bez rangi masz 2 domy. Trzeci dom kosztuje **300$**, a każdy kolejny (aż do 9.) — **800$**.
+Bez rangi masz 2 domy. Trzeci dom kosztuje **300$**, a każdy kolejny (aż do 9.) — **800$**. Rangi dają więcej domów za darmo: VIP 3, SVIP 4, MVIP 5.
 
 ### Plecak
 
