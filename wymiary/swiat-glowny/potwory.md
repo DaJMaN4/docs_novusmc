@@ -81,6 +81,8 @@ Uważaj też na duże [zwierzęta](zwierzeta.md): niedźwiedź grizzly, tygrys, 
 
 Bardzo rzadko po świecie wędruje żywa burza: **Burza** na łąkach podczas burzy, **Burza Piaskowa** na pustyni, **Śnieżyca** w śnieżnych biomach i **Wodna Burza** nad oceanem.
 
+Burza wyrasta z małego wiru, wciąga graczy i kręci nimi, ale nie zabije cię: 15 sekund po tym, jak cię złapie, kurczy się i znika tak, jak się pojawiła.
+
 ## Bossowie
 
 <figure><img src="../../.gitbook/assets/potwory/boss.gif" alt="Walka z bossem"><figcaption><p>Walka z bossem</p></figcaption></figure>
