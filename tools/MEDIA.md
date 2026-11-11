@@ -1,6 +1,6 @@
 # Zdjęcia i GIF-y do dokumentacji
 
-Gotowe: **0 / 200** (PNG: 138, GIF: 62).
+Gotowe: **0 / 176** (PNG: 119, GIF: 57).
 
 Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby dodać prawdziwy obrazek, zapisz go **pod tą samą nazwą** (nadpisz zaślepkę) i uruchom `python tools/media.py`, żeby odświeżyć tę listę.
 
@@ -30,7 +30,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `start/plecak.png` | Plecak /plecak | Otwarty plecak z kilkoma przedmiotami |
 | ⬜ | `start/skrzynie.gif` | Otwieranie skrzyni kluczem | Otwieranie skrzyni na /skrzynie z animacją losowania |
 | ⬜ | `start/piniata.gif` | Piniata | Gracze rozbijają piniatę |
 | ⬜ | `start/strefa-afk.png` | Strefa AFK | Widok strefy AFK |
@@ -43,14 +42,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `informacje/dzialki-granice.gif` | Granice działki | Podgląd granic działki (cząsteczki) i zakładanie działki |
 | ⬜ | `informacje/blok-przejecia.png` | Blok Przejęcia | Postawiony Blok Przejęcia przy granicy działki |
 | ⬜ | `informacje/dzialki-zaufani.png` | Zaufani gracze | Menu zaufanych graczy działki |
-
-## informacje/zadania.md
-
-| | Plik | Podpis | Co pokazać |
-| --- | --- | --- | --- |
-| ⬜ | `informacje/gildie.png` | Menu zadań gildii | Otwarte menu /zadania z trzema gildiami |
-| ⬜ | `informacje/misje.png` | Misje | Lista misji |
-| ⬜ | `informacje/runy.png` | Runy | Kilka run w ekwipunku z opisem |
 
 ## informacje/umiejetnosci.md
 
@@ -114,7 +105,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `ekwipunek/szlamowa-odbicie.gif` | Szlamowa zbroja — Odbicie | Mob uderza gracza w szlamowej zbroi i zostaje odrzucony |
 | ⬜ | `ekwipunek/promethium.png` | Zbroja z promethium | Stojak ze zbroją z promethium |
 | ⬜ | `ekwipunek/chodzenie-po-lawie.gif` | Chodzenie po lawie | Gracz w butach z promethium chodzi po lawie |
-| ⬜ | `ekwipunek/betternether-zestawy.png` | Cincinnasite i Nether Ruby | Stojaki z zestawem cincinnasite i nether ruby + broń |
 
 ## dodatki/ekwipunek/bron.md
 
@@ -160,16 +150,8 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `maszyny/prasa.gif` | Prasa mechaniczna | Prasa robi płytki z żelaza (menu z postępem) |
-| ⬜ | `maszyny/rozdrabniacz.gif` | Rozdrabnianie rud | Ruda -> 2 pyły w menu rozdrabniacza |
-| ⬜ | `maszyny/piec-elektryczny.png` | Piec elektryczny | Menu pieca elektrycznego |
-| ⬜ | `maszyny/krystalizator.png` | Krystalizator | Krystalizator z blokiem gwiezdnego pyłu |
 | ⬜ | `maszyny/zamrazarka.png` | Zamrażarka | Menu zamrażarki z wyborem lodu |
 | ⬜ | `maszyny/generator-bruku.gif` | Generator bruku | Generator bruku + niszczyciel bloków / kabel do skrzyni |
-| ⬜ | `maszyny/zaparzacz.png` | Zaparzacz do płynów | Menu zaparzacza (wiadro -> wiadro wody) |
-| ⬜ | `maszyny/stojak-mikstur.png` | Elektryczny stojak do parzenia | Menu wyboru efektów mikstury |
-| ⬜ | `maszyny/auto-crafter.gif` | Auto Crafter | Ustawianie receptury i automatyczne craftowanie |
-| ⬜ | `maszyny/ladowarka.png` | Ładowarka | Ładowarka z ładującym się jetpackiem |
 
 ## dodatki/maszyny/farmy.md
 
@@ -195,8 +177,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `maszyny/niszczyciel.gif` | Niszczyciel bloków | Niszczyciel bloków przy generatorze bruku |
 | ⬜ | `maszyny/stawiacz.gif` | Stawiacz bloków | Stawiacz stawiający bloki |
 | ⬜ | `maszyny/pompa.gif` | Pompa | Pompa wypompowuje jezioro lawy |
-| ⬜ | `maszyny/ladowarka-chunkow.png` | Ładowarka chunków | Ładowarka chunków z podglądem zasięgu |
-| ⬜ | `maszyny/star-collector.gif` | Star Collector | Zbieranie gwiezdnego pyłu nocą |
 
 ## dodatki/maszyny/logistyka.md
 
@@ -219,7 +199,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `przechowywanie/szuflady.png` | Szuflady | Ściana szuflad z przedmiotami i liczbami |
 | ⬜ | `przechowywanie/szuflady-uzycie.gif` | Wkładanie do szuflad | Wkładanie i wyjmowanie przedmiotów z szuflady, dwuklik |
 | ⬜ | `przechowywanie/kontroler.gif` | Kontroler szuflad | Wkładanie stosu do kontrolera — rozchodzi się do szuflad |
-| ⬜ | `przechowywanie/kosz.png` | Kosz na śmieci | Menu kosza z górnym rzędem i filtrem |
 | ⬜ | `przechowywanie/plecaki.png` | Plecaki podróżnika | Kilkanaście postawionych plecaków różnych wzorów |
 | ⬜ | `przechowywanie/plecak-menu.png` | Menu plecaka | Otwarty plecak ze zbiornikami i slotem ulepszenia |
 
@@ -261,8 +240,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `podroze/jetpacki.png` | Jetpacki | Wszystkie jetpacki (zwykłe i opancerzone) na stojakach |
 | ⬜ | `podroze/lotnia.gif` | Lotnia | Szybowanie lotnią z góry |
 | ⬜ | `podroze/winda.gif` | Winda | Skok w górę i kucnięcie w dół między windami |
-| ⬜ | `podroze/kamien-podrozy.png` | Kamień podróży | Postawiony kamień podróży |
-| ⬜ | `podroze/kamien-podrozy-menu.png` | Menu kamieni podróży | Lista kamieni do teleportu |
 | ⬜ | `podroze/lacznik-refrenu.gif` | Łącznik refrenu | Zjedzenie owocu refrenu i teleport na łącznik |
 | ⬜ | `podroze/przekaznik-kresu.gif` | Przekaźnik Kresu | Ładowanie przekaźnika kryształem i teleport |
 | ⬜ | `podroze/lodzie.png` | Nowe łodzie | Kilka łodzi z nowych drewien na wodzie |
@@ -280,10 +257,7 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
 | ⬜ | `bloki/budowla.png` | Budowla z nowych bloków | Ładna budowla z nowych bloków (np. dom z dachówkami) |
-| ⬜ | `bloki/blockus-kamienie.png` | Kamienie i cegły | Ściana próbek kamieni i cegieł Blockus |
-| ⬜ | `bloki/blockus-kolorowe.png` | Kolorowe bloki | Kolorowe kafelki, neony, lampy |
 | ⬜ | `bloki/dawn-of-time.png` | Tradycyjne budownictwo | Dom z szachulca z dachówkami i pergolą |
-| ⬜ | `bloki/pionowe-plyty.png` | Pionowe płyty | Przykład użycia pionowych płyt |
 | ⬜ | `bloki/drewno-swiat.png` | Nowe drewno | Deski i kłody wszystkich nowych drzew |
 | ⬜ | `bloki/drewno-nether.png` | Drewno z Netheru | Deski, meble i szkło z Netheru |
 
@@ -312,7 +286,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `insekty/lapanie.gif` | Łapanie owadów | Łapanie motyla siatką |
 | ⬜ | `insekty/terraria.png` | Terraria | Półka z terrariami pełnymi owadów |
 
 ## wymiary/swiat-glowny/README.md
@@ -327,7 +300,7 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
 | ⬜ | `biomy/sekwoje.png` | Redwoods | Las sekwojowy |
-| ⬜ | `biomy/klony.png` | Autumnal Maple Forest | Jesienny las klonowy |
+| ⬜ | `biomy/klony.png` | Maple Forest | Las klonowy |
 | ⬜ | `biomy/glicynie.png` | Wisteria Grove | Gaj glicynii |
 | ⬜ | `biomy/pola-kwiatow.png` | Flower Fields | Pola kwiatów |
 | ⬜ | `biomy/saguaro.png` | Saguaro Desert | Pustynia z kaktusami saguaro |
@@ -362,7 +335,6 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `zwierzeta/zoo.png` | Nowe zwierzęta | Kolaż kilku zwierząt (niedźwiedź, słoń, tukan, orka) |
 | ⬜ | `zwierzeta/grizzly.png` | Niedźwiedź Grizzly | Niedźwiedź grizzly w lesie |
 | ⬜ | `zwierzeta/slon.png` | Słoń | Słonie na sawannie |
-| ⬜ | `zwierzeta/goryl.png` | Goryl | Goryle w dżungli |
 | ⬜ | `zwierzeta/krokodyl.png` | Krokodyl | Krokodyl przy rzece |
 | ⬜ | `zwierzeta/orka.gif` | Orka | Pływająca orka |
 | ⬜ | `zwierzeta/trzepotnik.png` | Trzepotnik | Trzepotnik w bujnej jaskini |
@@ -377,11 +349,10 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `nether/dzungla.png` | Nether Jungle | Netherowa dżungla |
-| ⬜ | `nether/grzybowy-las.png` | Nether Mushroom Forest | Las ogromnych grzybów |
-| ⬜ | `nether/odwrocony-las.png` | Upside Down Forest | Odwrócony las |
-| ⬜ | `nether/mokradla.png` | Nether Swampland | Netherowe mokradła |
-| ⬜ | `nether/koscista-rafa.png` | Bone Reef | Kościana rafa |
+| ⬜ | `nether/lsniaca-laka.png` | Glistering Meadow | Lśniąca łąka z błyszczącymi paprociami |
+| ⬜ | `nether/plonacy-zagajnik.png` | Infernal Holt | Płonący zagajnik z żarodrzewami |
+| ⬜ | `nether/czernitowa-niecka.png` | Blackstone Basin | Czernitowa niecka z obsydianowymi iglicami |
+| ⬜ | `nether/trujace-poszycie.png` | Mycotoxic Undergrowth | Trujące poszycie z mykotoksycznymi grzybami |
 
 ## wymiary/nether/struktury.md
 

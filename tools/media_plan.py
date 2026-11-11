@@ -286,11 +286,11 @@ PLAN = {
     "wymiary/swiat-glowny/biomy.md": {
         "## Lasy": [
             ("biomy/sekwoje.png", "Redwoods", "Las sekwojowy"),
-            ("biomy/klony.png", "Autumnal Maple Forest", "Jesienny las klonowy"),
+            ("biomy/klony.png", "Maple Forest", "Las klonowy"),
             ("biomy/glicynie.png", "Wisteria Grove", "Gaj glicynii"),
         ],
         "## Równiny i łąki": [("biomy/pola-kwiatow.png", "Flower Fields", "Pola kwiatów")],
-        "## Pustynie i sawanny": [
+        "## Pustynie, sawanny i badlandy": [
             ("biomy/saguaro.png", "Saguaro Desert", "Pustynia z kaktusami saguaro"),
             ("biomy/baobaby.png", "Baobab Savanna", "Sawanna z baobabami"),
         ],
@@ -328,13 +328,12 @@ PLAN = {
         "# 🔥 Nether": [("nether/panorama.png", "Nether", "Panorama Netheru z nowymi biomami")],
     },
     "wymiary/nether/biomy.md": {
-        "## Lasy": [
-            ("nether/dzungla.png", "Nether Jungle", "Netherowa dżungla"),
-            ("nether/grzybowy-las.png", "Nether Mushroom Forest", "Las ogromnych grzybów"),
-            ("nether/odwrocony-las.png", "Upside Down Forest", "Odwrócony las"),
+        "## Nowe biomy": [
+            ("nether/lsniaca-laka.png", "Glistering Meadow", "Lśniąca łąka z błyszczącymi paprociami"),
+            ("nether/plonacy-zagajnik.png", "Infernal Holt", "Płonący zagajnik z żarodrzewami"),
+            ("nether/czernitowa-niecka.png", "Blackstone Basin", "Czernitowa niecka z obsydianowymi iglicami"),
+            ("nether/trujace-poszycie.png", "Mycotoxic Undergrowth", "Trujące poszycie z mykotoksycznymi grzybami"),
         ],
-        "## Bagna i równiny": [("nether/mokradla.png", "Nether Swampland", "Netherowe mokradła")],
-        "## Pustkowia": [("nether/koscista-rafa.png", "Bone Reef", "Kościana rafa")],
     },
     "wymiary/nether/struktury.md": {
         "## Nowe struktury": [

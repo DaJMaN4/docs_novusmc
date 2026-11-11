@@ -1,12 +1,12 @@
 ---
-description: Nowe biomy Kresu — lasy refrenu, cieniste lasy, kryształowe góry, megajeziora i więcej.
+description: Wszystkie 16 biomów Kresu — 14 nowych (lasy refrenu, cieniste lasy, kryształowe góry, megajeziora) i 2 zwykłe.
 ---
 
 # 🌌 Biomy
 
 <figure><img src="../../.gitbook/assets/kres/biomy.png" alt="Biomy Kresu"><figcaption><p>Biomy Kresu</p></figcaption></figure>
 
-Środkowa wyspa ze Smokiem Kresu wygląda jak w zwykłym Minecrafcie, ale zewnętrzne wyspy mają **14 nowych biomów** (nazwy w grze są po angielsku):
+W Kresie jest **16 biomów**. Środkowa wyspa ze Smokiem Kresu wygląda jak w zwykłym Minecrafcie, ale zewnętrzne wyspy mają **14 nowych biomów** (nazwy w grze są po angielsku).
 
 ## Lasy
 
@@ -35,3 +35,10 @@ description: Nowe biomy Kresu — lasy refrenu, cieniste lasy, kryształowe gór
 | **Ice Starfield** | Pole lodowych gwiazd. |
 | **Dust Wastelands** | Pyłowe pustkowia. |
 | **Umbra Valley** | Ciemna dolina z łukami z umbralitu. |
+
+## Zwykłe biomy
+
+| Biom | |
+| --- | --- |
+| **The End** (Kres) | Środkowa wyspa ze Smokiem Kresu i obsydianowymi filarami. |
+| **Small End Islands** (małe wyspy Kresu) | Drobne wysepki w pustce między dużymi wyspami. |
