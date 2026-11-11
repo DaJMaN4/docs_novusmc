@@ -12,7 +12,7 @@ Na serwerze jest **ponad tysiąc nowych bloków** do budowania. Prawie każdy ma
 Wszystkie bloki przejrzysz w menu przedmiotów (**`/nova items`**) w zakładkach **Bloki budowlane** i **Bloki naturalne**. Większość powstaje w stole rzemieślniczym albo w **przecinarce do kamienia**.
 {% endhint %}
 
-## Dawn of Time — tradycyjne budownictwo
+## Tradycyjne budownictwo
 
 <figure><img src="../.gitbook/assets/bloki/dawn-of-time.png" alt="Tradycyjne budownictwo"><figcaption><p>Tradycyjne budownictwo</p></figcaption></figure>
 
@@ -51,12 +51,12 @@ Wiszące pnącza z nowych biomów (np. glicynii) zachowują się jak zwykłe pn�
 
 Nowe biomy Netheru dają drewno **żarodrzewne** i **kobaltowe** z pełnym zestawem kształtów.
 
-### Kres
+### End
 
-Biomy Kresu dają drewno: **smocze, lotosowe, galaretnikowe, lakugrowe, omszałe świetlakowe, pytadendronowe, tenaneowe i parasolowe**. Z każdego zrobisz też krzesło, taboret, hoker, półkę, drabinę i skrzynię.
+Biomy Endu dają drewno: **smocze, lotosowe, galaretnikowe, lakugrowe, omszałe świetlakowe, pytadendronowe, tenaneowe i parasolowe**. Z każdego zrobisz też krzesło, taboret, hoker, półkę, drabinę i skrzynię.
 
-* Nowe kamienie: **flawolit**, **fiolecyt** i **umbralit** — z cegłami, płytkami, filarami i polerowaną wersją, a także popękane i zwietrzałe cegły z kamienia Kresu.
-* Bloki z metali Kresu (**talas**, **terminit**, **eternium**), latarnie z żarówką w 16 kolorach, żyrandole i piedestały.
+* Nowe kamienie: **flawolit**, **fiolecyt** i **umbralit** — z cegłami, płytkami, filarami i polerowaną wersją, a także popękane i zwietrzałe cegły z kamienia Endu.
+* Bloki z metali Endu (**talas**, **terminit**, **eternium**), latarnie z żarówką w 16 kolorach, żyrandole i piedestały.
 
 ## Inne
 

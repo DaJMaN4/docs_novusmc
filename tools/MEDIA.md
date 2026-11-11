@@ -14,7 +14,7 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
 | ⬜ | `ogolne/baner.png` | Survival NovusMC | Szeroki baner: spawn albo ładny widok świata z logo serwera |
-| ⬜ | `ogolne/wymiary.png` | Świat Główny, Nether i Kres | Kolaż trzech wymiarów (po jednym widoku) |
+| ⬜ | `ogolne/wymiary.png` | Świat Główny, Nether i End | Kolaż trzech wymiarów (po jednym widoku) |
 
 ## jak-grac/getting-started.md
 
@@ -89,11 +89,11 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 | ⬜ | `ekwipunek/lewitacja.gif` | Zdolność Lewitacja | Uderzenie mieczem shulkera unosi moba |
 | ⬜ | `ekwipunek/wulkanitowy.png` | Zestaw wulkanitowy | Stojak z wulkanitową zbroją + narzędzia |
 | ⬜ | `ekwipunek/autosmelt.gif` | Przetapianie rud kilofem | Kopanie rudy żelaza wulkanitowym kilofem — wypada sztabka |
-| ⬜ | `ekwipunek/kresowy.png` | Zestaw kresowy | Stojak z kresową zbroją + narzędzia |
+| ⬜ | `ekwipunek/kresowy.png` | Zestaw kresumowy | Stojak z kresumową zbroją + narzędzia |
 | ⬜ | `ekwipunek/duszmitowy.png` | Zestaw duszmitowy | Stojak z duszmitową zbroją + narzędzia |
 | ⬜ | `ekwipunek/topazowy.png` | Zestaw topazowy | Stojak z topazową zbroją + narzędzia |
 | ⬜ | `ekwipunek/perlytowy.png` | Zestaw perłytowy | Stojak z perłytową zbroją + narzędzia |
-| ⬜ | `ekwipunek/unik-kresu.gif` | Unik Kresu | Gracz w pełnym zestawie dostaje cios i teleportuje się |
+| ⬜ | `ekwipunek/unik-kresu.gif` | Unik Endu | Gracz w pełnym zestawie dostaje cios i teleportuje się |
 | ⬜ | `ekwipunek/enderytowy.png` | Zestaw enderytowy | Stojak z enderytową zbroją + narzędzia |
 | ⬜ | `ekwipunek/mrugniecie.gif` | Mrugnięcie | Shift + PPM enderytowym mieczem — teleport do przodu |
 
@@ -236,12 +236,12 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `podroze/jetpack.gif` | Lot jetpackiem | Lot jetpackiem nad bazą |
-| ⬜ | `podroze/jetpacki.png` | Jetpacki | Wszystkie jetpacki (zwykłe i opancerzone) na stojakach |
+| ⬜ | `podroze/jetpack.gif` | Lot plecakiem odrzutowym | Lot plecakiem odrzutowym nad bazą |
+| ⬜ | `podroze/jetpacki.png` | Plecaki odrzutowe | Wszystkie cztery plecaki odrzutowe na stojakach |
 | ⬜ | `podroze/lotnia.gif` | Lotnia | Szybowanie lotnią z góry |
 | ⬜ | `podroze/winda.gif` | Winda | Skok w górę i kucnięcie w dół między windami |
-| ⬜ | `podroze/lacznik-refrenu.gif` | Łącznik refrenu | Zjedzenie owocu refrenu i teleport na łącznik |
-| ⬜ | `podroze/przekaznik-kresu.gif` | Przekaźnik Kresu | Ładowanie przekaźnika kryształem i teleport |
+| ⬜ | `podroze/lacznik-refrenu.gif` | Łącznik refrenusu | Zjedzenie owocu refrenusu i teleport na łącznik |
+| ⬜ | `podroze/przekaznik-kresu.gif` | Przekaźnik Endu | Ładowanie przekaźnika kryształem i teleport |
 | ⬜ | `podroze/lodzie.png` | Nowe łodzie | Kilka łodzi z nowych drewien na wodzie |
 
 ## dodatki/groby.md
@@ -378,19 +378,19 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `kres/panorama.png` | Kres | Panorama wysp Kresu |
+| ⬜ | `kres/panorama.png` | End | Panorama wysp Endu |
 
 ## wymiary/kres/biomy.md
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `kres/biomy.png` | Biomy Kresu | Kryształowe szczyty / krainy cieni |
+| ⬜ | `kres/biomy.png` | Biomy Endu | Kryształowe szczyty / krainy cieni |
 
 ## wymiary/kres/struktury.md
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `kres/zamek.png` | Zamek Kresu | Zamek Kresu |
+| ⬜ | `kres/zamek.png` | Zamek Endu | Zamek Endu |
 
 ## wymiary/kres/potwory.md
 
@@ -403,4 +403,4 @@ Każde miejsce na obrazek ma już plik-zaślepkę w `.gitbook/assets/`. Aby doda
 
 | | Plik | Podpis | Co pokazać |
 | --- | --- | --- | --- |
-| ⬜ | `kres/rudy.png` | Rudy Kresu | Voidium, perłyt i enderyt w kamieniu Kresu |
+| ⬜ | `kres/rudy.png` | Rudy Endu | Voidium, perłyt i enderyt w kamieniu Endu |

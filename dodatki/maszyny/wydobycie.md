@@ -53,4 +53,4 @@ Blok, z którego pompa i kable mogą pobierać **wodę bez końca**.
 
 <figure><img src="../../.gitbook/assets/maszyny/star-collector.gif" alt="Zbieracz Gwiezdnego Pyłu"><figcaption><p>Zbieracz Gwiezdnego Pyłu</p></figcaption></figure>
 
-Nocą zbiera **gwiezdny pył** z nieba. Potrzebuje dużo energii (200 J/t podczas zbierania, magazyn 100 000 J), a do budowy — Ostatecznej Ramy Maszyny.
+Nocą zbiera **Gwiezdny Pył** z nieba. Potrzebuje dużo energii (200 J/t podczas zbierania, magazyn 100 000 J), a do budowy — Ostatecznej Ramy Maszyny.

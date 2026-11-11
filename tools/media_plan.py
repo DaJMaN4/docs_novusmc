@@ -9,7 +9,7 @@ PLAN = {
             ("ogolne/baner.png", "Survival NovusMC", "Szeroki baner: spawn albo ładny widok świata z logo serwera"),
         ],
         "## Wymiary": [
-            ("ogolne/wymiary.png", "Świat Główny, Nether i Kres", "Kolaż trzech wymiarów (po jednym widoku)"),
+            ("ogolne/wymiary.png", "Świat Główny, Nether i End", "Kolaż trzech wymiarów (po jednym widoku)"),
         ],
     },
     "jak-grac/getting-started.md": {
@@ -82,12 +82,12 @@ PLAN = {
             ("ekwipunek/wulkanitowy.png", "Zestaw wulkanitowy", "Stojak z wulkanitową zbroją + narzędzia"),
             ("ekwipunek/autosmelt.gif", "Przetapianie rud kilofem", "Kopanie rudy żelaza wulkanitowym kilofem — wypada sztabka"),
         ],
-        "## Kresowy (voidium)": [("ekwipunek/kresowy.png", "Zestaw kresowy", "Stojak z kresową zbroją + narzędzia")],
+        "## Kresumowy (voidium)": [("ekwipunek/kresowy.png", "Zestaw kresumowy", "Stojak z kresumową zbroją + narzędzia")],
         "## Duszmitowy": [("ekwipunek/duszmitowy.png", "Zestaw duszmitowy", "Stojak z duszmitową zbroją + narzędzia")],
         "## Topazowy": [("ekwipunek/topazowy.png", "Zestaw topazowy", "Stojak z topazową zbroją + narzędzia")],
         "## Perłytowy": [
             ("ekwipunek/perlytowy.png", "Zestaw perłytowy", "Stojak z perłytową zbroją + narzędzia"),
-            ("ekwipunek/unik-kresu.gif", "Unik Kresu", "Gracz w pełnym zestawie dostaje cios i teleportuje się"),
+            ("ekwipunek/unik-kresu.gif", "Unik Endu", "Gracz w pełnym zestawie dostaje cios i teleportuje się"),
         ],
         "## Enderytowy": [
             ("ekwipunek/enderytowy.png", "Zestaw enderytowy", "Stojak z enderytową zbroją + narzędzia"),
@@ -148,7 +148,7 @@ PLAN = {
         "## Zaparzacz do płynów": [("maszyny/zaparzacz.png", "Zaparzacz do płynów", "Menu zaparzacza (wiadro -> wiadro wody)")],
         "## Elektryczny stojak do parzenia piwa": [("maszyny/stojak-mikstur.png", "Elektryczny stojak do parzenia", "Menu wyboru efektów mikstury")],
         "## Auto Crafter": [("maszyny/auto-crafter.gif", "Auto Crafter", "Ustawianie receptury i automatyczne craftowanie")],
-        "## Ładowarka i Ładowarka bezprzewodowa": [("maszyny/ladowarka.png", "Ładowarka", "Ładowarka z ładującym się jetpackiem")],
+        "## Ładowarka i Ładowarka bezprzewodowa": [("maszyny/ladowarka.png", "Ładowarka", "Ładowarka z ładującym się plecakiem odrzutowym")],
     },
     "dodatki/maszyny/farmy.md": {
         "# 🌾 Farmy": [("maszyny/farma-automatyczna.png", "Automatyczna farma", "Pole uprawne z sadzarką, żniwiarką, zraszaczem i użyźniaczem")],
@@ -227,9 +227,9 @@ PLAN = {
         ],
     },
     "dodatki/pojazdy.md": {
-        "## Jetpacki": [
-            ("podroze/jetpack.gif", "Lot jetpackiem", "Lot jetpackiem nad bazą"),
-            ("podroze/jetpacki.png", "Jetpacki", "Wszystkie jetpacki (zwykłe i opancerzone) na stojakach"),
+        "## Plecaki odrzutowe": [
+            ("podroze/jetpack.gif", "Lot plecakiem odrzutowym", "Lot plecakiem odrzutowym nad bazą"),
+            ("podroze/jetpacki.png", "Plecaki odrzutowe", "Wszystkie cztery plecaki odrzutowe na stojakach"),
         ],
         "## Lotnie": [("podroze/lotnia.gif", "Lotnia", "Szybowanie lotnią z góry")],
         "## Windy": [("podroze/winda.gif", "Winda", "Skok w górę i kucnięcie w dół między windami")],
@@ -237,8 +237,8 @@ PLAN = {
             ("podroze/kamien-podrozy.png", "Kamień podróży", "Postawiony kamień podróży"),
             ("podroze/kamien-podrozy-menu.png", "Menu kamieni podróży", "Lista kamieni do teleportu"),
         ],
-        "## Łączniki refrenu": [("podroze/lacznik-refrenu.gif", "Łącznik refrenu", "Zjedzenie owocu refrenu i teleport na łącznik")],
-        "## Przekaźnik Kresu": [("podroze/przekaznik-kresu.gif", "Przekaźnik Kresu", "Ładowanie przekaźnika kryształem i teleport")],
+        "## Łączniki refrenusu": [("podroze/lacznik-refrenu.gif", "Łącznik refrenusu", "Zjedzenie owocu refrenusu i teleport na łącznik")],
+        "## Przekaźnik Endu": [("podroze/przekaznik-kresu.gif", "Przekaźnik Endu", "Ładowanie przekaźnika kryształem i teleport")],
         "## Łodzie": [("podroze/lodzie.png", "Nowe łodzie", "Kilka łodzi z nowych drewien na wodzie")],
     },
     "dodatki/groby.md": {
@@ -252,7 +252,7 @@ PLAN = {
             ("bloki/blockus-kamienie.png", "Kamienie i cegły", "Ściana próbek kamieni i cegieł Blockus"),
             ("bloki/blockus-kolorowe.png", "Kolorowe bloki", "Kolorowe kafelki, neony, lampy"),
         ],
-        "## Dawn of Time — tradycyjne budownictwo": [("bloki/dawn-of-time.png", "Tradycyjne budownictwo", "Dom z szachulca z dachówkami i pergolą")],
+        "## Tradycyjne budownictwo": [("bloki/dawn-of-time.png", "Tradycyjne budownictwo", "Dom z szachulca z dachówkami i pergolą")],
         "## Pionowe płyty": [("bloki/pionowe-plyty.png", "Pionowe płyty", "Przykład użycia pionowych płyt")],
         "### Świat Główny": [("bloki/drewno-swiat.png", "Nowe drewno", "Deski i kłody wszystkich nowych drzew")],
         "### Nether": [("bloki/drewno-nether.png", "Drewno z Netheru", "Deski, meble i szkło z Netheru")],
@@ -349,19 +349,19 @@ PLAN = {
         "## Rudy": [("nether/rudy.png", "Rudy Netheru", "Rudy: magma, wulkanit, duszmit, cincinnasite, rubin")],
     },
     "wymiary/kres/README.md": {
-        "# 👾 Kres": [("kres/panorama.png", "Kres", "Panorama wysp Kresu")],
+        "# 👾 End": [("kres/panorama.png", "End", "Panorama wysp Endu")],
     },
     "wymiary/kres/biomy.md": {
-        "# 🌌 Biomy": [("kres/biomy.png", "Biomy Kresu", "Kryształowe szczyty / krainy cieni")],
+        "# 🌌 Biomy": [("kres/biomy.png", "Biomy Endu", "Kryształowe szczyty / krainy cieni")],
     },
     "wymiary/kres/struktury.md": {
-        "# 🌆 Struktury": [("kres/zamek.png", "Zamek Kresu", "Zamek Kresu")],
+        "# 🌆 Struktury": [("kres/zamek.png", "Zamek Endu", "Zamek Endu")],
     },
     "wymiary/kres/potwory.md": {
         "# 😈 Potwory": [("kres/enderling.png", "Enderling", "Enderling i Ender Watchman")],
-        "## Stworzenia Kresu": [("kres/zjawa.gif", "Zjawa", "Latająca zjawa nad wyspami")],
+        "## Stworzenia Endu": [("kres/zjawa.gif", "Zjawa", "Latająca zjawa nad wyspami")],
     },
     "wymiary/kres/przedmioty.md": {
-        "## Rudy": [("kres/rudy.png", "Rudy Kresu", "Voidium, perłyt i enderyt w kamieniu Kresu")],
+        "## Rudy": [("kres/rudy.png", "Rudy Endu", "Voidium, perłyt i enderyt w kamieniu Endu")],
     },
 }

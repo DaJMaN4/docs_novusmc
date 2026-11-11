@@ -97,5 +97,5 @@ Automatyczny stół rzemieślniczy. Ustaw recepturę w menu, dostarczaj składni
 
 <figure><img src="../../.gitbook/assets/maszyny/ladowarka.png" alt="Ładowarka"><figcaption><p>Ładowarka</p></figcaption></figure>
 
-* **Ładowarka** — włóż do niej przedmiot na energię (np. [jetpack](../pojazdy.md#jetpacki)), a naładuje go (500 J/t).
+* **Ładowarka** — włóż do niej przedmiot na energię (np. [plecak odrzutowy](../pojazdy.md#plecaki-odrzutowe)), a naładuje go (500 J/t).
 * **Ładowarka Bezprzewodowa** — ładuje przedmioty w ekwipunku graczy stojących w zasięgu do 4 kratek (300 J/t).

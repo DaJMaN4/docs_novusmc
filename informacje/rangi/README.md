@@ -18,7 +18,7 @@ Rangi kupisz za **Ogniste Kryształy** w sklepie premium (**`/sklep`** lub **`/r
 | SVIP | 5 500 | 3 300 | — |
 | MVIP | 11 500 | 9 300 | 6 000 |
 
-Posiadając niższą rangę, wyższą kupisz taniej — o wartość rangi, którą już masz.
+Jeśli masz już niższą rangę, wyższą kupisz taniej — o cenę rangi, którą masz.
 
 {% hint style="info" %}
 Ogniste Kryształy kupisz w sklepie internetowym serwera (**novusmc.pl**). Zdobędziesz je też podczas eventów i w grach na czacie.

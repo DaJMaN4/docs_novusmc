@@ -60,7 +60,7 @@
   * [🏯 Struktury](wymiary/nether/struktury.md)
   * [🧛 Potwory](wymiary/nether/potwory.md)
   * [🌋 Biomy](wymiary/nether/biomy.md)
-* [👾 Kres](wymiary/kres/README.md)
+* [👾 End](wymiary/kres/README.md)
   * [⚒️ Przedmioty](wymiary/kres/przedmioty.md)
   * [🌆 Struktury](wymiary/kres/struktury.md)
   * [😈 Potwory](wymiary/kres/potwory.md)

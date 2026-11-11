@@ -38,21 +38,21 @@ Przynętę trzymasz w **drugiej ręce** podczas łowienia. Zwykłą przynętę z
 
 <figure><img src="../.gitbook/assets/wedkarstwo/skrzynia.gif" alt="Skrzynia z łowienia"><figcaption><p>Skrzynia z łowienia</p></figcaption></figure>
 
-Czasem zamiast ryby wyłowisz **skrzynię** — kliknij ją PPM, aby otworzyć. W zwykłej wodzie łowisz **drewniane skrzynie**, w lawie **obsydianowe**, a w Kresie **skrzynie Kresu**. Zawartość zależy od miejsca łowienia.
+Czasem zamiast ryby wyłowisz **skrzynię** — kliknij ją PPM, aby otworzyć. W zwykłej wodzie łowisz **drewniane skrzynie**, w lawie **obsydianowe**, a w Endzie **skrzynie Endu**. Zawartość zależy od miejsca łowienia.
 
-Każdą nową rybę możesz upiec — wyjdzie z niej **pieczona ryba**.
+Każdą nową rybę możesz upiec — wyjdzie z niej **Pieczona Ryba**.
 
 ## Ryby
 
 | Gdzie łowisz | Co złowisz |
 | --- | --- |
-| **Rzeki i jeziora** (woda słodka) | bass, bass niebieskoskrzeli, pstrąg tęczowy, okoń żółty, łosoś, szczupak, sum, miętowy karp, glinowiec, gupik (w ciepłym klimacie) |
-| **Ocean** (woda słona) | dorsz, łosoś, makrela, tuńczyk, karmazyn oceaniczny, pstrąg tęczowy, rozdymka, barakuda, żaglica; w ciepłych oceanach także ryby tropikalne i skalar |
+| **Rzeki i jeziora** (woda słodka) | okoń, niebieskoskrzeły okoń, tęczowy pstrąg, żółty okoń, łosoś, szczupak, sum, miętowy karp, glinowiec, gupik (w ciepłym klimacie) |
+| **Ocean** (woda słona) | dorsz, łosoś, makrela, tuńczyk, karmazyn oceaniczny, tęczowy pstrąg, rozdymka, barakuda, żaglica; w ciepłych oceanach także ryby tropikalne i skalar |
 | **Jaskinie** (pod ziemią) | jaskiniowy węgorz, jaskiniowy pełzacz, świetlik rybny, żabnica, żelazna tetra, kryształowa krewetka, pozłacana strzebla |
 | **Głębiny** (bardzo głęboko pod ziemią) | głębinowy granik, cienisty lucjan, świecąca meduza, otchłanny wędkarz, lazurowy świecik, krystaliczny karp, skalna tetra — i czasem złoto lub diament |
 | **Nether** (w lawie) | magmowa makrela, popielny okoń, spaczony gupik, karmazynowy kłoszczęk, duszołusk, witheropłetwiec, płonący miecznik — i czasem odłamki netherytu |
 | **Lawa w Świecie Głównym** | ość, żarowy koi, piekielny gupik, obsydianowy szczupak, wulkaniczny tuńczyk, fragmenty obsydianu |
-| **Kres** (w wodzie) | okoń z kamienia Kresu, enderopłetwiec, enderopatrzacz, purpurowy szczupak, dorsz chorusowy, **elytrout** |
+| **End** (w wodzie) | okoń z kamienia Endu, enderopłetwiec, enderopatrzacz, purpurowy szczupak, refrenusowy dorsz, **Elytrowy Pstrąg** |
 
 ### Ryby z biomów
 
@@ -60,7 +60,7 @@ Niektóre ryby żyją tylko w wodzie w konkretnym biomie:
 
 | Biom | Ryba |
 | --- | --- |
-| Gaj wiśniowy | Kwiecisty bass |
+| Gaj wiśniowy | Kwiecisty okoń |
 | Mroczne głębiny | Echopłetwy lucjan |
 | Jaskinie naciekowe | Naciekowy strzałek |
 | Bujne jaskinie | Trzepoczący skrzelak |
@@ -77,7 +77,7 @@ Niektóre ryby żyją tylko w wodzie w konkretnym biomie:
 | Las | Dębowiec |
 | Równiny | Prerowy szczupak |
 
-Specjalne łowiska: przy **monumencie oceanicznym** złowisz wodny cierń, pryzmaryn i mokre gąbki, a w **komnatach prób** — wiatrowego bassa, ładunki wiatru, a nawet ciężki rdzeń.
+Specjalne łowiska: przy **monumencie oceanicznym** złowisz wodny cierń, pryzmaryn i mokre gąbki, a w **komnatach prób** — wiatrowego okonia, ładunki wiatru, a nawet ciężki rdzeń.
 
 ## Łowienie w lawie
 
@@ -91,7 +91,7 @@ Wędką **obsydianową** albo **netherytową** możesz łowić w lawie. Spławik
 | --- | --- |
 | Ognisty homarzec | Odporność |
 | Obsydianowy miecznik | Odporność na ogień |
-| Parowa ryba latająca | Chodzenie po lawie |
+| Parowa latająca ryba | Chodzenie po lawie |
 | Ryba Agni | **Wieczny płomień** — twoje ataki podpalają |
 | Lawowa arowana, ślimak łuskonogi, krab yeti, lawowy minóg, kwarcowa ryba | |
 

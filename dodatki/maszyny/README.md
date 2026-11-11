@@ -12,10 +12,10 @@ Na serwerze zbudujesz całą fabrykę: generatory wytwarzają energię, kable j�
 
 ## Energia
 
-* Energię mierzy się w **J** (dżulach). Wartości „na tick” podajemy jako **J/t** — sekunda to 20 ticków.
+* Energię mierzy się w **J** (dżulach). **J/t** to dżule na tick — w jednej sekundzie jest 20 ticków, więc 100 J/t to 2000 J na sekundę.
 * Każda maszyna ma **własny magazyn energii**. Generatory i maszyny łączysz [kablami](logistyka.md#kable).
 * Nadmiar energii przechowasz w [ogniwach zasilających](logistyka.md#ogniwa-zasilajace).
-* Przedmioty na energię (np. [jetpacki](../pojazdy.md#jetpacki)) naładujesz w **Ładowarce** albo **Ładowarce Bezprzewodowej**.
+* Przedmioty na energię (np. [plecaki odrzutowe](../pojazdy.md#plecaki-odrzutowe)) naładujesz w **Ładowarce** albo **Ładowarce Bezprzewodowej**.
 
 ## Menu maszyny
 
@@ -98,4 +98,4 @@ Ulepszenie prędkości zwiększa też zużycie energii — łącz je z ulepszeni
 
 <figure><img src="../../.gitbook/assets/maszyny/klucz-kabel.gif" alt="Ustawianie kabla kluczem"><figcaption><p>Ustawianie kabla kluczem</p></figcaption></figure>
 
-**Klucz Francuski** stworzysz z 4 sztabek żelaza. Kliknij nim PPM kabel w miejscu, gdzie łączy się z maszyną, aby otworzyć **ustawienia połączenia**: czy kabel wkłada, czy wyjmuje przedmioty i płyny, z jakim priorytetem i na którym **kanale** (kanały pozwalają poprowadzić kilka niezależnych linii jednym kablem).
+**Klucz Francuski** stworzysz z 4 sztabek żelaza. Kliknij nim PPM kabel w miejscu, gdzie łączy się z maszyną, aby otworzyć **ustawienia połączenia**. Ustawisz tam, czy kabel wkłada, czy wyjmuje przedmioty i płyny, z jakim priorytetem i na którym **kanale**. Dzięki kanałom jednym kablem poprowadzisz kilka osobnych linii.

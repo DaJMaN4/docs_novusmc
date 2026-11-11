@@ -25,7 +25,7 @@ Młot kopie naraz obszar **3 × 3** bloki (blok, w który celujesz, i 8 wokół 
 | Diamentowy Młot | 1560 | 10 | diamentami |
 | Szmaragdowy Młot | 1560 | 7 | szmaragdami |
 | Ognisty Młot | 1560 | 6 | blokami magmy |
-| Endowy Młot | 1560 | 10 | perłami Kresu |
+| Endowy Młot | 1560 | 10 | enderperłami |
 | Netherytowy Młot | 2030 | 11 | sztabkami netherytu |
 | Obsydianowy Młot | 2500 | 7 | obsydianem |
 
@@ -62,7 +62,7 @@ Klątw nie da się wybrać.
 
 ## Inne
 
-* **Siatka na owady** — łapanie owadów, zobacz [Insekty](insekty.md).
+* **Siatka na Owady** — łapanie owadów, zobacz [Insekty](insekty.md).
 * **Wędki** i przynęty — zobacz [Wędkarstwo](wedkarstwo.md).
 * **Klucz Francuski** do maszyn i kabli — zobacz [Maszyny](maszyny/README.md#klucz).
 * **Klucz do Szuflad** — zobacz [Przechowywanie](przechowywanie.md#klucz-i-kontroler).

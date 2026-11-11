@@ -19,7 +19,7 @@ Menu rangi otworzysz komendą **`/svip`**. SVIP ma **wszystko, co VIP**, oraz:
 * **Sklepy skrzynkowe:** 30.
 * **Plecak** ulepszony do poziomu 9.
 * **Grawitacja drzew** — całe drzewo spada po ścięciu pnia (przełączasz w profilu albo **`/drwal`**).
-* **`/enderchest`** — skrzynia Kresu w dowolnym miejscu.
+* **`/enderchest`** — skrzynia Endu w dowolnym miejscu.
 * **Lepsze dropy na strefie AFK** — zobacz [porównanie](./#lepsze-dropy-na-strefie-afk).
 
 ## Klucze przy zakupie

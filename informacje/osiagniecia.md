@@ -14,10 +14,10 @@ W menu przy każdym osiągnięciu widzisz postęp, nagrodę i — przy kolekcjac
 
 | Kategoria | Osiągnięć | Przykłady |
 | --- | --- | --- |
-| 💎 **Postęp** | 34 | Pierwszy diament, wejście do Netheru i Kresu, Smok Kresu, Wither, Warden, poziomy umiejętności, czas gry, zaklinanie, handel z osadnikami. |
-| 🗺️ **Odkrywanie** | 24 | Odwiedzanie biomów (także nowych biomów zwykłego świata, Netheru i Kresu), odnajdywanie budowli, przebyte kilometry pieszo, wpław, na elytrach i konno, jazda pojazdem i lotnią. |
+| 💎 **Postęp** | 34 | Pierwszy diament, wejście do Netheru i Endu, Smok Endu, Wither, Warden, poziomy umiejętności, czas gry, zaklinanie, handel z osadnikami. |
+| 🗺️ **Odkrywanie** | 24 | Odwiedzanie biomów (także nowych biomów zwykłego świata, Netheru i Endu), odnajdywanie budowli, przebyte kilometry pieszo, wpław, na elytrach i konno, jazda pojazdem i lotnią. |
 | ⛏️ **Górnictwo** | 13 | Rudy diamentu, szmaragdu, żelaza, złota, kwarcu, miedzi, pradawne zgliszcza oraz rudy z nowych krain. |
-| ⚔️ **Łowy** | 16 | Pokonanie każdego potwora danego biomu (mroźne, pustynne, mroczne lasy, jaskinie, Nether, Kres), creeper i enderman z każdego biomu, zabijanie trójzębem, buzdyganem i łukiem. |
+| ⚔️ **Łowy** | 16 | Pokonanie każdego potwora danego biomu (mroźne, pustynne, mroczne lasy, jaskinie, Nether, End), creeper i enderman z każdego biomu, zabijanie trójzębem, buzdyganem i łukiem. |
 | ⭐ **Bossowie i wydarzenia** | 8 | Boss tygodnia, wszyscy minibossowie, ciosy i ostatni cios w piniatę. |
 | 🎒 **Kolekcje** | 22 | Trofea z nowych zwierząt, ekwipunek z trofeów, różne gatunki ryb, wystawione potrawy, robaki złapane siatką na owady, terraria, zdjęcia aparatem. |
 | 🧱 **Budowanie** | 8 | Stawianie mebli, wszystkie wanny, meble przytulnego domu, deski z nowych drzew. |
@@ -45,7 +45,7 @@ Wiele osiągnięć ma kilka poziomów (I, II, III, IV) — każdy kolejny wymaga
 
 **Wielkie osiągnięcia** są najtrudniejsze. Gdy ktoś je zdobędzie, cały serwer widzi ogłoszenie na czacie. Są to m.in.:
 
-* **Smokobójca** — pokonaj Smoka Kresu (5 000$),
+* **Smokobójca** — pokonaj Smoka Endu (5 000$),
 * **Cisza w Głębinach** — pokonaj Wardena (4 000$),
 * **Pogromca Bossów** — pokonaj każdego bossa tygodnia (15 000$),
 * **Weteran Bossów** — pokonaj 10 bossów tygodnia (10 000$),
@@ -70,7 +70,7 @@ Na serwerze jest **29 tytułów** w czterech rzadkościach:
 | Rzadkość | Przykładowe tytuły |
 | --- | --- |
 | **Legendarny** | Smokobójca, Pogromca Bossów, Władca Ciszy, Mistrz Alchemii, Mistrz Łowisk, Smakosz, Podróżnik, Weteran Bitew |
-| **Epicki** | Łowca Potworów, Szczęściarz, Netherytowy Rycerz, Pogromca Endermanów, Saper, Wędrowiec Kresu, Łakomczuch, Archeolog, Weteran Serwera |
+| **Epicki** | Łowca Potworów, Szczęściarz, Netherytowy Rycerz, Pogromca Endermanów, Saper, Wędrowiec Endu, Łakomczuch, Archeolog, Weteran Serwera |
 | **Rzadki** | Myśliwy, Zbrojmistrz, Hydraulik, Fotograf, Rolnik, Kupiec, Diamentowy Górnik, Górnik Nowych Krain, Nieśmiertelny, As Przestworzy |
 | **Zabawny** | Pechowiec, Skoczek w Pustkę |
 

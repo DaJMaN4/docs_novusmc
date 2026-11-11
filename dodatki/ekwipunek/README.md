@@ -19,7 +19,7 @@ Suma za pełny zestaw (4 części). Dla porównania: diamentowa zbroja to 20 pan
 | Magmowy | 15 | 2 | −3% obrażeń od ognia za część | [Zestawy z rud](zestawy-rud.md#magmowy) |
 | Shulkera | 16 | 4 | | [Zestawy z rud](zestawy-rud.md#shulkera) |
 | Wulkanitowy | 20 | 8 | −5% obrażeń od ognia za część | [Zestawy z rud](zestawy-rud.md#wulkanitowy) |
-| Kresowy (voidium) | 20 | 8 | | [Zestawy z rud](zestawy-rud.md#kresowy-voidium) |
+| Kresumowy (voidium) | 20 | 8 | | [Zestawy z rud](zestawy-rud.md#kresumowy-voidium) |
 | Duszmitowy | 20 | 14 | odporność na odrzut, −6% od ognia | [Zestawy z rud](zestawy-rud.md#duszmitowy) |
 | Topazowy | 20 | 14 | odporność na odrzut | [Zestawy z rud](zestawy-rud.md#topazowy) |
 | Perłytowy | 20 | 14 | odporność na odrzut | [Zestawy z rud](zestawy-rud.md#perlytowy) |
@@ -45,6 +45,5 @@ Narzędzia mają 250, a zbroja 350 punktów wytrzymałości.
 
 ## Inne źródła ekwipunku
 
-* [Jetpacki opancerzone](../pojazdy.md#jetpacki) działają jak napierśnik (do 8 pancerza).
 * [Ekwipunek z łupów potworów](zbroje.md#ekwipunek-z-lupow-potworow) — hełmy i napierśniki z umiejętnościami (np. Krokodyli Napierśnik do pływania, Skalisty Napierśnik do toczenia się). Zobacz też [Łupy z potworów](../lupy-z-potworow.md).
 * **Rozbójnicy** czasem upuszczają swoją zbroję: Napierśnik, Nogawice i Buty Rozbójnika.

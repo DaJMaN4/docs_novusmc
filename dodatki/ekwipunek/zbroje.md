@@ -48,7 +48,7 @@ Z materiałów, które wypadają z nowych zwierząt i potworów (zobacz [Łupy z
 | --- | --- | --- | --- | --- |
 | **Czapka Trapera** (hełm) | 3 | 2,5 | 187 | Szybsze skradanie się (kucanie) |
 | **Hełm Mroźnego Łowcy** | 3 | 0,5 | 99 | Mroźni Łowcy cię nie atakują, chodzą za tobą jak za przywódcą stada i atakują twoich wrogów; brak obrażeń od zamarzania |
-| **Okracznytowy Hełm** | 2 | 1 | 165 | Ochrona przed gorącem (niżej); sam hełm nie spłonie w lawie ani ogniu |
+| **Hełm Okracznika** | 2 | 1 | 165 | Ochrona przed gorącem (niżej); sam hełm nie spłonie w lawie ani ogniu |
 | **Krokodyli Napierśnik** | 7 | 1 | 352 | Szybsze pływanie |
 | **Skalisty Napierśnik** | 7 | 0,5 | 320 | Toczenie się (niżej) |
 
@@ -66,7 +66,7 @@ Z materiałów, które wypadają z nowych zwierząt i potworów (zobacz [Łupy z
 | --- | --- |
 | Czapka Trapera | skórzany hełm na środku, 5 × Niedźwiedzie Futro (górny rząd i boki środkowego rzędu), Ogon Szopa w dolnym rzędzie. Zamiast futra możesz użyć 5 skór królika. |
 | Hełm Mroźnego Łowcy | Róg Mroźnego Łowcy na górze, pod nim 5 × zbity lód ułożony jak hełm |
-| Okracznytowy Hełm | 3 × Okracznyt (na górze i po bokach) i 2 × nić w dolnych rogach |
+| Hełm Okracznika | 3 × Okracznyt (na górze i po bokach) i 2 × nić w dolnych rogach |
 | Krokodyli Napierśnik | 8 × Łuska Krokodyla, ułożone jak napierśnik |
 | Skalisty Napierśnik | 8 × Skalista Skorupa, ułożone jak napierśnik |
 
@@ -76,4 +76,4 @@ Z materiałów, które wypadają z nowych zwierząt i potworów (zobacz [Łupy z
 | --- | --- | --- |
 | **Marakas** | 3 × deski, Grzechotka Grzechotnika i patyk | Graj nim (PPM). Gracze w promieniu 8 kratek dostają **Szybkość I** i **Zwiększony skok I** na 10 sekund. Grzechotniki w pobliżu przestają cię atakować. |
 | **Napar z Rogu Gazeli** | Róg Gazeli + szklana butelka + cukier | Po wypiciu: **Szybkość II** na 60 sekund. |
-| **Tran** | 4 × Blobfish + szklana butelka (czasem wypada też z kaszalota) | Po wypiciu przez 60 sekund jesteś **naoliwiony**: w wodzie i w deszczu wypycha cię w górę (chyba że kucasz) i wolniej spadasz. |
+| **Tran** | 4 × Blobfisz + szklana butelka (czasem wypada też z kaszalota) | Po wypiciu przez 60 sekund jesteś **naoliwiony**: w wodzie i w deszczu wypycha cię w górę (chyba że kucasz) i wolniej spadasz. |

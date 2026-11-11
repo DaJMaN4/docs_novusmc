@@ -42,7 +42,7 @@ Ponad 70 mebli i dekoracji: krzesła, stołki, lampy, komody, łóżka, sofy, ł
 * **Przedmioty:** Złote Jabłka, Zaklęte Złote Jabłko, Totem Nieśmiertelności, Shulkerowa Skrzynia.
 * **Zaklęte księgi:** m.in. Naprawa, Niezniszczalność III, Wydajność IV, Ochrona III, Ostrość IV, Szczęście II, Łagodny Upadek IV, Moc IV.
 * **Lucky Bloki:** Dobry Lucky Blok, Lucky Blok Łupów, Lucky Blok Mobów.
-* **Ekwipunek z mobów:** Czapka Trapera, Okracznytowy Hełm, Hełm Mroźnego Łowcy, Marakas.
+* **Ekwipunek z mobów:** Czapka Trapera, Hełm Okracznika, Hełm Mroźnego Łowcy, Marakas.
 * **Totemy:** Wybuchowy, Upiorny i Teleportujący Totem Nieśmiertelności.
 * **Klucze:** 2× Kamienny, Eventowy, Kosmetyczny, a bardzo rzadko Legendarny.
 
@@ -56,7 +56,7 @@ Ponad 70 mebli i dekoracji: krzesła, stołki, lampy, komody, łóżka, sofy, ł
 
 ### Kosmetyczna
 
-Ponad 60 czapek i masek: kapelusze, okulary, słuchawki, wąsy, kaptury ze skór zwierząt i wiele innych. Najrzadsze to m.in. **Korona**, **Kapelusz ze Skóry Smoka Kresu**, **Legendarny Kaptur Kozy**, **Czapka Yeti** i **Przebranie Mikołaja**. Możesz też trafić kolejny Kosmetyczny Klucz.
+Ponad 60 czapek i masek: kapelusze, okulary, słuchawki, wąsy, kaptury ze skór zwierząt i wiele innych. Najrzadsze to m.in. **Korona**, **Kapelusz ze Skóry Smoka Endu**, **Legendarny Kaptur Kozy**, **Czapka Yeti** i **Przebranie Mikołaja**. Możesz też trafić kolejny Kosmetyczny Klucz.
 
 ### Legendarna
 

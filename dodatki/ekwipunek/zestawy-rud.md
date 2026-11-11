@@ -18,16 +18,16 @@ Z każdej rzadkiej rudy zrobisz pełny zestaw: **miecz, topór, kilof, łopatę,
 | Zestaw | Ruda — gdzie szukać | Rzadkość | Materiał | Moc |
 | --- | --- | --- | --- | --- |
 | [Magmowy](#magmowy) | Nether, Skupiska Magmy w blokach magmy (Y 20–40) | pospolita | Bryła Magmy | jak żelazo |
-| [Shulkera](#shulkera) | Kres — z shulkerów | — | skorupa shulkera | między żelazem a diamentem |
+| [Shulkera](#shulkera) | End — z shulkerów | — | skorupa shulkera | między żelazem a diamentem |
 | [Wulkanitowy](#wulkanitowy) | Nether, Ruda Wulkanitu w netherracku (Y 40–187) | rzadka | Sztabka Wulkanitu | jak diament |
-| [Kresowy (voidium)](#kresowy-voidium) | Kres, Ruda Kresum w kamieniu Kresu (Y 0–255) | rzadka | Sztabka Kresum | jak diament |
+| [Kresumowy (voidium)](#kresumowy-voidium) | End, Ruda Kresum w kamieniu Endu (Y 0–255) | rzadka | Sztabka Kresum | jak diament |
 | [Duszmitowy](#duszmitowy) | Nether, Ruda Duszmitu w netherracku (Y 4–160) | bardzo rzadka | Duszmit | lepszy niż netheryt |
 | [Topazowy](#topazowy) | Świat Główny, ruda topazu w łupku i czarnym kamieniu (Y −61 do −30) | bardzo rzadka | Topaz | lepszy niż netheryt |
-| [Perłytowy](#perlytowy) | Kres, Ruda Perłytu w kamieniu Kresu (Y 8–70) | — | Sztabka Perłytu | lepszy niż netheryt |
-| [Enderytowy](#enderytowy) | Kres, Ruda Enderytu w kamieniu Kresu (Y 0–255) | **legendarna** | Enderyt | **najmocniejszy** |
+| [Perłytowy](#perlytowy) | End, Ruda Perłytu w kamieniu Endu (Y 8–70) | — | Sztabka Perłytu | lepszy niż netheryt |
+| [Enderytowy](#enderytowy) | End, Ruda Enderytu w kamieniu Endu (Y 0–255) | **legendarna** | Enderyt | **najmocniejszy** |
 
 {% hint style="info" %}
-Na **spawnie** znajdziesz hologramy zestawów magmowego, wulkanitowego, kresowego, duszmitowego, topazowego i enderytowego. Każdy pokazuje, w jakim świecie i na jakiej wysokości szukać rudy oraz jak jest rzadka.
+Na **spawnie** znajdziesz hologramy zestawów magmowego, wulkanitowego, endowego, duszmitowego, topazowego i enderytowego. Każdy pokazuje, w jakim świecie i na jakiej wysokości szukać rudy oraz jak jest rzadka.
 {% endhint %}
 
 ## Broń i narzędzia
@@ -37,7 +37,7 @@ Na **spawnie** znajdziesz hologramy zestawów magmowego, wulkanitowego, kresoweg
 | Magmowy | 6 | 9 | 500 |
 | Shulkera | 6,5 | 9 | 1000 |
 | Wulkanitowy | 7 | 9 | 1561 |
-| Kresowy | 7 | 9 | 1561 |
+| Endowy | 7 | 9 | 1561 |
 | Duszmitowy | 8,5 | 10,5 | 2300 |
 | Topazowy | 8,5 | 10,5 | 2300 |
 | Perłytowy | 8,5 | 10,5 | 2300 |
@@ -52,7 +52,7 @@ Liczby to obrażenia ataku. Dla porównania diamentowy miecz zadaje 7, a nethery
 | Magmowy | 2 | 6 | 5 | 2 | 0,5 | −3% obrażeń od ognia |
 | Shulkera | 2 | 7 | 5 | 2 | 1 | buty: bezpieczny upadek z 2 kratek wyżej |
 | Wulkanitowy | 3 | 8 | 6 | 3 | 2 | −5% obrażeń od ognia |
-| Kresowy | 3 | 8 | 6 | 3 | 2 | |
+| Endowy | 3 | 8 | 6 | 3 | 2 | |
 | Duszmitowy | 3 | 8 | 6 | 3 | 3,5 | odporność na odrzut, −6% obrażeń od ognia |
 | Topazowy | 3 | 8 | 6 | 3 | 3,5 | odporność na odrzut |
 | Perłytowy | 3 | 8 | 6 | 3 | 3,5 | odporność na odrzut; buty: bezpieczny upadek z 3 kratek wyżej |
@@ -91,9 +91,9 @@ Liczby to obrażenia ataku. Dla porównania diamentowy miecz zadaje 7, a nethery
 W skrzyniach w Netherze zamiast diamentowego ekwipunku trafiają się przedmioty z wulkanitu.
 {% endhint %}
 
-## Kresowy (voidium)
+## Kresumowy (voidium)
 
-<figure><img src="../../.gitbook/assets/ekwipunek/kresowy.png" alt="Zestaw kresowy"><figcaption><p>Zestaw kresowy</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ekwipunek/kresowy.png" alt="Zestaw kresumowy"><figcaption><p>Zestaw kresumowy</p></figcaption></figure>
 
 * **Pustka** (miecz, topór): 15% szans na oślepienie celu.
 * **2 części:** −15% obrażeń od upadku.
@@ -119,11 +119,11 @@ W skrzyniach w Netherze zamiast diamentowego ekwipunku trafiają się przedmioty
 
 <figure><img src="../../.gitbook/assets/ekwipunek/perlytowy.png" alt="Zestaw perłytowy"><figcaption><p>Zestaw perłytowy</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ekwipunek/unik-kresu.gif" alt="Unik Kresu"><figcaption><p>Unik Kresu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ekwipunek/unik-kresu.gif" alt="Unik Endu"><figcaption><p>Unik Endu</p></figcaption></figure>
 
 * **Perłowy Odłamek** (miecz, topór): 20% szans na +30% obrażeń i spowolnienie celu.
 * **2 części:** −25% obrażeń od upadku.
-* **4 części — Unik Kresu:** 15% szans, że po otrzymaniu ciosu teleportujesz się kilka kratek dalej.
+* **4 części — Unik Endu:** 15% szans, że po otrzymaniu ciosu teleportujesz się kilka kratek dalej.
 
 ## Enderytowy
 

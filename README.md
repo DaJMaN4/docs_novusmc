@@ -24,10 +24,10 @@ Większość informacji znajdziesz też w grze — w menu głównym w zakładce 
 
 ## Wymiary
 
-<figure><img src=".gitbook/assets/ogolne/wymiary.png" alt="Świat Główny, Nether i Kres"><figcaption><p>Świat Główny, Nether i Kres</p></figcaption></figure>
+<figure><img src=".gitbook/assets/ogolne/wymiary.png" alt="Świat Główny, Nether i End"><figcaption><p>Świat Główny, Nether i End</p></figcaption></figure>
 
 Każdy wymiar ma nowe biomy, struktury, potwory i rudy:
 
 * [🌍 Świat Główny](wymiary/swiat-glowny/) — ponad 60 nowych biomów, ponad 70 nowych zwierząt, lochy i tawerny, topaz głęboko pod ziemią.
 * [🔥 Nether](wymiary/nether/) — cztery nowe biomy, wulkanit i duszmit.
-* [👾 Kres](wymiary/kres/) — voidium, perłyt i enderyt na odmienionych wyspach.
+* [👾 End](wymiary/kres/) — voidium, perłyt i enderyt na odmienionych wyspach.

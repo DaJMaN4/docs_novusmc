@@ -56,4 +56,4 @@ Trójzęby działają lepiej niż w zwykłym Minecrafcie:
 * Trójząb z **Lojalnością** wraca nawet z pustki pod światem i trafia z powrotem do tego samego miejsca w ekwipunku.
 * Gdy zabijesz moba trójzębem z Lojalnością, łupy i doświadczenie trafiają **prosto do ciebie**.
 * **Przebicie** rani wszystkie moby w wodzie i w deszczu, nie tylko morskie.
-* **Starszy Strażnik** upuszcza **fragment trójzębu**. Z 3 fragmentów i 2 odłamków pryzmarynu stworzysz trójząb.
+* **Starszy Strażnik** upuszcza **Fragment Trójzębu**. Z 3 fragmentów i 2 odłamków pryzmarynu stworzysz trójząb.

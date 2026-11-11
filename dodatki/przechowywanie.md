@@ -107,20 +107,20 @@ Ulepszenia tworzysz na **Szablonie Ulepszenia**.
 Plecaki, które nosisz jako przedmiot albo stawiasz na ziemi. Jest ich **44 wzory** — od standardowego, przez zwierzęce (krowi, lisi, smoczy), po surowcowe (diamentowy, netherytowy).
 
 * **Otwieranie:** PPM plecakiem w ręce. **Postawienie:** Shift + PPM na blok. Postawiony plecak otwierasz PPM, a zabierasz, niszcząc go — zawartość zostaje w środku.
-* Każdy plecak ma **dwa zbiorniki** na wodę albo lawę — włóż wiadro do slotu pod zbiornikiem.
+* **Standardowy Plecak** tworzysz ze skór, nici, skrzyni i dowolnej wełny. Pozostałe wzory powstają ze standardowego plecaka — zawartość zostaje.
 * Plecaka nie da się włożyć do innego plecaka.
 
 ### Poziomy
 
 Plecak ulepszasz, wkładając **Ulepszenie Poziomu** (Żelazne, Złote, Diamentowe, Netherytowe) do slotu w menu plecaka.
 
-| Poziom | Rzędów | Miejsc | Zbiornik (każdy) |
-| --- | --- | --- | --- |
-| Skórzany | 3 | 27 | 3 000 mB |
-| Żelazny | 5 | 45 | 5 000 mB |
-| Złoty | 7 | 63 | 7 000 mB |
-| Diamentowy | 9 | 81 | 9 000 mB |
-| Netherytowy | 11 | 99 | 11 000 mB |
+| Poziom | Rzędów | Miejsc |
+| --- | --- | --- |
+| Skórzany | 3 | 27 |
+| Żelazny | 5 | 45 |
+| Złoty | 7 | 63 |
+| Diamentowy | 9 | 81 |
+| Netherytowy | 11 | 99 |
 
 {% hint style="info" %}
 To co innego niż [plecak z komendy `/plecak`](../jak-grac/your-first-project.md#plecak), którego zawartość nie wypada po śmierci.

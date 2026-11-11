@@ -88,6 +88,6 @@ Prawie wszystko otworzysz z **menu głównego** — komenda **`/menu`**. Menu ma
 | Komenda | Ranga | Opis |
 | --- | --- | --- |
 | `/craft` | VIP | Podręczny stół rzemieślniczy. |
-| `/enderchest` | SVIP | Skrzynia Kresu w dowolnym miejscu. |
+| `/enderchest` | SVIP | Skrzynia Endu w dowolnym miejscu. |
 | `/kowadlo` | MVIP | Kowadło w dowolnym miejscu. |
 | `/naprawa` | MVIP | Naprawa przedmiotu w ręce (raz dziennie). |

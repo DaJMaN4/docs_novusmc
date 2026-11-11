@@ -22,4 +22,4 @@ Wędką obsydianową lub netherytową złowisz w lawie ryby i skarby. W Netherze
 
 ## Rośliny i drewno
 
-W nowych biomach rosną świecące i trujące rośliny: **błyszczące paprocie, kwiaty i bluszcz** na lśniących łąkach, **żarokiełki** i drzewa **żarodrzewu** w płonących zagajnikach, **kobaltowe korzenie** w czernitowych nieckach oraz **mykotoksyczne grzyby, trawa i stokrotki** w trującym poszyciu. Z żarodrzewu zrobisz deski, schody i inne bloki — zobacz [Bloki budowlane](../../dodatki/bloki-budowlane.md#nether).
+W nowych biomach rosną świecące i trujące rośliny: **błyszczące paprocie, kwiaty i bluszcz** na lśniących łąkach, **żarokiełki** i drzewa **żarodrzewu** w płonących zagajnikach, **Kobaltowe Korzenie** w czernitowych nieckach oraz **mykotoksyczne grzyby, trawa i stokrotki** w trującym poszyciu. Z żarodrzewu zrobisz deski, schody i inne bloki — zobacz [Bloki budowlane](../../dodatki/bloki-budowlane.md#nether).

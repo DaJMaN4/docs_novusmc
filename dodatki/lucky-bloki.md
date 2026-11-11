@@ -22,16 +22,17 @@ Lucky Bloki najszybciej zniszczysz **siekierą**. Świecą w ciemności, więc �
 | **Lucky Blok Mobów** | 2 | Świat Główny: głęboko w jaskiniach; Nether | zwierzaki, sojusznicy i hordy potworów |
 | **Lucky Blok Budowli** | 3 | na piasku, piaskowcu i terakocie (pustynie, plaże, badlandy) | domki, słupy rud, drzewa, klatki |
 | **Niebezpieczny Lucky Blok** | 3 | Nether | głównie pułapki — ale czasem świetne łupy |
-| **Ostateczny Lucky Blok** | 4 | wyspy Kresu; głęboko pod ziemią w Świecie Głównym (Y −60 do −30) | najlepsze łupy w grze, ale też Strażnik |
+| **Ostateczny Lucky Blok** | 4 | wyspy Endu; głęboko pod ziemią w Świecie Głównym (Y −60 do −30) | najlepsze łupy w grze, ale też Strażnik |
 
 Gdy ktoś rozbije **Ostateczny Lucky Blok**, cały serwer dostaje ogłoszenie.
 
 ## Skąd wziąć Lucky Bloki
 
 * **Świat** — rzadko generują się w nowo odkrywanych terenach (patrz tabela wyżej).
-* **Losowo obok ciebie** — co 15 minut każdy gracz w świecie przetrwania (Świat Główny, Nether, Kres i pozostałe światy do eksploracji — nie na spawnie) ma **20% szans**, że 16–48 kratek od niego pojawi się Lucky Blok. Dostajesz wtedy wiadomość. Nierozbity blok znika po **45 minutach**.
+* **Losowo obok ciebie** — co 15 minut masz **20% szans**, że 16–48 kratek od ciebie pojawi się Lucky Blok. Działa to w każdym świecie do przetrwania (Świat Główny, Nether, End i inne), ale nie na spawnie. Dostajesz wtedy wiadomość. Nierozbity blok znika po **45 minutach**.
 * **Okolica spawnu Świata Głównego** — co 20 minut w kwadracie 500 × 500 kratek wokół punktu odrodzenia pojawiają się 3 Lucky Bloki (cały serwer dostaje ogłoszenie). Nierozbite znikają po **2 godzinach**.
 * **Weekendowe łowy** — w soboty i niedziele od 16:00 do 22:00 nowe Lucky Bloki pojawiają się w okolicy spawnu **co 30 minut**. Zobacz [Wydarzenia](../informacje/osiagniecia.md#wydarzenia).
+* **Skrzynie w strukturach** — rzadko, pasujący rodzaj (np. Budowli w ruinach i na pustyniach, Niebezpieczny w Netherze, Ostateczny w Endzie i starożytnych miastach). Zobacz [Łupy w strukturach](../wymiary/swiat-glowny/struktury.md#lupy-w-strukturach).
 * **Piniata** i **skrzynie** — Lucky Bloki są wśród nagród. Zobacz [Skrzynie i Piniata](../informacje/skrzynki.md).
 * **Stół rzemieślniczy** — receptury niżej.
 
@@ -42,7 +43,7 @@ Gdy ktoś rozbije **Ostateczny Lucky Blok**, cały serwer dostaje ogłoszenie.
 | Świat Główny, na powierzchni | 51% | 15% | 15% | 10% | 8% | — | 1% |
 | Świat Główny, pod ziemią | 38% | — | 33% | 27% | — | — | 2% |
 | Nether | — | — | 17% | 23% | — | 57% | 2% |
-| Kres | — | — | 38% | — | — | 46% | 15% |
+| End | — | — | 38% | — | — | 46% | 15% |
 
 W okolicy spawnu pojawiają się Lucky Bloki w takich samych proporcjach jak na powierzchni Świata Głównego.
 
@@ -76,7 +77,7 @@ Zanim wylosujesz wynik, Lucky Blok może cię zaskoczyć:
 | 1 | lochów, kopalni, wraków, igloo, kowali w wioskach |
 | 2 | piramid, świątyń w dżungli, posterunków rozbójników, skarbów, rezydencji, zrujnowanych portali |
 | 3 | fortec Netheru, bastionów, twierdz, komnat prób |
-| 4 | skarbców bastionów, starożytnych miast, miast Kresu, złowieszczych komnat prób |
+| 4 | skarbców bastionów, starożytnych miast, miast Endu, złowieszczych komnat prób |
 
 Szanse poniżej dotyczą rzutu po tym, jak blok się nie zmienił ani nie podwoił.
 

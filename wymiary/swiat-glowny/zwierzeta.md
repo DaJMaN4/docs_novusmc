@@ -139,5 +139,5 @@ W świecie żyje kilkadziesiąt nowych zwierząt. Każde ma swoje ulubione biomy
 W świecie żyją też owady: motyle, ćmy Atlas, świetliki, biedronki, modliszki, żuki gnojowe, ślimaki, ptaszniki, ważki, skarabeusze i mrowiska. Możesz je łapać siatką — zobacz [Insekty](../../dodatki/insekty.md).
 
 {% hint style="info" %}
-Zwierzęta z Netheru i Kresu opisują strony [potworów Netheru](../nether/potwory.md) i [potworów Kresu](../kres/potwory.md).
+Zwierzęta z Netheru i Endu opisują strony [potworów Netheru](../nether/potwory.md) i [potworów Endu](../kres/potwory.md).
 {% endhint %}

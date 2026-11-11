@@ -16,7 +16,7 @@ Oprócz zwykłego totemu nieśmiertelności istnieje 7 nowych totemów. Każdy *
 | --- | --- | --- |
 | **Wybuchowy Totem Nieśmiertelności** | proch | Pod tobą odpala się dynamit, a ty dostajesz Odporność IV, która osłania cię przed wybuchem. |
 | **Żądlący Totem Nieśmiertelności** | blok miodu | Przywołuje 6 pszczół, które bronią właściciela. |
-| **Teleportujący Totem Nieśmiertelności** | 4 perły Kresu (w rogach) + 4 oczy Kresu | Przenosi cię do punktu odrodzenia. Działa też, gdy **wpadniesz w pustkę**. |
+| **Teleportujący Totem Nieśmiertelności** | 4 enderperły (w rogach) + 4 oczy Endera | Przenosi cię do punktu odrodzenia. Działa też, gdy **wpadniesz w pustkę**. |
 | **Upiorny Totem Nieśmiertelności** | łza ghasta | Unosi cię w górę i daje odporność na ogień. |
 | **Szkieletowy Totem Nieśmiertelności** | kość | Efekt **Snajper**: twoje pociski zadają podwójne obrażenia. |
 | **Mackowaty Totem Nieśmiertelności** | torbiel z atramentem | Efekt **Głowonóg**: oślepiasz tych, których atakujesz, i tych, którzy atakują ciebie. |

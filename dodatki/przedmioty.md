@@ -20,7 +20,7 @@ Wszystkie przedmioty przejrzysz w grze komendą **`/nova items`** albo w menu g�
 | **Bloki naturalne** | Rudy, rośliny, liście, gleba |
 | **Bloki funkcjonalne** | Meble, szafki, szuflady, talerze, nagrobki, pułapki, windy, Lucky Bloki |
 | **Mechanizmy** | Maszyny, kable, piece, skrzynie, ulepszenia |
-| **Narzędzia** | Narzędzia, młoty, wędki, przynęty, plecaki, jetpacki, pojazdy |
+| **Narzędzia** | Narzędzia, młoty, wędki, przynęty, plecaki, plecaki odrzutowe, pojazdy |
 | **Walka** | Broń, zbroje, totemy |
 | **Jedzenie i napoje** | Potrawy i napoje |
 | **Składniki** | Sztabki, pyły, części i materiały |
@@ -46,7 +46,7 @@ Każdy przedmiot w menu ma **opis**. W widoku receptury, w prawym górnym rogu, 
 | szybszego przetapiania | [Piece](piece.md), [Elektryczny Piec](maszyny/przetwarzanie.md#piec-elektryczny) |
 | więcej sztabek z rud | [Rozdrabniacz](maszyny/przetwarzanie.md#rozdrabniacz) |
 | konkretnych zaklęć | [Stół Nasycania Zaklęć](narzedzia.md#stol-nasycania-zaklec) |
-| latania | [Jetpacki](pojazdy.md#jetpacki) |
+| latania | [Plecaki odrzutowe](pojazdy.md#plecaki-odrzutowe) |
 | mebli do domu | [Meble](meble.md) |
 | ochrony przed śmiercią | [Totemy](ekwipunek/totemy.md), [Groby](groby.md) |
 
@@ -63,7 +63,7 @@ Zniszcz **Lucky Blok**, aby sprawdzić swoje szczęście! Może wypaść coś ce
 | **Lucky Blok Łupów** | wszędzie, najczęściej pod ziemią | bloki złota, skrzynie, podajnik, Lucky Blok |
 | **Lucky Blok Mobów** | Świat Główny (często pod ziemią), Nether | kości, nić, zgniłe mięso, proch, podajnik, Lucky Blok |
 | **Lucky Blok Budowli** | Świat Główny | cegły, kamienne cegły, podajnik, Lucky Blok |
-| **Niebezpieczny Lucky Blok** | Nether, Kres | TNT, płomienny proszek, podajnik, Lucky Blok |
-| **Ostateczny Lucky Blok** | rzadko wszędzie, częściej w Kresie | bloki diamentów, gwiazda Netheru, odłamki netherytu, podajnik, Lucky Blok |
+| **Niebezpieczny Lucky Blok** | Nether, End | TNT, płomienny proszek, podajnik, Lucky Blok |
+| **Ostateczny Lucky Blok** | rzadko wszędzie, częściej w Endzie | bloki diamentów, gwiazda Netheru, odłamki netherytu, podajnik, Lucky Blok |
 
 Lucky Bloki pojawiają się co jakiś czas **w pobliżu graczy** (dostaniesz wiadomość na czacie) oraz w okolicy spawnu. Niezniszczony Lucky Blok po pewnym czasie znika. Wszystkie rodzaje, przepisy i możliwe wyniki znajdziesz na stronie [Lucky Bloki](lucky-bloki.md).

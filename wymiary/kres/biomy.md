@@ -1,18 +1,18 @@
 ---
-description: Wszystkie 16 biomów Kresu — 14 nowych (lasy refrenu, cieniste lasy, kryształowe góry, megajeziora) i 2 zwykłe.
+description: Wszystkie 16 biomów Endu — 14 nowych (lasy refrenusu, cieniste lasy, kryształowe góry, megajeziora) i 2 zwykłe.
 ---
 
 # 🌌 Biomy
 
-<figure><img src="../../.gitbook/assets/kres/biomy.png" alt="Biomy Kresu"><figcaption><p>Biomy Kresu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kres/biomy.png" alt="Biomy Endu"><figcaption><p>Biomy Endu</p></figcaption></figure>
 
-W Kresie jest **16 biomów**. Środkowa wyspa ze Smokiem Kresu wygląda jak w zwykłym Minecrafcie, ale zewnętrzne wyspy mają **14 nowych biomów** (nazwy w grze są po angielsku).
+W Endzie jest **16 biomów**. Środkowa wyspa ze Smokiem Endu wygląda jak w zwykłym Minecrafcie, ale zewnętrzne wyspy mają **14 nowych biomów** (nazwy w grze są po angielsku).
 
 ## Lasy
 
 | Biom | |
 | --- | --- |
-| **Chorus Forest** | Las refrenu z fioletowymi drzewami pytadendronu i refrenową trawą. |
+| **Chorus Forest** | Las refrenusu z fioletowymi drzewami pytadendronu i refrenusową trawą. |
 | **Shadow Forest** | Mroczny, cienisty las ze smoczymi drzewami i cienistymi jagodami. |
 | **Umbrella Jungle** | Dżungla z drzewami parasolowymi i galaretnikami. |
 | **Blossoming Spires** | Skalne iglice porośnięte kwitnącymi drzewami tenanei. |
@@ -40,5 +40,5 @@ W Kresie jest **16 biomów**. Środkowa wyspa ze Smokiem Kresu wygląda jak w zw
 
 | Biom | |
 | --- | --- |
-| **The End** (Kres) | Środkowa wyspa ze Smokiem Kresu i obsydianowymi filarami. |
-| **Small End Islands** (małe wyspy Kresu) | Drobne wysepki w pustce między dużymi wyspami. |
+| **The End** (End) | Środkowa wyspa ze Smokiem Endu i obsydianowymi filarami. |
+| **Small End Islands** (małe wyspy Endu) | Drobne wysepki w pustce między dużymi wyspami. |

@@ -69,12 +69,12 @@ Przepisy wszystkich potraw zobaczysz w menu przedmiotów (**`/nova items`**, zak
 | Mięso węża | grzechotnik |
 | Żabie udka | podeszczowik pustynny, spaczona żaba |
 | Mięso rekina | rekin młot, płaszczak |
-| Mięso kangura | kangur — zrobisz z niego **burger z kangura** |
+| Mięso kangura | kangur — zrobisz z niego **Burger z Kangura** |
 | Żeberka łosia | łoś |
 | Ogon homara | homar |
 | Sum | sum |
 
-Inne przysmaki: **Ryba Latająca**, **Kosmiczny Dorsz** (z Kresu), **Blobfish** i **Tran** (czasem z kaszalota). O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
+Inne przysmaki: **Latająca Ryba**, **Kosmiczny Dorsz** (z Endu), **Blobfisz** i **Tran** (czasem z kaszalota). O rybach z wędki przeczytasz w [Wędkarstwie](wedkarstwo.md).
 
 ## Wystawianie jedzenia
 
